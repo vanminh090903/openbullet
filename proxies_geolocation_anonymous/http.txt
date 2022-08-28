@@ -1,31 +1,57 @@
-130.41.55.190:8080|United States|California|Los Angeles
-130.41.15.76:8080|United States|Colorado|Denver
 145.40.73.107:9443|Singapore|North West|Singapore
-130.41.41.175:8080|United States|Georgia|Atlanta
-192.154.194.170:8000|United States|Minnesota|Minneapolis
+201.150.116.49:999|Mexico|Hidalgo|Atitalaquia
+130.41.15.76:8080|United States|Colorado|Denver
 193.36.39.35:80|Turkey|Ankara|Ankara
-190.107.233.232:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-45.191.130.158:45005|Brazil|Bahia|Sao Jose
-154.83.29.205:999|Venezuela|Distrito Federal|Caracas
-91.93.118.3:8090|Turkey|Ankara|Ankara
-103.29.185.54:8181|Indonesia|North Sumatra|Medan
-186.10.252.90:999|Chile|Santiago Metropolitan|Santiago
-45.174.98.3:999|Mexico|Quintana Roo|Cancún
-103.159.68.147:8080|India|Rajasthan|Jaipur
+170.83.79.153:999|Venezuela|Distrito Federal|Caracas
+202.29.237.212:3128|Thailand|Bangkok|Bangkok
+114.4.104.254:3128|Indonesia|Jakarta|Jakarta
+149.56.96.252:9300|Poland|Mazovia|Warsaw
+198.27.74.6:9300|Croatia|City of Zagreb|Zagreb
+36.95.173.178:8080|Indonesia|West Java|Bekasi
+190.131.192.134:999|Colombia|Departamento de Santander|Bucaramanga
+31.145.154.138:9093|Turkey|Kocaeli|Kosekoy
+50.233.228.147:8080|United States|Colorado|Fort Collins
+176.192.70.58:8006|Russia|Moscow|Moscow
+125.228.43.81:8080|Taiwan|Taipei City|Taipei
+187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
+154.83.29.206:999|Venezuela|Distrito Federal|Caracas
+167.172.178.68:34451|United States|New York|New York
+36.95.15.147:8080|Indonesia|Jakarta|Jakarta
+200.26.190.74:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
+185.82.99.58:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
+190.109.16.147:999|Colombia|Departamento de Tolima|Ibague
+103.155.198.64:8080|Indonesia|West Java|Karawang
+103.131.18.211:3125|Indonesia|Central Java|Purbayan
+45.189.254.10:999|Mexico|Veracruz|Alvarado
+102.68.128.219:8080|Libya|Tripoli|Tripoli
+103.145.57.50:8080|Bangladesh|Rajshahi Division|Dupchanchia
+202.180.30.131:8080|Indonesia|East Java|Malang
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+88.99.216.114:9001|United Kingdom|England|London
+41.76.221.33:8088|South Africa|Gauteng|Pretoria
+186.148.184.130:999|Colombia|Bogota D.C.|Bogotá
+41.220.238.137:84|Kenya|Nairobi Province|Nairobi
+130.41.41.175:8080|United States|Georgia|Atlanta
+177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
+200.125.171.201:9991|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
+181.225.107.50:999|Colombia|Departamento del Huila|Neiva
+102.134.127.15:8080|South Africa|Western Cape|Cape Town
+45.174.79.1:999|Mexico|Chihuahua|Chihuahua City
+8.242.176.37:9992|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+103.215.177.212:80|Indonesia|Central Java|Surakarta
+106.14.64.22:1080|Australia|New South Wales|Sydney
+103.84.131.110:83|India|Madhya Pradesh|Barhi
+102.68.128.215:8080|Libya|Tripoli|Tripoli
+45.167.23.30:999|Argentina|Cordoba|Villa de Soto
+103.36.35.135:8080|Indonesia|Jakarta|Jakarta
+154.64.211.145:999|France|Île-de-France|Paris
+103.73.74.22:2021|Indonesia|West Java|Karawang
 221.215.124.214:10080|Hong Kong|Sai Kung District|Tai Wan
-103.81.214.235:83|India|Uttarakhand|Gopeshwar
-110.78.112.198:8080|Thailand|Chiang Mai|Chiang Mai
-190.107.237.14:999|Ecuador|Provincia del Guayas|Milagro
-103.78.36.163:46977|Indonesia|Banten|Tangerang
-190.107.233.230:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-157.100.53.106:999|Ecuador|Provincia de El Oro|Machala
-190.107.237.24:999|Ecuador|Provincia del Guayas|Milagro
-154.83.29.203:999|Venezuela|Distrito Federal|Caracas
-106.0.48.132:8080|Indonesia|Riau|Batam
-45.189.113.63:999|Ecuador|Provincia del Guayas|Milagro
-200.13.154.45:8080|Bolivia|Departamento de Tarija|Tarija
-103.215.207.85:83|India|Chhattisgarh|Kanker
-45.225.88.130:8080|Ecuador|Provincia de Pichincha|Quito
-186.3.38.201:999|Ecuador|Provincia del Azuay|Cuenca
-185.182.222.178:8080|Iran|Tehran|Tehran
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+103.140.142.65:9812|India|Haryana|Gurgaon
+152.231.25.198:60080|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+103.130.70.253:84|India|West Bengal|Siliguri
+187.188.17.138:1994|Mexico|Querétaro|Querétaro City
+38.10.247.165:9991|United States|Florida|Boca Raton
+103.165.251.5:3125|Indonesia|East Java|Jember
+45.160.78.9:999|Argentina|Mendoza|Mendoza
+102.68.128.216:8080|Libya|Tripoli|Tripoli
