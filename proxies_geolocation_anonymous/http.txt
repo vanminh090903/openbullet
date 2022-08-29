@@ -1,48 +1,38 @@
 145.40.73.107:9443|Singapore|North West|Singapore
 130.41.15.76:8080|United States|Colorado|Denver
-27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-103.48.68.35:83|India|Telangana|Hyderabad
-139.224.226.158:1080|Poland|Mazovia|Warsaw
-103.165.1.2:8080|Indonesia|East Kalimantan|Samarinda
-36.95.177.177:8080|Indonesia|West Nusa Tenggara|Mataram
-158.69.72.138:9300|Germany|North Rhine-Westphalia|Bonn
-47.253.0.126:31775|United States|Virginia|Charlottesville
 130.41.41.175:8080|United States|Georgia|Atlanta
-175.101.85.33:8080|India|Andhra Pradesh|Vijayawada
-88.255.101.227:8080|Turkey|Istanbul|Orhanlı
-38.49.131.162:999|Mexico|Guanajuato|Huanimaro
-170.0.87.200:999|Argentina|Misiones|Andresito
-158.69.53.132:9300|Croatia|City of Zagreb|Zagreb
-130.41.55.190:8080|United States|California|Los Angeles
-103.53.1.115:8080|Indonesia|Jakarta|Jakarta
-103.148.28.11:3125|Indonesia|West Java|Cirebon
-181.225.54.3:999|Venezuela|Distrito Federal|Caracas
-181.209.116.186:8090|Argentina|Buenos Aires|Benavidez
-103.36.35.135:8080|Indonesia|Jakarta|Jakarta
-221.215.124.214:10080|Hong Kong|Sai Kung District|Tai Wan
-102.38.5.161:8080|Libya|Tripoli|Tripoli
-157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
-170.0.86.144:999|Argentina|Misiones|Andresito
-103.111.214.106:3129|Indonesia|West Java|Bekasi
-139.255.72.220:8080|Indonesia|North Sumatra|Medan
-191.97.16.111:999|Venezuela|Distrito Federal|Caracas
-182.253.26.196:8080|Indonesia|Jakarta|Jakarta
-106.14.64.22:1080|Australia|New South Wales|Sydney
-71.19.249.118:8001|United Kingdom|England|Sheffield
-103.48.68.35:84|India|Telangana|Hyderabad
-36.94.183.153:8080|Indonesia|West Java|Bekasi
-190.109.205.253:999|Honduras|Departamento de Olancho|Juticalpa
-103.48.68.36:84|India|Telangana|Hyderabad
-103.254.107.27:8080|Indonesia|Jakarta|Ulujami
-200.54.101.219:999|Chile|Santiago Metropolitan|Santiago
-196.251.222.229:8080|South Africa|North West|Brits
-167.172.173.210:43435|Netherlands|North Holland|Amsterdam
-102.68.135.21:8080|Libya|Tripoli|Tripoli
-103.106.193.117:7532|India|Uttar Pradesh|Ghaziabad
-45.184.155.17:999|Argentina|Buenos Aires|Merlo
-201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
-190.110.99.216:999|Chile|Atacama|Copiapó
-190.110.99.102:999|Chile|Atacama|Copiapó
-200.143.88.150:8080|Brazil|Rio de Janeiro|Rio de Janeiro
-80.249.187.83:8080|Russia|St.-Petersburg|St Petersburg
+193.36.39.35:80|Turkey|Ankara|Ankara
+176.192.70.58:8002|Russia|Moscow|Moscow
+139.224.165.41:1080|United Kingdom|England|London
+176.192.70.58:8006|Russia|Moscow|Moscow
+27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
+190.107.237.22:999|Ecuador|Provincia del Guayas|Milagro
+45.189.254.26:999|Mexico|Veracruz|Alvarado
+157.100.53.106:999|Ecuador|Provincia de El Oro|Machala
 201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+130.41.55.190:8080|United States|California|Los Angeles
+45.170.100.128:999|Chile|Santiago Metropolitan|Buin
+37.205.14.92:5566|Austria|Vienna|Vienna
+187.19.200.225:8080|Brazil|Ceara|Pereiro
+167.172.178.193:37105|Netherlands|North Holland|Amsterdam
+103.148.209.141:8282|Indonesia|East Java|Kediri
+45.175.236.80:999|Mexico|Hidalgo|Huitel
+43.243.174.26:83|India|Maharashtra|Pune
+202.180.30.131:8080|Indonesia|East Java|Malang
+190.107.237.13:999|Ecuador|Provincia del Guayas|Milagro
+200.106.187.242:999|Argentina|Buenos Aires|Llavallol
+71.19.249.118:8001|United States|New York|Rochester
+45.225.88.130:8080|Ecuador|Provincia de Pichincha|Quito
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+103.36.10.194:3125|Indonesia|Banten|Dahu
+27.131.179.220:10443|Thailand|Phra Nakhon Si Ayutthaya|Ayutthaya
+45.179.200.129:999|Colombia|Bogota D.C.|Bogotá
+201.222.45.69:999|Chile|Santiago Metropolitan|Santiago
+200.55.254.1:6969|Ecuador|Provincia del Guayas|Guayaquil
+181.209.116.186:8090|Argentina|Buenos Aires|Benavidez
+103.159.68.147:8080|India|Rajasthan|Jaipur
+190.107.233.229:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+200.123.228.16:999|Peru|Lima|Lima
+117.54.11.85:3128|Indonesia|Jakarta|Jakarta
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
