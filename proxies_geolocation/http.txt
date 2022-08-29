@@ -1,138 +1,128 @@
-51.79.161.75:8080|Singapore|Central Singapore|Singapore
-103.153.247.35:3125|Indonesia|Jakarta|Jakarta
-183.88.79.89:8080|Thailand|Bangkok|Bangkok
+202.29.237.210:3128|Thailand|Bangkok|Bangkok
+43.154.59.100:33080|Hong Kong|Central and Western District|Hong Kong
 145.40.73.107:9443|Singapore|North West|Singapore
-210.239.71.154:8080|Japan|Tokyo|Chiyoda
-129.226.41.41:8080|India|Maharashtra|Mumbai
 130.41.55.190:8080|United States|California|Los Angeles
-103.39.49.46:8080|Indonesia|West Java|Cirebon
-130.41.15.76:8080|United States|Colorado|Denver
-130.41.41.175:8080|United States|Georgia|Atlanta
-121.156.109.108:8080|South Korea|Gyeonggi-do|Seongnam-si
-36.90.149.3:80|Indonesia|South Sulawesi|Makassar
-193.53.87.222:33128|Turkey|Bursa|Bursa
-143.244.45.5:3128|Ukraine|Kyiv City|Kyiv
-193.53.87.219:33128|Turkey|Bursa|Bursa
-193.36.39.35:80|Turkey|Ankara|Ankara
-89.208.219.121:8080|Netherlands|North Holland|Amsterdam
-20.101.16.35:8080|Netherlands|North Holland|Amsterdam
-92.241.102.47:3128|Russia|Smolenskaya Oblast’|Smolensk
-49.156.47.162:8080|Cambodia|Phnom Penh|Phnom Penh
-193.53.87.220:33128|Turkey|Bursa|Bursa
-103.125.162.134:83|India|Telangana|Hyderabad
-123.200.11.158:8080|Bangladesh|Dhaka Division|Dhaka
+117.157.67.56:7302|?|?|?
+103.143.195.94:8080|Indonesia|North Sumatra|Medan
 103.169.254.57:3125|Indonesia|East Java|Pasuruan
-103.220.204.101:59570|Bangladesh|Chittagong|Feni
-149.57.188.8:3128|Netherlands|North Holland|Amsterdam
-158.69.72.138:9300|Romania|Bucharest|Bucharest
-39.107.239.209:80|China|Beijing|Beijing
+36.79.229.139:80|Indonesia|East Java|Mojokerto
+119.42.152.252:8080|India|National Capital Territory of Delhi|Delhi
+103.39.49.46:8080|Indonesia|West Java|Cirebon
+130.41.41.175:8080|United States|Georgia|Atlanta
+109.74.197.141:18028|United Kingdom|England|London
+103.102.15.222:8080|Indonesia|West Nusa Tenggara|Kembangkerang Lauk Timur
+103.145.128.179:8088|Indonesia|Jakarta|Jakarta
+121.156.109.108:8080|South Korea|Gyeonggi-do|Seongnam-si
+103.159.46.25:84|India|Gujarat|Ahmedabad
+109.74.197.141:18036|United Kingdom|England|London
+128.90.147.124:8118|Belgium|Brussels Capital|Brussels
+45.189.253.177:999|Mexico|Veracruz|San Sabastian Tierra Blanca
+58.32.8.39:8090|China|Shanghai|Shanghai
+103.131.18.211:3125|Indonesia|Central Java|Purbayan
+143.244.45.5:3128|Ukraine|Kyiv City|Kyiv
+95.216.12.141:22207|Sweden|Östergötland|Linköping
+176.192.70.58:8002|Russia|Moscow|Moscow
+111.118.138.151:8181|Cambodia|Phnom Penh|Phnom Penh
+193.53.87.219:33128|Turkey|Bursa|Bursa
 201.71.2.97:999|Venezuela|Distrito Federal|Caracas
-114.4.104.254:3128|Indonesia|Jakarta|Jakarta
-133.130.108.201:8080|Japan|Tokyo|Chiyoda
-190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-103.48.68.36:83|India|Telangana|Hyderabad
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-88.255.101.232:8080|Turkey|Istanbul|Orhanlı
-47.108.137.58:33080|China|Zhejiang|Hangzhou
-189.157.199.202:999|Mexico|San Luis Potosí|San Luis Potosí City
-200.85.183.98:8080|Argentina|Neuquen|Neuquén
-117.54.238.62:8080|Indonesia|Jakarta|Jakarta
-103.123.64.24:8888|Indonesia|Jakarta|Jakarta
-45.189.254.150:999|Mexico|Oaxaca|Tetela
-131.255.134.144:8080|Brazil|Santa Catarina|Joinville
-47.254.248.149:8080|Malaysia|Kuala Lumpur|Kuala Lumpur
-202.77.120.38:57965|Indonesia|Jakarta|Jakarta
-77.235.2.4:3128|Kyrgyzstan|Osh Oblasty|Osh
-77.52.187.199:10000|Ukraine|Dnipropetrovsk Oblast|Shyroke
-200.125.171.57:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
-192.154.212.19:8000|United States|Oregon|Portland
-89.232.202.109:3128|Russia|Khanty-Mansia|Khanty-Mansiysk
-113.161.59.136:8080|Vietnam|Ho Chi Minh|Ho Chi Minh City
-45.153.165.118:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
-190.107.237.2:999|Ecuador|Provincia del Guayas|Milagro
-118.136.85.203:8080|Indonesia|Jakarta|Jakarta
-103.105.55.113:8181|Indonesia|Central Java|Klaten
-45.230.168.17:999|Venezuela|Distrito Federal|Caracas
-202.152.143.64:3128|Indonesia|Yogyakarta|Yogyakarta
-121.100.19.195:8080|Indonesia|East Java|Mojosari
-201.220.102.146:8080|Chile|Los Ríos Region|Valdivia
-200.123.228.16:999|Peru|Lima|Lima
-139.224.165.41:1080|United Kingdom|England|London
-58.254.141.70:8998|Hong Kong|Central and Western District|Central
-146.120.170.2:8889|Ukraine|Ternopil Oblast|Monastyryska
-159.223.57.221:443|Singapore|South West|Singapore
-45.77.7.137:9091|United States|California|San Jose
-92.60.190.22:50335|Ukraine|Kyiv City|Kyiv
-180.191.22.200:8080|Philippines|Central Luzon|Pandi
-152.169.106.145:8080|Argentina|Neuquen|Neuquén
-201.222.45.68:999|Chile|Santiago Metropolitan|Santiago
-190.220.1.173:56974|Argentina|Buenos Aires|Ciudadela
-218.1.142.72:57114|China|Shanghai|Shanghai
-203.150.128.57:8080|Thailand|Bangkok|Watthana
-36.94.47.62:4480|Indonesia|Jakarta|Jakarta
-45.190.170.0:999|Peru|Lima|Lima
-202.137.121.109:8080|Philippines|Davao|Davao City
-200.8.188.25:999|Venezuela|Yaracuy|Yaritagua
-45.224.99.90:999|Ecuador|Provincia de Manabi|Picoaza
-1.20.163.24:8080|Thailand|Bangkok|Bangkok
-177.124.184.52:8080|Brazil|Rondonia|Ji Parana
-196.2.15.68:8080|Burundi|Bururi Province|Bururi
-103.168.44.137:3127|Indonesia|Central Java|Tegal
-202.137.3.209:3888|Indonesia|Jakarta|Jakarta
-195.135.243.41:8080|Russia|Moscow Oblast|Krasnozavodsk
-93.91.112.247:41258|Russia|Tver Oblast|Tver
-27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-213.5.190.194:41890|Kazakhstan|Almaty|Almaty
-61.19.145.66:8080|Thailand|Chiang Mai|Chiang Mai
-191.97.16.118:999|Venezuela|Distrito Federal|Caracas
-183.89.72.200:8080|Thailand|Nakhon Ratchasima|Pak Chong
-181.225.68.29:999|Colombia|Bogota D.C.|Bogotá
-221.215.124.214:10080|Hong Kong|Sai Kung District|Tai Wan
-36.66.19.10:8080|Indonesia|Jakarta|Jakarta
+38.10.252.248:999|United States|Florida|Miami
+103.11.106.214:8181|Indonesia|East Java|Magetan
+103.105.228.134:8080|India|Maharashtra|Mumbai
+203.84.153.210:8080|Indonesia|Jakarta|Kuningan Barat
+202.166.220.176:8080|Nepal|Bagmati Province|Kathmandu
+113.160.155.129:19132|Vietnam|Tinh Bac Ninh|Bac Ninh
+46.101.126.180:37505|Germany|Land Berlin|Berlin
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+36.95.75.3:8080|Indonesia|Jakarta|Pegangsaan Dua
+181.209.116.20:999|Argentina|Santa Cruz|Pico Truncado
+186.248.89.6:5005|Brazil|Minas Gerais|Ibirite
+77.225.198.220:9812|Spain|Madrid|Madrid
+103.148.201.76:8080|Indonesia|East Java|Balerejo
+39.104.166.105:3129|China|Beijing|Beijing
+111.225.153.110:8089|China|Hebei|Gaocheng
+80.250.25.85:8080|Czechia|Hlavni mesto Praha|Prague
+186.47.83.126:8080|Ecuador|Provincia de Pichincha|Quito
+201.222.45.65:999|Chile|Santiago Metropolitan|Santiago
+203.160.174.82:8091|Philippines|Metro Manila|Caloocan City
+103.133.61.38:8181|Indonesia|Lampung|Metro
+110.77.134.106:8080|Thailand|Bangkok|Bangkok
+185.200.37.62:9090|Turkey|Ankara|Ankara
+36.94.47.59:4480|Indonesia|Jakarta|Jakarta
+39.107.239.209:80|China|Beijing|Beijing
+176.196.250.86:3128|Russia|Kemerovo Oblast|Kemerovo
 62.171.177.80:3128|Germany|Bavaria|Nuremberg
-222.165.241.36:8282|Indonesia|Jakarta|Jakarta
-165.16.27.31:1981|Libya|Tripoli|Tripoli
-45.121.218.210:8080|Indonesia|Jakarta|Jakarta
-104.192.202.11:8080|United States|Utah|St. George
-109.121.55.162:8888|Serbia|Vojvodina|Novi Sad
-117.102.75.13:9999|Indonesia|Jakarta|Jakarta
-103.130.70.209:83|India|West Bengal|Siliguri
-182.237.16.7:83|India|National Capital Territory of Delhi|Delhi
-190.108.82.105:999|Peru|Piura|Piura
-61.216.156.222:60808|Taiwan|New Taipei|New Taipei
-62.201.217.194:8080|Iraq|Sulaymaniyah|Kelar
-45.175.255.3:999|Mexico|Chihuahua|Chihuahua City
-103.139.242.113:83|India|Maharashtra|Pune
-93.171.192.28:8080|Russia|Moscow|Moscow
-103.158.250.98:8080|Indonesia|East Java|Tulungagung
-103.145.130.150:8080|Indonesia|East Java|Sidoarjo
-102.222.146.203:8080|Kenya|Nairobi Province|Nairobi
-124.105.35.196:8282|Philippines|Metro Manila|Mandaluyong City
-103.156.16.184:3125|Indonesia|West Java|Indramayu
-191.97.9.131:999|Colombia|Bogota D.C.|Bogotá
-159.192.138.240:8080|Thailand|Bangkok|Samphanthawong
-190.217.81.59:999|Colombia|Bogota D.C.|Bogotá
+195.135.243.41:8080|Russia|Moscow Oblast|Krasnozavodsk
+103.19.58.113:8080|Indonesia|East Java|Magetan
+181.129.2.90:8081|Colombia|Antioquia|Medellín
+103.18.77.238:8080|Indonesia|West Java|Bogor
+170.80.202.241:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
+177.69.180.171:8080|Brazil|Sao Paulo|São Paulo
+103.125.162.134:84|India|Telangana|Hyderabad
+173.219.112.85:8080|United States|Illinois|Chicago
+221.215.124.214:10080|Hong Kong|Sai Kung District|Tai Wan
+14.192.3.161:83|India|Telangana|Hyderabad
+103.164.118.86:8080|Indonesia|Jakarta|Jakarta
+183.88.79.89:8080|Thailand|Bangkok|Bangkok
+186.119.118.42:8082|Colombia|Bogota D.C.|Bogotá
+31.131.67.14:8080|Ukraine|Crimea|Yevpatoriya
+45.189.113.111:999|Ecuador|Provincia del Guayas|Milagro
+179.1.86.93:8080|Colombia|Departamento del Magdalena|Santa Marta
+103.55.48.206:8080|Timor-Leste|Cova Lima|Suai
+190.61.46.165:999|Colombia|Departamento de Bolivar|Cartagena
+36.95.53.227:8080|Indonesia|Jakarta|Menteng
+8.214.4.72:33080|Singapore|North West|Singapore
+106.14.237.51:3389|China|Shanghai|Shanghai
+193.53.87.220:33128|Turkey|Bursa|Bursa
+202.8.74.10:8080|Cambodia|Phnom Penh|Phnom Penh
+110.77.236.30:8080|Thailand|Amnat Charoen|Lue Amnat
+133.130.108.201:8080|Japan|Tokyo|Chiyoda
+103.156.216.194:8443|Indonesia|West Java|Bogor
+179.1.73.100:999|Colombia|Antioquia|Medellín
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+202.137.3.209:3888|Indonesia|Jakarta|Jakarta
+103.161.164.107:8181|Indonesia|West Java|Panumbangan
+45.64.11.233:8080|India|Uttar Pradesh|Noida
+103.139.25.81:8080|Indonesia|East Java|Celep
+112.133.215.24:8080|India|Jharkhand|Dhanbad
+103.133.26.107:8181|Indonesia|Central Java|Kudus
+161.132.125.244:8080|Peru|Lima|Lima
+71.19.249.118:8001|United States|California|San Diego
+202.152.12.202:8080|Indonesia|Jakarta|Jakarta
+143.208.58.93:8080|Guatemala|Departamento de Guatemala|Guatemala City
+36.80.212.70:8080|Indonesia|Yogyakarta|Yogyakarta
+118.97.47.249:55443|Indonesia|Jakarta|Jakarta
+41.57.6.45:8080|South Africa|North West|Rustenburg
+190.107.237.24:999|Ecuador|Provincia del Guayas|Milagro
+103.162.218.66:8181|Indonesia|Riau|Tanjung Medan
+193.53.87.222:33128|Turkey|Bursa|Bursa
 103.38.102.232:8080|Indonesia|Jakarta|Jakarta
-125.27.34.10:8080|Thailand|Chanthaburi|Chanthaburi
-103.125.12.9:8080|Indonesia|North Sumatra|Kota Matsum Tiga
-84.204.40.156:8080|Russia|St.-Petersburg|St Petersburg
-49.128.180.178:8080|Indonesia|Yogyakarta|Yogyakarta
-69.11.145.106:8080|United States|Arizona|Salome
-103.141.52.218:8000|India|Maharashtra|Kudal
-36.95.27.209:8080|Indonesia|Jakarta|Jakarta
-180.250.153.129:53281|Indonesia|Central Java|Semarang
-193.164.131.202:7890|Germany|Bavaria|Munich
-139.228.90.162:8080|Indonesia|East Java|Surabaya
-103.115.23.66:8080|Myanmar|Shan State|Tachilek
-182.253.26.196:8080|Indonesia|Jakarta|Jakarta
-201.244.127.210:8080|Colombia|Bogota D.C.|Bogotá
-45.161.115.141:999|Chile|Coquimbo Region|Salamanca
-24.227.247.186:8080|United States|Texas|Bedford
-190.90.83.225:999|Colombia|Antioquia|Medellín
-103.169.187.179:3125|Indonesia|East Java|Pasuruan
-190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-45.180.10.197:999|Mexico|Campeche|Campeche
-94.244.28.246:31280|Ukraine|Kyiv City|Kyiv
-222.124.219.42:8080|Indonesia|Jakarta|Jakarta
-143.0.125.192:5566|Brazil|Sao Paulo|Santa Fe do Sul
-37.252.73.193:8080|Armenia|Tavush|Noyemberyan
+45.190.170.0:999|Peru|Lima|Lima
+36.95.54.114:8080|Indonesia|Jakarta|Menteng
+183.88.213.85:8080|Thailand|Chon Buri|Ban Nong Sala
+79.120.177.106:8080|Hungary|Budapest|Budapest
+177.93.50.106:999|Colombia|Bogota D.C.|Bogotá
+45.251.74.228:80|Indonesia|Jakarta|Jakarta
+97.102.248.16:8118|United States|Florida|Melbourne
+217.197.158.182:41890|Czechia|Zlín|Bystrice pod Hostynem
+45.250.66.104:9812|India|Haryana|Faridabad
+82.114.118.142:1256|Russia|Moscow|Moscow
+101.99.32.122:8080|Vietnam|Ho Chi Minh|Ho Chi Minh City
+103.143.195.2:8080|Indonesia|North Sumatra|Medan
+80.63.84.58:8081|Denmark|Capital Region|Copenhagen
+45.224.153.60:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
+103.162.252.3:3125|Indonesia|Aceh|Meunasah Kumbang
+157.100.53.37:999|Ecuador|Provincia de El Oro|Machala
+45.179.184.6:8083|Brazil|Mato Grosso do Sul|Cassilandia
+103.105.76.101:8080|Indonesia|East Java|Mojoagung
+201.212.59.147:3128|Argentina|Santa Fe|Rosario
+170.238.163.2:999|Brazil|Bahia|Salvador
+189.164.20.116:10101|Mexico|Puebla|Puebla City
+197.245.230.122:41026|South Africa|Gauteng|Bryanston
+154.159.243.117:8080|Kenya|Nairobi Province|Nairobi
+103.48.68.36:84|India|Telangana|Hyderabad
+58.8.143.128:8080|Thailand|Samut Prakan|Samut Prakan
+5.202.191.226:8080|Iran|Tehran|Tehran
+188.242.219.58:8080|Russia|St.-Petersburg|St Petersburg
+190.61.41.106:999|Colombia|Departamento de La Guajira|Albania
+102.39.69.224:8080|South Africa|KwaZulu-Natal|Durban
+103.76.14.85:3125|Indonesia|Jakarta|Setia Budi
