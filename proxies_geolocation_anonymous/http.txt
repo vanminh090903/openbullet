@@ -1,40 +1,48 @@
 145.40.73.107:9443|Singapore|North West|Singapore
-130.41.55.190:8080|United States|California|Los Angeles
+27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
+45.175.239.192:999|Mexico|Hidalgo|Atitalaquia
+138.186.176.176:999|Venezuela|Lara|Barquisimeto
 130.41.15.76:8080|United States|Colorado|Denver
-193.36.39.35:80|Turkey|Ankara|Ankara
-176.192.70.58:8016|Russia|Moscow|Moscow
-45.182.22.54:999|Honduras|Departamento de Cortes|San Pedro Sula
+116.202.209.248:8118|Luxembourg|Luxembourg|Luxembourg
 130.41.41.175:8080|United States|Georgia|Atlanta
-45.230.168.17:999|Venezuela|Distrito Federal|Caracas
-71.19.249.118:34108|United States|Maryland|Gwynn Oak
-95.217.84.58:8118|Russia|Moscow|Moscow
-190.107.237.14:999|Ecuador|Provincia del Guayas|Milagro
-71.19.249.118:8001|United States|Kentucky|Hazard
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-47.253.0.126:31775|United States|Virginia|Charlottesville
-185.190.38.154:8080|Serbia|Central Serbia|Belgrade
-88.255.185.254:8080|Turkey|Adana|Adana
-45.189.252.130:999|Mexico|Veracruz|Alvarado
-119.2.41.201:8080|Indonesia|Jakarta|Jakarta
-103.242.105.72:6666|Indonesia|East Java|Kediri
-191.102.68.102:999|Colombia|Bogota D.C.|Bogotá
-190.185.116.161:999|Honduras|Departamento de Cortes|San Pedro Sula
-200.26.190.74:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
-157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
-157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
+71.19.249.118:8001|United States|New York|New York
+130.41.55.190:8080|United States|California|Los Angeles
+179.1.65.182:999|Colombia|Departamento de Cordoba|Sahagun
+45.189.116.21:999|Peru|Lima|Lima
+103.152.232.83:8080|Indonesia|West Java|Bekasi
+103.153.246.105:3125|Indonesia|South Sulawesi|Makassar
+103.87.212.140:8080|Bangladesh|Dhaka Division|Dhaka
+177.234.226.92:999|Ecuador|Provincia de Manabi|Portoviejo
+160.226.132.33:8080|South Africa|Western Cape|Gansbaai
+103.155.54.233:83|India|West Bengal|Haldia
+154.73.159.10:8585|South Africa|Gauteng|Meyerton
+36.91.98.115:8181|Indonesia|Jakarta|Kapuk Utara
+186.250.162.166:8080|Brazil|Rio Grande do Norte|Natal
+176.62.188.10:8123|Russia|Moscow|Moscow
+181.174.224.35:999|Peru|Lima|Lima
+190.14.249.217:999|Colombia|Departamento de Santander|Bucaramanga
 103.138.71.29:3125|Indonesia|Riau|Kurintji
-170.246.85.107:50991|Ecuador|Provincia del Azuay|Cuenca
-14.29.108.150:8998|Hong Kong|Central and Western District|Central
-143.198.242.86:8048|United Kingdom|England|London
-185.82.99.58:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
-131.108.220.57:45005|Brazil|Sergipe|Nossa Senhora do Socorro
-103.111.214.107:3129|Indonesia|West Java|Bekasi
-177.242.148.14:999|Mexico|Michoacán|Heroica Zitacuaro
-186.3.38.202:999|Ecuador|Provincia del Azuay|Cuenca
-102.68.128.218:8080|Libya|Tripoli|Tripoli
-43.243.174.3:83|India|Maharashtra|Pune
-45.231.221.193:999|Mexico|Baja California|Tijuana
-103.48.68.35:84|India|Telangana|Hyderabad
-200.125.168.132:999|United States|Florida|Boca Raton
-103.166.10.137:8181|Indonesia|East Java|Tulungagung
-103.48.68.36:83|India|Telangana|Hyderabad
+103.169.186.245:3125|Indonesia|East Java|Pasuruan
+191.97.9.189:999|Colombia|Bogota D.C.|Bogotá
+201.77.108.192:999|Mexico|Chihuahua|Jimenez
+103.175.46.41:3125|Indonesia|West Java|Cirebon
+201.71.2.41:999|Venezuela|Distrito Federal|Caracas
+27.147.193.82:8080|Bangladesh|Khulna Division|Chuadanga
+213.6.156.89:19000|Palestine|Gaza|Gaza
+103.75.27.58:8087|Indonesia|West Java|Bekasi
+191.97.16.118:999|Venezuela|Distrito Federal|Caracas
+139.224.165.41:1080|United Kingdom|England|London
+103.134.98.17:83|India|Telangana|Hyderabad
+190.185.116.161:999|Honduras|Departamento de Cortes|San Pedro Sula
+103.172.70.153:8080|Indonesia|West Java|Karawang
+45.189.255.18:999|Mexico|Veracruz|Alvarado
+200.55.254.1:6969|Ecuador|Provincia del Guayas|Guayaquil
+50.233.228.147:8080|United States|Colorado|Fort Collins
+45.182.141.112:999|Venezuela|Carabobo|Valencia
+138.121.244.141:8080|Brazil|Sao Paulo|Campinas
+103.125.118.196:8181|Indonesia|East Java|Malang
+202.56.163.110:8080|Indonesia|Jakarta|Jakarta
+205.207.102.9:8282|United States|Maryland|Millington
+167.172.173.210:35959|Germany|Bavaria|Haßfurt
+201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+45.224.23.148:999|Ecuador|Provincia de Manabi|Portoviejo
