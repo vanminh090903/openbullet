@@ -1,24 +1,29 @@
 130.41.15.76:8080|United States|Colorado|Denver
-130.41.55.190:8080|United States|California|Los Angeles
-130.41.41.175:8080|United States|Georgia|Atlanta
-176.192.70.58:8017|Russia|Moscow|Moscow
 193.36.39.35:80|Turkey|Ankara|Ankara
-158.69.71.245:9300|Germany|North Rhine-Westphalia|Bonn
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-190.131.192.134:999|Colombia|Departamento de Santander|Bucaramanga
-182.70.117.107:84|India|Gujarat|Ahmedabad
-139.224.226.158:1080|Poland|Mazovia|Warsaw
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-114.4.104.254:3128|Indonesia|Jakarta|Jakarta
-139.224.226.173:1080|Poland|Mazovia|Warsaw
-103.155.54.233:83|India|West Bengal|Haldia
-117.121.204.9:34002|Indonesia|Central Java|Purwokerto
-190.107.233.231:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-103.111.214.107:3129|Indonesia|West Java|Bekasi
-190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
-14.29.108.150:8998|Hong Kong|Central and Western District|Central
+27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
+130.41.41.175:8080|United States|Georgia|Atlanta
+202.180.30.131:8080|Indonesia|East Java|Malang
+130.41.55.190:8080|United States|California|Los Angeles
+191.97.14.26:999|Colombia|Antioquia|Medellín
+47.253.0.126:31775|United States|Virginia|Charlottesville
+69.160.7.126:8080|Myanmar|Kachin|Bhamo
+131.72.68.80:40033|Brazil|Sergipe|Nossa Senhora do Socorro
+31.13.33.10:8080|Russia|Moscow|Moscow
+194.169.167.5:8080|Serbia|Central Serbia|Belgrade
+162.252.145.225:8282|United States|Indiana|Daleville
+103.175.46.22:3125|Indonesia|West Java|Cirebon
 117.121.204.9:7998|Indonesia|Jakarta|Jakarta
-167.172.173.210:46211|France|Grand Est|Strasbourg
+182.253.197.70:8080|Indonesia|Jakarta|Jakarta
+103.175.46.69:3125|Indonesia|West Java|Cirebon
+190.108.82.99:999|Peru|Piura|Piura
+191.92.144.27:8080|Colombia|Antioquia|Medellín
+170.238.163.192:666|Brazil|Bahia|Salvador
+177.190.222.130:8080|Brazil|Bahia|Jaguaquara
+201.222.45.69:999|Chile|Santiago Metropolitan|Santiago
+119.62.125.252:3128|China|Yunnan|Dali
+190.93.179.125:8080|Brazil|Parana|Foz do Iguaçu
+190.108.82.110:999|Peru|Piura|Piura
 145.40.73.107:9443|Singapore|North West|Singapore
-115.124.79.93:8080|Indonesia|Jakarta|Jakarta
-201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+103.155.54.233:83|India|West Bengal|Haldia
+71.19.249.118:8001|United States|Florida|Jacksonville
+170.83.77.237:999|Venezuela|Distrito Federal|Caracas
