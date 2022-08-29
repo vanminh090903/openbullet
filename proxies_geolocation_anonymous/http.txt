@@ -1,28 +1,34 @@
 145.40.73.107:9443|Singapore|North West|Singapore
 130.41.41.175:8080|United States|Georgia|Atlanta
-85.25.91.141:32849|Germany|Land Berlin|Berlin
-61.7.146.7:8082|Thailand|Bangkok|Samphanthawong
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-103.36.35.135:8080|Indonesia|Jakarta|Jakarta
-190.107.237.19:999|Ecuador|Provincia del Guayas|Milagro
-191.97.14.26:999|Colombia|Antioquia|Medellín
-202.180.54.97:8080|Indonesia|Jakarta|Jakarta
-45.239.123.18:999|Chile|Santiago Metropolitan|Santiago
-103.11.106.148:8181|Indonesia|East Java|Magetan
-115.124.85.19:8080|Indonesia|West Java|Bekasi
-61.7.146.7:80|Thailand|Bangkok|Samphanthawong
-103.154.230.138:8080|Indonesia|East Java|Lamongan
-45.156.31.61:9090|Turkey|Istanbul|Istanbul
-103.125.118.196:8181|Indonesia|East Java|Malang
-103.145.45.69:55443|Bangladesh|Dhaka Division|Nāgarpur
-176.192.70.58:8010|Russia|Moscow|Moscow
+193.36.39.35:80|Turkey|Ankara|Ankara
+181.232.190.100:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
 139.224.165.41:1080|United Kingdom|England|London
+190.107.237.22:999|Ecuador|Provincia del Guayas|Milagro
+187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
+177.93.50.165:999|Colombia|Departamento del Guaviare|San José del Guaviare
+158.69.53.98:9300|Netherlands|North Holland|Amsterdam
+71.19.249.118:8001|United States|North Carolina|Greenville
+190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+200.229.147.2:999|Honduras|Departamento de Comayagua|Comayagua
+191.97.14.26:999|Colombia|Antioquia|Medellín
+47.241.189.54:3127|Indonesia|Banten|Tangerang
+61.7.146.7:80|Thailand|Bangkok|Samphanthawong
+45.189.113.142:999|Ecuador|Provincia de Manabi|Ayacucho
+181.232.190.154:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+37.230.195.131:8118|United States|New York|Brooklyn
+45.225.184.177:999|Chile|Santiago Metropolitan|Melipilla
+71.19.249.118:34108|United States|Ohio|Hamilton
+202.168.69.227:8080|Malaysia|Selangor|Cyberjaya
+177.234.226.92:999|Ecuador|Provincia de Manabi|Portoviejo
+118.67.219.153:8080|Bangladesh|Dhaka Division|Dhaka
+103.48.68.35:84|India|Telangana|Hyderabad
+103.224.103.85:13550|Indonesia|East Java|Sidoarjo
 130.41.15.76:8080|United States|Colorado|Denver
-62.60.160.252:9000|Iran|Tehran|Tehran
+201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
+103.155.54.233:83|India|West Bengal|Haldia
+106.14.64.22:1080|Australia|New South Wales|Sydney
+190.103.28.187:3128|Venezuela|Carabobo|Valencia
+152.231.25.58:8080|Colombia|Bogota D.C.|Bogotá
+88.99.216.114:9001|United Kingdom|England|London
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
 190.107.237.12:999|Ecuador|Provincia del Guayas|Milagro
-158.69.52.218:9300|Netherlands|Flevoland|Dronten
-185.200.37.60:9090|Turkey|Ankara|Ankara
-27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-177.23.54.10:6006|Brazil|Rio Grande do Sul|Imigrante
-91.221.240.253:1515|Iran|Tehran|Tehran
-45.189.113.63:999|Ecuador|Provincia del Guayas|Milagro
