@@ -1,24 +1,21 @@
 145.40.73.107:9443|Singapore|North West|Singapore
-103.194.172.130:8080|Indonesia|West Java|Bandung
-217.11.184.30:3128|Tajikistan|Dushanbe|Dushanbe
-103.125.118.196:8181|Indonesia|East Java|Malang
-130.41.15.76:8080|United States|Colorado|Denver
-103.175.46.42:3125|Indonesia|West Java|Cirebon
-71.19.249.118:8001|United States|Virginia|Roanoke
+193.36.39.35:80|Turkey|Ankara|Ankara
 130.41.41.175:8080|United States|Georgia|Atlanta
+130.41.15.76:8080|United States|Colorado|Denver
+217.11.184.30:3128|Tajikistan|Dushanbe|Dushanbe
+68.183.230.116:36787|Canada|Quebec|Montreal
+71.19.249.118:8001|United States|Mississippi|Batesville
+200.85.183.100:8080|Argentina|Neuquen|Neuquén
 45.189.254.26:999|Mexico|Veracruz|Alvarado
-198.52.241.12:999|France|Île-de-France|Paris
-103.148.209.141:8282|Indonesia|East Java|Kediri
-103.228.246.69:8080|Indonesia|East Java|Madiun
-103.121.122.72:9812|Indonesia|Aceh|Lhokseumawe
-190.61.41.125:999|Colombia|Bogota D.C.|Chapinero
-191.97.16.117:999|Venezuela|Distrito Federal|Caracas
-190.113.41.164:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-41.76.221.33:8088|South Africa|Gauteng|Pretoria
-88.255.101.228:8080|Turkey|Istanbul|Orhanlı
-200.125.169.130:999|United States|Florida|Boca Raton
-203.189.89.158:8080|Indonesia|West Java|Bandung
-202.180.30.131:8080|Indonesia|East Java|Malang
-190.93.179.125:8080|Brazil|Parana|Foz do Iguaçu
-201.71.2.41:999|Venezuela|Distrito Federal|Caracas
-190.90.86.81:999|Colombia|Departamento de Norte de Santander|Cúcuta
+190.107.233.229:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+185.190.38.145:8080|Serbia|Central Serbia|Belgrade
+177.234.226.92:999|Ecuador|Provincia de Manabi|Portoviejo
+111.92.164.242:50249|Indonesia|West Java|Tasikmalaya
+190.107.233.232:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+185.186.86.150:8088|Greece|Peloponnese|Zevgolatio
+190.109.16.145:999|Colombia|Departamento de Tolima|Ibague
+103.31.134.92:8080|Indonesia|Jakarta|Jakarta
+185.58.18.169:8080|Ireland|Leinster|Dublin
+45.64.99.235:8080|Indonesia|East Java|Kediri
+144.217.240.185:9300|Germany|Bavaria|Haßfurt
+200.123.228.16:999|Peru|Lima|Lima
