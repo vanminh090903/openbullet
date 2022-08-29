@@ -1,31 +1,24 @@
-180.183.1.193:8080|Thailand|Chon Buri|Chon Buri
-130.41.55.190:8080|United States|California|Los Angeles
 130.41.15.76:8080|United States|Colorado|Denver
+130.41.55.190:8080|United States|California|Los Angeles
 130.41.41.175:8080|United States|Georgia|Atlanta
-114.4.104.254:3128|Indonesia|Jakarta|Jakarta
+176.192.70.58:8017|Russia|Moscow|Moscow
 193.36.39.35:80|Turkey|Ankara|Ankara
-176.192.70.58:8016|Russia|Moscow|Moscow
-190.107.237.18:999|Ecuador|Provincia del Guayas|Milagro
+158.69.71.245:9300|Germany|North Rhine-Westphalia|Bonn
 201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-194.169.167.5:8080|Serbia|Central Serbia|Belgrade
-176.9.113.66:60000|Germany|Hesse|Hatzfeld
-191.97.16.113:999|Venezuela|Distrito Federal|Caracas
-177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
-103.48.68.36:84|India|Telangana|Hyderabad
-190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
-61.7.146.7:80|Thailand|Ratchaburi|Ban Kha
-45.189.253.129:999|Mexico|Veracruz|San Sabastian Tierra Blanca
-115.147.16.112:8080|Philippines|Calabarzon|Cainta
-103.80.82.169:3125|Indonesia|South Sulawesi|Makassar
-191.97.14.26:999|Colombia|Antioquia|Medellín
-103.133.26.100:8181|Indonesia|West Java|Bogor
-31.13.33.28:8080|Russia|Moscow|Moscow
-167.172.173.210:46575|Croatia|Sisak-Moslavina|Sisak
+190.131.192.134:999|Colombia|Departamento de Santander|Bucaramanga
+182.70.117.107:84|India|Gujarat|Ahmedabad
+139.224.226.158:1080|Poland|Mazovia|Warsaw
 187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-145.40.73.107:9443|Singapore|North West|Singapore
-139.224.165.41:1080|United Kingdom|England|London
-222.253.48.253:8080|Vietnam|Ho Chi Minh|Ho Chi Minh City
-106.14.64.22:1080|Australia|New South Wales|Sydney
-85.25.111.162:5566|Luxembourg|Luxembourg|Luxembourg
+114.4.104.254:3128|Indonesia|Jakarta|Jakarta
+139.224.226.173:1080|Poland|Mazovia|Warsaw
+103.155.54.233:83|India|West Bengal|Haldia
+117.121.204.9:34002|Indonesia|Central Java|Purwokerto
+190.107.233.231:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+103.111.214.107:3129|Indonesia|West Java|Bekasi
+190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
 14.29.108.150:8998|Hong Kong|Central and Western District|Central
+117.121.204.9:7998|Indonesia|Jakarta|Jakarta
+167.172.173.210:46211|France|Grand Est|Strasbourg
+145.40.73.107:9443|Singapore|North West|Singapore
+115.124.79.93:8080|Indonesia|Jakarta|Jakarta
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
