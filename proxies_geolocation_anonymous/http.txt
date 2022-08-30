@@ -1,38 +1,33 @@
-130.41.15.76:8080|United States|Colorado|Denver
-27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-143.198.242.86:8048|United Kingdom|England|London
 193.36.39.35:80|Turkey|Ankara|Ankara
-176.192.70.58:8010|Russia|Moscow|Moscow
-176.192.70.58:8003|Russia|Moscow|Moscow
-176.192.70.58:8027|Russia|Moscow|Moscow
-198.27.74.6:9300|Germany|North Rhine-Westphalia|Bonn
-201.71.2.97:999|Venezuela|Distrito Federal|Caracas
-130.41.55.190:8080|United States|California|Los Angeles
-176.192.70.58:8006|Russia|Moscow|Moscow
-113.96.62.246:8084|China|Guangdong|Guangzhou
-113.96.62.246:8081|China|Guangdong|Guangzhou
-103.48.68.37:84|India|Telangana|Hyderabad
-45.230.47.17:999|Venezuela|Carabobo|Valencia
-103.175.46.39:3125|Indonesia|West Java|Cirebon
-190.107.237.2:999|Ecuador|Provincia del Guayas|Milagro
-198.52.241.12:999|France|Île-de-France|Paris
-182.253.36.58:8080|Indonesia|West Java|Bandung
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
-78.188.118.100:10001|Turkey|Çorum|Çorum
-45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
 130.41.41.175:8080|United States|Georgia|Atlanta
-143.208.58.90:8080|Guatemala|Departamento de Guatemala|Guatemala City
-132.255.210.117:999|El Salvador|Departamento de San Miguel|San Miguel
-201.222.45.70:999|Chile|Santiago Metropolitan|Santiago
-183.89.186.49:8080|Thailand|Bangkok|Bangkok
-38.10.247.165:9991|United States|Florida|Boca Raton
-177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
-190.109.16.147:999|Colombia|Departamento de Tolima|Ibague
-176.118.50.239:53281|Ukraine|Lviv Oblast|Lviv
-190.61.41.125:999|Colombia|Bogota D.C.|Chapinero
-103.71.21.185:82|India|Chhattisgarh|Bahtarai
-113.160.155.129:19132|Vietnam|Tinh Bac Ninh|Bac Ninh
-203.188.251.230:8080|Bangladesh|Dhaka Division|Dhaka
-179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
-36.94.47.62:4480|Indonesia|Jakarta|Jakarta
-185.190.38.150:8080|Serbia|Central Serbia|Belgrade
+158.69.53.132:9300|Germany|Land Berlin|Berlin
+71.19.249.118:8001|United States|Maryland|Waldorf
+13.58.64.92:80|Netherlands|South Holland|Rotterdam
+213.32.75.88:9300|Germany|Land Berlin|Berlin
+130.41.15.76:8080|United States|Colorado|Denver
+113.96.62.246:8082|China|Guangdong|Guangzhou
+113.96.62.246:8083|China|Guangdong|Guangzhou
+198.27.74.6:9300|Denmark|Capital Region|Graested
+170.254.201.14:3180|Brazil|Rio de Janeiro|Sao Goncalo
+103.85.114.244:8080|Bangladesh|Dhaka Division|Azimpur
+190.107.237.13:999|Ecuador|Provincia del Guayas|Milagro
+196.20.12.1:8080|Namibia|Khomas|Windhoek
+101.255.127.10:8080|Indonesia|Jakarta|Jakarta
+103.162.205.251:8181|Indonesia|Central Java|Magelang
+113.160.209.113:19132|Vietnam|Ho Chi Minh|Ho Chi Minh City
+103.175.46.65:3125|Indonesia|West Java|Cirebon
+95.0.66.86:8080|Turkey|Istanbul|Orhanlı
+42.48.130.2:17890|Hong Kong|Central and Western|Hong Kong
+130.41.55.190:8080|United States|California|Los Angeles
+183.88.132.96:8080|Thailand|Chiang Mai|Chiang Mai
+103.169.186.12:3125|Indonesia|East Java|Pasuruan
+201.219.194.189:999|Colombia|Departamento de Sucre|Sincelejo
+45.225.185.102:999|Chile|Santiago Metropolitan|Melipilla
+179.1.65.182:999|Colombia|Departamento de Cordoba|Sahagun
+185.82.96.163:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
+187.102.236.161:999|Mexico|Chihuahua|Chihuahua City
+27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
+103.175.46.68:3125|Indonesia|West Java|Cirebon
+104.37.98.161:8282|United States|Indiana|Indianapolis
+103.69.38.1:8080|India|Uttar Pradesh|Ghaziabad
+159.65.69.186:9300|United States|Nevada|Las Vegas
