@@ -1,32 +1,21 @@
 130.41.15.76:8080|United States|Colorado|Denver
-176.192.70.58:8010|Russia|Moscow|Moscow
-144.76.60.58:8118|Sweden|Stockholm|Stockholm
-213.32.75.44:9300|Netherlands|Flevoland|Dronten
+192.154.192.91:8000|United States|Minnesota|Minneapolis
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-139.224.226.173:1080|Poland|Mazovia|Warsaw
-143.198.242.86:8048|United Kingdom|England|London
-103.148.195.22:8080|Indonesia|Bali|Tabanan
-190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-191.97.16.118:999|Venezuela|Distrito Federal|Caracas
-103.175.46.46:8181|Indonesia|West Java|Cirebon
-190.107.233.228:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-103.155.198.64:8080|Indonesia|West Java|Karawang
-103.138.70.61:3125|Indonesia|Riau|Kurintji
-41.222.209.9:808|Nigeria|FCT|Abuja
-185.82.97.54:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
-177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
-202.29.237.213:3128|Thailand|Bangkok|Bangkok
-201.222.45.67:999|Chile|Santiago Metropolitan|Santiago
-185.141.106.99:8081|France|Île-de-France|Paris
-113.160.209.113:19132|Vietnam|Ho Chi Minh|Ho Chi Minh City
-103.159.46.121:83|India|Gujarat|Ahmedabad
-41.65.163.86:1981|Egypt|Kafr el-Sheikh|Kafr ash Shaykh
-191.97.1.89:999|Colombia|Bogota D.C.|Bogotá
-103.87.212.140:8080|Bangladesh|Dhaka Division|Dhaka
-205.207.102.9:8282|United States|Maryland|Millington
-201.150.116.128:999|Mexico|Hidalgo|Huitel
+198.27.74.6:9300|Germany|North Rhine-Westphalia|Bonn
+139.224.226.158:1080|Poland|Mazovia|Warsaw
+130.41.55.190:8080|United States|California|Los Angeles
+51.79.50.46:9300|Germany|North Rhine-Westphalia|Bonn
+103.48.68.36:83|India|Telangana|Hyderabad
+201.54.176.64:8080|Brazil|Ceara|Fortaleza
+190.107.237.13:999|Ecuador|Provincia del Guayas|Milagro
+103.155.54.245:83|India|West Bengal|Haldia
+177.43.213.80:8080|Brazil|Sao Paulo|Araraquara
+211.234.125.5:443|South Korea|Seoul|Seoul
 41.222.209.12:808|Nigeria|FCT|Abuja
-123.200.26.214:8080|Bangladesh|Chittagong|Chittagong
-196.251.222.181:8080|South Africa|North West|Brits
-102.68.128.212:8080|Libya|Tripoli|Tripoli
-45.234.2.253:9898|Brazil|Parana|Cascavel
+101.53.154.137:2013|Germany|North Rhine-Westphalia|Bonn
+80.249.187.83:8080|Russia|St.-Petersburg|St Petersburg
+202.75.97.82:47009|Indonesia|Jakarta|Jakarta
+159.65.69.186:9300|United States|Florida|Miami
+185.190.38.145:8080|Serbia|Central Serbia|Belgrade
+190.107.237.14:999|Ecuador|Provincia del Guayas|Milagro
+45.70.15.7:8080|Ecuador|Provincia del Chimborazo|Alausi
