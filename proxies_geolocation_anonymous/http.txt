@@ -1,37 +1,28 @@
-130.41.15.76:8080|United States|Colorado|Denver
-172.104.93.75:12345|India|Maharashtra|Mumbai
-45.228.232.150:999|Guatemala|Departamento de Totonicapan|San Francisco El Alto
-193.36.39.35:80|Turkey|Ankara|Ankara
-116.202.209.248:8118|United States|New York|New York
 27.111.83.207:8080|Hong Kong|Central and Western District|Hong Kong
-200.155.136.77:8080|Brazil|Rio Grande do Sul|Porto Alegre
-51.79.50.46:9300|Denmark|Capital Region|Graested
-167.114.96.27:9300|France|Île-de-France|Paris
-200.85.183.100:8080|Argentina|Neuquen|Neuquén
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-198.27.74.6:9300|Netherlands|North Holland|Amsterdam
-95.216.64.229:22207|Sweden|Östergötland|Linköping
+130.41.15.76:8080|United States|Colorado|Denver
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-177.87.168.105:53281|Brazil|Pernambuco|Paulista
-190.109.16.145:999|Colombia|Departamento de Tolima|Ibague
-130.41.55.190:8080|United States|California|Los Angeles
-144.76.60.58:8118|Sweden|Stockholm|Stockholm
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-116.197.130.71:80|Indonesia|Jakarta|Jakarta
-103.165.1.2:8080|Indonesia|East Kalimantan|Samarinda
-190.107.233.231:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-167.172.178.193:33427|Sweden|Stockholm County|Stockholm
-191.97.16.111:999|Venezuela|Distrito Federal|Caracas
-41.222.209.12:808|Nigeria|FCT|Abuja
-41.222.209.9:808|Nigeria|FCT|Abuja
-170.246.85.107:50991|Ecuador|Provincia del Azuay|Cuenca
-117.121.204.9:34002|Indonesia|Central Java|Purwokerto
-161.22.34.120:8080|Venezuela|Distrito Federal|Caracas
+191.97.16.112:999|Venezuela|Distrito Federal|Caracas
 103.48.68.35:83|India|Telangana|Hyderabad
-191.97.16.113:999|Venezuela|Distrito Federal|Caracas
-185.190.38.154:8080|Serbia|Central Serbia|Belgrade
-102.68.128.210:8080|Libya|Tripoli|Tripoli
-103.87.236.81:8080|Bangladesh|Dhaka Division|Sonargaon
-170.79.88.93:999|Colombia|Bogota D.C.|Bogotá
-103.161.165.192:8181|Indonesia|West Java|Panumbangan
-191.97.16.115:999|Venezuela|Distrito Federal|Caracas
+167.172.173.210:39403|Lithuania|Kaunas|Kaunas
+191.97.16.110:999|Venezuela|Distrito Federal|Caracas
+200.105.104.185:999|Brazil|Rio de Janeiro|Bonsucesso
+181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
+167.172.173.210:42971|Luxembourg|Luxembourg|Luxembourg
+79.253.201.252:8080|Germany|Bavaria|Freilassing
+45.174.77.241:999|Mexico|Chihuahua|Chihuahua City
+103.48.68.36:83|India|Telangana|Hyderabad
+190.107.233.235:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+41.222.209.12:808|Nigeria|FCT|Abuja
+102.68.134.94:8080|Libya|Tripoli|Tripoli
+139.224.165.41:1080|United Kingdom|England|London
+167.172.178.193:40269|Luxembourg|Luxembourg|Luxembourg
+103.133.26.107:8181|Indonesia|Central Java|Kudus
+103.161.30.5:83|India|Telangana|Hyderabad
+167.172.178.193:33427|Netherlands|North Holland|Amsterdam
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+130.41.55.190:8080|United States|California|Los Angeles
+102.68.128.212:8080|Libya|Tripoli|Tripoli
+190.217.101.73:999|Colombia|Bogota D.C.|Bogotá
+185.141.106.99:8081|Sweden|Stockholm County|Stockholm
+71.19.249.118:24077|United States|Illinois|Chicago
