@@ -1,24 +1,32 @@
-193.36.39.35:80|Turkey|Ankara|Ankara
-176.192.70.58:8029|Russia|Moscow|Moscow
-176.192.70.58:8008|Russia|Moscow|Moscow
 130.41.15.76:8080|United States|Colorado|Denver
-192.154.192.91:8000|United States|Minnesota|Minneapolis
-190.107.237.21:999|Ecuador|Provincia del Guayas|Milagro
-71.19.249.118:8001|United States|Florida|Daytona Beach
+193.36.39.35:80|Turkey|Ankara|Ankara
+139.224.226.173:1080|Poland|Mazovia|Warsaw
+167.114.96.27:9300|Croatia|City of Zagreb|Zagreb
+95.216.12.141:22201|Sweden|Östergötland|Linköping
+130.41.41.175:8080|United States|Georgia|Atlanta
+103.80.82.169:3125|Indonesia|South Sulawesi|Makassar
+51.79.50.46:9300|Netherlands|Flevoland|Dronten
+179.1.133.33:999|Colombia|Bogota D.C.|Bogotá
+176.192.70.58:8008|Russia|Moscow|Moscow
+170.238.162.192:666|Brazil|Bahia|Salvador
+45.175.65.190:1010|Honduras|Departamento de Yoro|El Progreso
+161.22.39.65:999|Venezuela|Distrito Federal|Caracas
+190.108.82.107:999|Peru|Piura|Piura
+103.131.18.211:3125|Indonesia|Central Java|Purbayan
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+103.173.233.242:8080|Indonesia|East Java|Medokanayu
+103.146.189.86:8080|Indonesia|Bali|Bualu
+8.242.187.227:999|Colombia|Bogota D.C.|Bogotá
+202.29.222.254:8080|Thailand|Bangkok|Khwaeng Thung Song Hong
+177.87.168.105:53281|Brazil|Pernambuco|Paulista
+119.28.42.197:8118|Hong Kong|Central and Western District|Central
+45.167.90.21:999|Argentina|Tucuman|Yerba Buena
+37.205.14.92:5566|Ukraine|Dnipropetrovsk Oblast|Dnipro
+103.121.122.72:9812|Indonesia|Aceh|Lhokseumawe
+103.155.54.73:83|India|West Bengal|Haldia
+103.175.46.69:3125|Indonesia|West Java|Cirebon
+201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+103.145.45.73:55443|Bangladesh|Dhaka Division|Nāgarpur
+190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
 187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-158.69.52.218:9300|Austria|Vienna|Vienna
-180.178.188.228:8282|Pakistan|Punjab|Lahore
-130.41.55.190:8080|United States|California|Los Angeles
-157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
-203.189.89.158:8080|Indonesia|West Java|Bandung
-5.255.97.168:8118|Germany|North Rhine-Westphalia|Bonn
-191.97.16.117:999|Venezuela|Distrito Federal|Caracas
-181.115.67.3:999|Honduras|Departamento de Ocotepeque|Nueva Ocotepeque
-138.121.161.86:8093|Argentina|Santa Fe|Rosario
-103.153.246.105:3125|Indonesia|South Sulawesi|Makassar
-187.188.232.250:999|Mexico|Chihuahua|Chihuahua City
-170.83.79.21:999|Venezuela|Distrito Federal|Caracas
-103.207.3.6:83|India|Tamil Nadu|Tirupur
-177.43.213.80:8080|Brazil|Sao Paulo|Araraquara
-128.201.119.251:999|Chile|Santiago Metropolitan|Providencia
-201.222.45.66:999|Chile|Santiago Metropolitan|Santiago
+51.79.50.31:9300|United States|New York|New York
