@@ -1,42 +1,47 @@
 130.41.15.76:8080|United States|Colorado|Denver
-83.229.5.231:8888|Mexico|Mexico City|Mexico City
-192.154.251.228:8000|United States|Illinois|Chicago
-38.41.0.89:999|Venezuela|Distrito Federal|Caracas
-207.180.235.41:9300|United States|New York|New York
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+176.192.70.58:8025|Russia|Moscow|Moscow
+158.69.53.132:9300|Netherlands|North Holland|Amsterdam
+200.85.183.99:8080|Argentina|Neuquen|Neuquén
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-116.202.209.248:8118|United States|New York|Buffalo
-71.19.249.118:8001|United States|Florida|Land O' Lakes
-139.224.226.173:1080|Poland|Mazovia|Warsaw
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-170.254.201.32:3180|Brazil|Rio de Janeiro|Sao Goncalo
-154.64.211.145:999|France|Île-de-France|Paris
-103.36.35.135:8080|Indonesia|Jakarta|Jakarta
-102.68.135.129:8080|Libya|Tripoli|Tripoli
-103.175.46.105:3125|Indonesia|West Java|Cirebon
-103.15.140.121:44759|Bangladesh|Rangpur Division|Thakurgaon
-45.170.100.9:999|Chile|Santiago Metropolitan|Buin
-201.71.2.41:999|Venezuela|Distrito Federal|Caracas
-203.189.89.158:8080|Indonesia|West Java|Bandung
-103.148.209.141:8282|Indonesia|East Java|Kediri
-103.124.198.130:3125|Indonesia|Riau|Batam
-31.145.154.138:9093|Turkey|Kocaeli|Kosekoy
-191.92.144.27:8080|Colombia|Antioquia|Medellín
-196.251.222.229:8080|South Africa|North West|Brits
-103.137.84.17:84|India|Rajasthan|Jaipur
-190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+103.166.210.123:443|Indonesia|Banten|Tangerang
+103.159.221.7:3125|Indonesia|Bali|Singaraja
+192.154.195.204:8000|United States|Tennessee|Memphis
+190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+51.79.50.31:9300|United States|Nevada|Las Vegas
+190.107.233.230:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+116.197.130.71:80|Indonesia|Jakarta|Jakarta
+14.115.104.150:9797|China|Guangdong|Guangzhou
+201.150.116.128:999|Mexico|Hidalgo|Huitel
+45.189.113.111:999|Ecuador|Provincia del Guayas|Milagro
+102.68.128.215:8080|Libya|Tripoli|Tripoli
+45.189.252.130:999|Mexico|Veracruz|Alvarado
+45.156.29.127:9090|Turkey|Istanbul|Istanbul
+103.165.253.149:3125|Indonesia|East Java|Jember
+200.32.80.54:999|Colombia|Departamento de Narino|Tuquerres
 41.222.209.9:808|Nigeria|FCT|Abuja
-102.68.128.216:8080|Libya|Tripoli|Tripoli
 41.222.209.12:808|Nigeria|FCT|Abuja
-190.110.99.104:999|Chile|Atacama|Copiapó
-36.94.183.153:8080|Indonesia|West Java|Bekasi
+186.148.184.130:999|Colombia|Bogota D.C.|Bogotá
+181.129.208.27:999|Colombia|Departamento de Risaralda|Pereira
+162.252.145.225:8282|United States|Indiana|Daleville
+103.166.39.17:8080|Bangladesh|Dhaka Division|Azimpur
+103.139.243.5:83|India|Maharashtra|Pune
+113.160.209.113:19132|Vietnam|Ho Chi Minh|Ho Chi Minh City
+45.234.2.255:9898|Brazil|Parana|Cascavel
+177.43.213.80:8080|Brazil|Sao Paulo|Araraquara
+41.220.238.137:82|Kenya|Nairobi Province|Nairobi
+186.103.130.92:8080|Chile|Santiago Metropolitan|Renca
+103.161.31.249:83|India|Telangana|Hyderabad
+103.175.156.142:8080|Indonesia|West Java|Depok
+103.169.187.130:3125|Indonesia|East Java|Pasuruan
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+83.229.5.231:8888|Mexico|Jalisco|Guadalajara
+190.103.28.187:3128|Venezuela|Carabobo|Valencia
+182.253.108.50:40448|Indonesia|Central Java|Cilacap
+190.110.99.102:999|Chile|Atacama|Copiapó
+167.172.173.210:34807|Denmark|Capital Region|Graested
 200.91.223.122:8080|Colombia|Atlántico|Barranquilla
-106.14.64.22:1080|Australia|New South Wales|Sydney
-186.3.38.201:999|Ecuador|Provincia del Azuay|Cuenca
-190.217.101.73:999|Colombia|Bogota D.C.|Bogotá
-181.232.190.100:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-167.172.173.210:43669|Czechia|Kralovehradecky kraj|Hradec Králové
-103.29.185.54:8181|Indonesia|North Sumatra|Medan
-103.148.195.22:8080|Indonesia|Bali|Tabanan
-61.7.146.7:8082|Thailand|Ratchaburi|Ban Kha
-201.54.176.64:8080|Brazil|Ceara|Fortaleza
-175.101.80.136:8080|India|Andhra Pradesh|Vijayawada
+103.48.68.37:84|India|Telangana|Hyderabad
+102.68.128.218:8080|Libya|Tripoli|Tripoli
+103.156.75.37:8181|Indonesia|Bali|Ubud
+202.29.237.210:3128|Thailand|Bangkok|Bangkok
