@@ -1,37 +1,45 @@
 130.41.15.76:8080|United States|Colorado|Denver
-38.41.0.89:999|Venezuela|Distrito Federal|Caracas
-193.36.39.35:80|Turkey|Ankara|Ankara
 38.41.0.93:999|Venezuela|Distrito Federal|Caracas
-176.192.70.58:8022|Russia|Moscow|Moscow
-213.32.75.44:9300|Germany|North Rhine-Westphalia|Bonn
+201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+38.41.0.95:999|Venezuela|Distrito Federal|Caracas
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-190.217.10.12:999|Venezuela|Distrito Federal|Caracas
-43.129.93.240:7890|United States|New Jersey|Secaucus
-161.35.214.127:34653|Norway|Vestfold og Telemark|Sandefjord
-103.169.186.12:3125|Indonesia|East Java|Pasuruan
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
-200.125.168.132:999|United States|Florida|Boca Raton
-200.106.187.246:999|Argentina|Buenos Aires|Llavallol
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
-103.175.46.86:3125|Indonesia|West Java|Cirebon
-42.48.130.2:17890|Singapore|Central Singapore|Singapore
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-115.124.85.19:8080|Indonesia|West Java|Bekasi
-102.38.21.24:1981|Libya|Tripoli|Tripoli
-130.41.55.190:8080|United States|California|Los Angeles
-162.252.145.225:8282|United States|Indiana|Daleville
-190.103.28.187:3128|Venezuela|Carabobo|Valencia
-103.169.187.162:3125|Indonesia|East Java|Arosbaya
-202.21.109.141:1012|Mongolia|Ulaanbaatar Hot|Ulan Bator
-198.52.241.12:999|France|Île-de-France|Paris
-162.252.144.161:8282|United States|Indiana|Williamsburg
-103.29.185.54:8181|Indonesia|North Sumatra|Medan
+125.228.27.210:9797|Taiwan|Kaohsiung|Kaohsiung City
+103.162.205.32:8181|Indonesia|Central Java|Magelang
+103.175.46.46:8181|Indonesia|West Java|Cirebon
+71.19.249.118:8001|United States|Tennessee|Memphis
+152.200.154.131:999|Colombia|Departamento del Caqueta|Florencia
+45.184.73.114:40033|Brazil|Bahia|Queimadas
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+102.68.128.219:8080|Libya|Tripoli|Tripoli
+177.107.201.193:8080|Brazil|Sao Paulo|Bauru
+45.175.65.190:1010|Honduras|Departamento de Yoro|El Progreso
+45.189.254.26:999|Mexico|Veracruz|Alvarado
+103.143.25.245:8080|Indonesia|West Java|Bogor
+102.38.14.157:8080|Libya|Tripoli|Tripoli
+170.254.201.58:3180|Brazil|Rio de Janeiro|Sao Goncalo
+103.124.87.1:8080|India|West Bengal|Kolkata
+102.68.128.214:8080|Libya|Tripoli|Tripoli
+45.174.78.64:999|Mexico|Chihuahua|Ciudad Juárez
+191.97.16.119:999|Venezuela|Distrito Federal|Caracas
+165.0.50.110:8080|South Africa|Western Cape|Cape Town
+1.20.207.43:8080|Thailand|Chon Buri|Bang Lamung
 103.83.116.122:55443|Indonesia|North Sumatra|Medan
-79.253.201.252:8080|Germany|Bavaria|Freilassing
-45.224.23.148:999|Ecuador|Provincia de Manabi|Portoviejo
-61.7.146.7:80|Thailand|Ratchaburi|Ban Kha
-185.190.38.145:8080|Serbia|Central Serbia|Belgrade
-103.138.71.29:3125|Indonesia|Riau|Kurintji
-45.170.100.128:999|Chile|Santiago Metropolitan|Buin
-103.148.28.109:3125|Indonesia|West Java|Bogor
-182.253.108.51:40448|Indonesia|Central Java|Cilacap
+190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+41.222.209.12:808|Nigeria|FCT|Abuja
+58.82.151.242:8080|Thailand|Chon Buri|Bang Lamung
+173.249.30.197:8118|Germany|Land Berlin|Berlin
+161.35.214.127:46795|Germany|North Rhine-Westphalia|Bonn
+38.10.247.165:9991|United States|Florida|Boca Raton
+109.107.155.139:8090|Iraq|Nineveh|Mosul
+41.222.209.9:808|Nigeria|FCT|Abuja
+103.216.144.201:8080|India|Maharashtra|Bharam
+177.23.54.10:6006|Brazil|Rio Grande do Sul|Imigrante
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+201.158.44.163:4343|Brazil|Sao Paulo|São Paulo
+130.41.55.190:8080|United States|California|Los Angeles
+167.172.173.210:35529|Switzerland|Zurich|Zurich
+200.106.187.252:999|Argentina|Buenos Aires|Llavallol
+38.41.0.94:999|Venezuela|Distrito Federal|Caracas
+45.224.153.61:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
+202.180.16.1:8080|Indonesia|West Java|Karawang
+194.145.138.84:9090|Turkey|Istanbul|Kartal
