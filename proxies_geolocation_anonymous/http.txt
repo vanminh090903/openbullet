@@ -1,69 +1,54 @@
 130.41.15.76:8080|United States|Colorado|Denver
-157.230.241.133:34101|United States|Texas|Dallas
+190.90.242.210:999|Colombia|Departamento de Norte de Santander|Ocaña
+176.236.226.175:8080|Turkey|Istanbul|Istanbul
 130.41.55.190:8080|United States|California|Los Angeles
-38.41.0.92:999|Venezuela|Distrito Federal|Caracas
-176.192.70.58:8029|Russia|Moscow|Moscow
-139.224.165.41:1080|United Kingdom|England|London
-103.155.29.36:8008|Indonesia|West Java|Winduherang
-176.192.70.58:8022|Russia|Moscow|Moscow
+117.102.70.42:8080|Indonesia|West Java|Bandung
+176.192.70.58:8001|Russia|Moscow|Moscow
+149.57.11.17:8181|United States|Indiana|Frankton
+161.35.214.127:46269|Denmark|Capital Region|Graested
+176.192.70.58:8004|Russia|Moscow|Moscow
+88.255.101.229:8080|Turkey|Istanbul|Orhanlı
+181.174.224.35:999|Peru|Lima|Lima
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-170.254.201.31:3180|Brazil|Rio de Janeiro|Sao Goncalo
-103.74.146.105:83|India|National Capital Territory of Delhi|Delhi
-158.69.53.98:9300|United States|New Jersey|Secaucus
-103.138.71.29:3125|Indonesia|Riau|Kurintji
-180.149.235.39:8080|Bangladesh|Dhaka Division|Dhaka
-103.156.75.37:8181|Indonesia|Bali|Ubud
-103.42.161.9:8080|India|Maharashtra|Bharam
-119.82.239.37:8080|Indonesia|Jakarta|Jakarta
-45.224.153.60:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
-201.150.117.97:999|Mexico|Hidalgo|Huichapan
-45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
-200.114.87.229:8080|Argentina|Buenos Aires|Florencio Varela
-120.232.194.134:8998|Hong Kong|Central and Western District|Central
-177.23.54.10:6006|Brazil|Rio Grande do Sul|Imigrante
-71.19.249.118:26137|United States|Virginia|Martinsville
-103.175.156.142:8080|Indonesia|West Java|Depok
-200.24.157.116:999|Ecuador|Provincia del Canar|Azogues
-103.175.46.46:8181|Indonesia|West Java|Cirebon
-102.68.78.195:8080|Kenya|Nairobi Province|Nairobi
-183.88.212.184:8080|Thailand|Chon Buri|Bang Lamung
-106.14.64.22:1080|Australia|New South Wales|Sydney
-36.91.98.115:8181|Indonesia|Jakarta|Kapuk Utara
-114.6.227.28:8080|Indonesia|West Sumatra|Padang
-180.178.170.71:8080|Pakistan|Punjab|Rawalpindi
-102.68.128.210:8080|Libya|Tripoli|Tripoli
-158.69.71.245:9300|Germany|North Rhine-Westphalia|Bonn
-45.224.153.61:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
-103.145.57.50:8080|Bangladesh|Rajshahi Division|Dupchanchia
-177.242.151.136:8080|Mexico|Oaxaca|San Juan Bautista Tuxtla
-177.53.152.138:999|Peru|Lima|Lima
-139.255.72.220:8080|Indonesia|North Sumatra|Medan
-88.255.101.228:8080|Turkey|Istanbul|Orhanlı
-41.222.209.9:808|Nigeria|FCT|Abuja
-191.97.16.113:999|Venezuela|Distrito Federal|Caracas
-187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
-157.100.56.180:999|Ecuador|Provincia de Loja|Cariamanga
-43.227.129.129:83|India|Andhra Pradesh|Vaddangi
-85.25.111.162:5566|United States|Nevada|Las Vegas
-203.189.89.156:8080|Indonesia|West Java|Bandung
-200.60.111.60:999|Peru|Lima region|Barranca
-103.209.230.185:8080|Bangladesh|Rangpur Division|Rangpur City
-132.255.210.112:999|El Salvador|Departamento de San Miguel|San Miguel
-45.239.123.18:999|Chile|Santiago Metropolitan|Santiago
-154.0.0.4:8080|South Africa|Gauteng|Sandton
-103.154.230.99:5678|Indonesia|East Java|Sukorejo
-103.156.233.132:3125|Indonesia|Jakarta|Jakarta
-200.8.190.45:999|Venezuela|Lara|Barquisimeto
-103.155.166.92:8181|Indonesia|West Java|Bekasi
-201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
-185.135.197.10:8080|Iraq|Nineveh|Mosul
-45.156.31.60:9090|Turkey|Istanbul|Istanbul
-114.7.193.212:8080|Indonesia|Jakarta|Jakarta
-139.224.226.158:1080|Poland|Mazovia|Warsaw
-103.147.77.66:5009|Indonesia|West Nusa Tenggara|Sumbawa Besar
-152.44.40.139:5566|Poland|Mazovia|Warsaw
-190.121.157.142:999|Colombia|Departamento de Norte de Santander|Cúcuta
-103.36.10.194:3125|Indonesia|Banten|Dahu
 103.143.25.245:8080|Indonesia|West Java|Bogor
-41.254.45.128:8080|Libya|Sha'biyat Banghazi|Benghazi
-190.109.16.145:999|Colombia|Departamento de Tolima|Ibague
+45.224.153.60:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
+167.172.178.193:33427|United States|New York|New York
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+38.130.249.137:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+165.0.50.110:8080|South Africa|Western Cape|Cape Town
+176.192.70.58:8025|Russia|Moscow|Moscow
+45.170.101.177:999|Chile|Santiago Metropolitan|Buin
+45.174.77.241:999|Mexico|Chihuahua|Chihuahua City
+201.222.45.65:999|Chile|Santiago Metropolitan|Santiago
+185.108.141.74:8080|Bulgaria|Sofia-Capital|Sofia
+58.82.151.242:8080|Thailand|Chon Buri|Bang Lamung
+36.91.108.141:3128|Indonesia|Jakarta|Jakarta
+157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
+119.62.125.252:3128|China|Yunnan|Dali
+103.80.82.169:3125|Indonesia|South Sulawesi|Makassar
+183.247.152.98:53281|Hong Kong|Central and Western District|Hong Kong
+103.165.253.137:3125|Indonesia|East Java|Jember
+183.88.172.137:8080|Thailand|Bangkok|Bangkok
+45.71.198.249:999|Argentina|Misiones|San Vicente
+138.0.91.227:999|Colombia|Departamento de Narino|Pasto
+205.207.102.9:8282|United States|Maryland|Millington
+211.234.125.5:443|South Korea|Seoul|Seoul
+102.68.128.214:8080|Libya|Tripoli|Tripoli
+190.107.237.22:999|Ecuador|Provincia del Guayas|Milagro
+103.165.1.2:8080|Indonesia|East Kalimantan|Samarinda
+103.152.232.234:8080|Indonesia|West Java|Subang
+139.224.165.41:1080|United Kingdom|England|London
+111.68.26.44:8080|Indonesia|Yogyakarta|Yogyakarta
+185.82.96.138:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+200.24.157.115:999|Ecuador|Provincia del Canar|Azogues
+180.250.252.221:8080|Indonesia|Jakarta|Jakarta
+41.222.209.12:808|Nigeria|FCT|Abuja
+41.222.209.9:808|Nigeria|FCT|Abuja
+190.106.118.86:999|Dominican Republic|Nacional|Santo Domingo
+58.254.141.70:8998|Hong Kong|Central and Western District|Central
+36.91.98.115:8181|Indonesia|Jakarta|Kapuk Utara
+103.124.86.1:8080|India|West Bengal|Kolkata
+190.217.81.60:999|Colombia|Bogota D.C.|Bogotá
+177.53.152.137:999|Peru|Lima|Lima
