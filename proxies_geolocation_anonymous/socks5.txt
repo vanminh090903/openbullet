@@ -1,5 +1,9 @@
-47.57.188.90:13028|Hong Kong|Central and Western|Hong Kong
-116.118.48.208:35050|Vietnam|Ho Chi Minh|Ho Chi Minh City
-125.141.139.198:5566|Netherlands|North Holland|Amsterdam
-125.141.133.53:5566|Sweden|Stockholm County|Stockholm
-166.62.52.254:11557|United States|Arizona|Scottsdale
+146.145.199.120:8080|United States|Pennsylvania|Bala-Cynwyd
+157.90.75.16:7497|Germany|Saxony|Falkenstein
+203.153.36.37:7497|India|Haryana|Gurugram
+172.104.93.75:12345|India|Maharashtra|Mumbai
+193.105.124.46:1080|Ukraine|Kharkiv|Pervomays'kyy
+5.161.100.145:1080|United States|Kansas|Wichita
+185.86.5.162:8975|Turkey|Istanbul|Istanbul
+116.118.48.208:50162|Vietnam|Ho Chi Minh|Ho Chi Minh City
+116.118.48.208:54499|Vietnam|Ho Chi Minh|Ho Chi Minh City
