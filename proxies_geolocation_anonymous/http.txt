@@ -1,37 +1,30 @@
 130.41.15.76:8080|United States|Colorado|Denver
-176.62.188.10:8123|Russia|Moscow|Moscow
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-170.55.161.167:80|United States|Florida|West Palm Beach
-71.19.249.118:8001|United States|West Virginia|Petersburg
-123.231.221.180:8080|Indonesia|South Sulawesi|Makassar
-216.176.187.99:8886|United States|Massachusetts|Peabody
-196.216.65.57:8080|Kenya|Nairobi Province|Nairobi
-205.207.100.33:8282|United States|Maryland|Millington
-190.107.237.12:999|Ecuador|Provincia del Guayas|Milagro
-54.39.30.143:999|Mexico|Hidalgo|Pachuca
-190.107.237.9:999|Ecuador|Provincia del Guayas|Milagro
-130.41.55.190:8080|United States|California|Los Angeles
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
-106.14.64.22:1080|Australia|New South Wales|Sydney
-103.175.156.142:8080|Indonesia|West Java|Depok
-157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
-138.121.161.82:8093|Argentina|Santa Fe|Rosario
-170.83.78.137:999|Venezuela|Distrito Federal|Caracas
-200.106.187.252:999|Argentina|Buenos Aires|Llavallol
-191.92.144.27:8080|Colombia|Antioquia|Medellín
-202.75.97.82:47009|Indonesia|Jakarta|Jakarta
-200.8.188.25:999|Venezuela|Yaracuy|Yaritagua
-180.211.91.43:3125|Indonesia|Jakarta|Jakarta
-80.249.187.83:8080|Russia|St.-Petersburg|St Petersburg
-167.172.173.210:41967|Germany|Land Berlin|Berlin
-196.251.222.229:8080|South Africa|North West|Brits
-190.108.82.98:999|Peru|Piura|Piura
-118.97.47.248:55443|Indonesia|Jakarta|Jakarta
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
 68.183.230.116:37803|India|Maharashtra|Pune
-181.224.253.29:8080|Peru|Lima|Lima
-201.77.108.96:999|Mexico|Chihuahua|Jimenez
-103.166.10.134:8181|Indonesia|East Java|Tulungagung
-103.48.68.35:83|India|Telangana|Hyderabad
-179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
+170.55.161.167:80|United States|Florida|West Palm Beach
+103.111.214.106:3129|Indonesia|West Java|Bekasi
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+80.249.187.83:8080|Russia|St.-Petersburg|St Petersburg
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+158.69.53.98:9300|United States|Texas|Austin
+190.107.237.16:999|Ecuador|Provincia del Guayas|Milagro
+103.11.106.212:8181|Indonesia|East Java|Madiun
+45.189.253.129:999|Mexico|Veracruz|San Sabastian Tierra Blanca
+194.169.167.5:8080|Serbia|Central Serbia|Belgrade
+71.19.249.118:8001|United States|Florida|St. Petersburg
+130.41.55.190:8080|United States|California|Los Angeles
+167.172.96.117:34739|Italy|Lombardy|Milan
+201.150.116.49:999|Mexico|Hidalgo|Atitalaquia
+167.172.173.210:43545|Netherlands|Gelderland|Rozendaal
+200.85.183.99:8080|Argentina|Neuquen|Neuquén
+200.106.187.252:999|Argentina|Buenos Aires|Llavallol
+186.125.218.185:999|Argentina|Salta|El Carmen
+139.224.226.158:1080|Poland|Mazovia|Warsaw
+190.107.233.236:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+116.224.117.28:8001|China|Shanghai|Shanghai
+41.222.209.9:808|Nigeria|FCT|Abuja
+117.121.204.9:7998|Indonesia|Jakarta|Jakarta
+139.224.165.41:1080|United Kingdom|England|London
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+205.207.100.33:8282|United States|Maryland|Millington
+103.81.13.129:60714|India|Rajasthan|Bhiwadi
