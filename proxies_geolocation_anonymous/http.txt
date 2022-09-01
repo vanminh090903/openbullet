@@ -1,50 +1,35 @@
-103.148.209.141:8282|Indonesia|East Java|Kediri
-176.192.70.58:8002|Russia|Moscow|Moscow
-113.160.155.129:19132|Vietnam|Tinh Bac Ninh|Bac Ninh
-158.69.71.245:9300|United States|New York|Brooklyn
-190.107.237.2:999|Ecuador|Provincia del Guayas|Milagro
-167.172.173.210:44541|Germany|Bavaria|Haßfurt
-122.222.68.76:8118|Singapore|North West|Singapore
 130.41.15.76:8080|United States|Colorado|Denver
-88.255.101.227:8080|Turkey|Istanbul|Orhanlı
-176.192.70.58:8001|Russia|Moscow|Moscow
-179.1.133.33:999|Colombia|Bogota D.C.|Bogotá
-45.175.238.96:999|Mexico|Hidalgo|Huichapan
-201.222.45.66:999|Chile|Santiago Metropolitan|Santiago
-185.82.96.51:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
-201.222.45.69:999|Chile|Santiago Metropolitan|Santiago
-205.207.102.9:8282|United States|Maryland|Millington
-45.156.29.128:9090|Turkey|Istanbul|Istanbul
-103.169.187.162:3125|Indonesia|East Java|Arosbaya
-183.88.132.96:8080|Thailand|Chiang Mai|Chiang Mai
-170.83.78.233:999|Venezuela|Distrito Federal|Caracas
-211.234.125.5:443|South Korea|Seoul|Seoul
-201.71.2.97:999|Venezuela|Distrito Federal|Caracas
-103.138.71.29:3125|Indonesia|Riau|Kurintji
-190.109.205.253:999|Honduras|Departamento de Olancho|Juticalpa
-45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
-189.129.100.76:999|Mexico|Chiapas|Tuxtla Gutiérrez
-45.231.221.193:999|Mexico|Baja California|Tijuana
-190.97.233.16:999|Venezuela|Portuguesa|Araure
-181.129.208.27:999|Colombia|Departamento de Risaralda|Pereira
-103.243.81.250:8080|Bangladesh|Chittagong|Cox's Bazar
-41.222.209.9:808|Nigeria|FCT|Abuja
-158.69.52.218:9300|Luxembourg|Mersch|Roost
-103.73.74.217:2021|Indonesia|West Java|Karawang
-103.155.54.245:83|India|West Bengal|Haldia
-79.127.56.148:8080|Iran|Razavi Khorasan|Mashhad
-190.120.186.3:999|Argentina|Buenos Aires|Bosques
-2.184.4.66:6565|Iran|Kerman|Kerman
-103.175.46.46:8181|Indonesia|West Java|Cirebon
-167.172.173.210:40335|Germany|Bavaria|Haßfurt
-103.137.84.17:83|India|Rajasthan|Jaipur
-139.224.226.158:1080|Poland|Mazovia|Warsaw
-36.95.177.177:8080|Indonesia|West Nusa Tenggara|Mataram
+185.182.222.178:8080|Iran|Tehran|Tehran
+187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
+103.155.54.73:83|India|West Bengal|Haldia
+201.77.108.192:999|Mexico|Chihuahua|Jimenez
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
+71.19.249.118:8001|United States|Alabama|Birmingham
+62.60.160.252:9000|Iran|Tehran|Tehran
+167.172.173.210:43545|Germany|Land Berlin|Berlin
 130.41.55.190:8080|United States|California|Los Angeles
-190.106.118.86:999|Dominican Republic|Nacional|Santo Domingo
-41.220.238.137:83|Kenya|Nairobi Province|Nairobi
-121.101.133.61:8080|Indonesia|Central Java|Kebumen Satu
-38.41.0.93:999|Venezuela|Distrito Federal|Caracas
-61.8.77.3:8088|Indonesia|Jakarta|Jakarta
-167.172.173.210:37589|Poland|Mazovia|Warsaw
-190.107.237.15:999|Ecuador|Provincia del Guayas|Milagro
+45.228.232.150:999|Guatemala|Departamento de Totonicapan|San Francisco El Alto
+193.3.52.5:8080|Turkey|Izmir|Cesme
+139.224.226.158:1080|Poland|Mazovia|Warsaw
+182.253.141.117:8080|Indonesia|Yogyakarta|Yogyakarta
+103.106.193.117:7532|India|Uttar Pradesh|Ghaziabad
+200.85.183.99:8080|Argentina|Neuquen|Neuquén
+194.169.167.5:8080|Serbia|Central Serbia|Belgrade
+41.222.209.12:808|Nigeria|FCT|Abuja
+170.246.85.108:50991|Ecuador|Provincia del Azuay|Cuenca
+157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
+143.208.58.90:8080|Guatemala|Departamento de Guatemala|Guatemala City
+203.142.71.51:8080|Indonesia|Jakarta|Jakarta
+113.160.209.113:19132|Vietnam|Ho Chi Minh|Ho Chi Minh City
+103.124.136.210:3125|Indonesia|Jakarta|Jakarta
+45.156.29.131:9090|Turkey|Istanbul|Istanbul
+107.173.156.247:8123|France|Île-de-France|Ivry-sur-Seine
+200.48.3.226:10101|Peru|Lima|Lima
+103.121.122.72:9812|Indonesia|Aceh|Lhokseumawe
+183.88.132.96:8080|Thailand|Chiang Mai|Chiang Mai
+190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+177.53.153.14:999|Peru|Lima|Lima
+190.92.67.210:999|Honduras|Departamento de Cortes|San Pedro Sula
+186.3.38.201:999|Ecuador|Provincia del Azuay|Cuenca
+139.224.165.41:1080|United Kingdom|England|London
