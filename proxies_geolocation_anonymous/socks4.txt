@@ -1,57 +1,68 @@
-117.102.75.171:5678|Indonesia|East Java|Malang
-113.160.247.115:4145|Vietnam|Da Nang|Da Nang
-162.255.108.249:5678|United States|Washington|Kennewick
-103.5.63.211:40544|Philippines|Central Luzon|San Jose del Monte
-103.61.198.118:4145|India|Maharashtra|Taharabad
-138.59.177.117:5678|Honduras|Departamento de Cortes|San Pedro Sula
-109.122.86.234:4153|Serbia|Central Serbia|Belgrade
-12.187.55.1:39593|United States|Indiana|Indianapolis
-83.168.84.134:4153|Poland|West Pomerania|Szczecin
-84.22.45.175:1080|Albania|Tirana|Tirana
-108.175.24.1:13135|United States|Texas|Liberty
-170.84.51.235:55731|Brazil|Rio de Janeiro|Rio de Janeiro
-95.0.206.211:10820|Turkey|Hatay|İskenderun
-109.127.82.115:5678|Iraq|Erbil|Erbil
-177.74.136.6:5678|Brazil|Rio Grande do Sul|São Leopoldo
-187.86.129.134:63253|Brazil|Rio Grande do Sul|Pelotas
-181.209.106.189:1080|Argentina|Buenos Aires|Benavidez
-188.75.186.152:4145|Czechia|Liberecky kraj|Rokytnice nad Jizerou
-37.18.73.94:5566|Croatia|City of Zagreb|Zagreb
-45.187.76.2:3629|Argentina|Entre Rios|La Paz
-69.36.63.128:1080|United States|Michigan|Morley
-200.41.60.33:4153|Argentina|Cordoba|Córdoba
-54.38.72.186:61053|United Kingdom|England|Purfleet-on-Thames
-181.209.106.188:1080|Argentina|Buenos Aires|Benavidez
-201.217.55.97:43110|Paraguay|Asuncion|Asunción
-166.62.52.254:27589|United States|Arizona|Scottsdale
-112.78.170.251:5678|Indonesia|Central Java|Rejanegara
-103.85.103.33:5678|India|Maharashtra|Mumbai
-103.66.177.17:32251|Bangladesh|Dhaka Division|Dhaka
-166.62.52.254:11557|United States|Arizona|Scottsdale
-216.105.130.33:39593|United States|South Carolina|Easley
+59.153.24.185:5678|Indonesia|Jakarta|Jakarta
+103.23.100.1:4145|Indonesia|Central Java|Semarang
+205.177.85.134:39593|Japan|Tokyo|Tokyo
+103.60.212.113:51754|India|Telangana|Hyderabad
+36.255.211.1:55438|India|Gujarat|Ahmedabad
+103.24.21.1:5678|India|Telangana|Hyderabad
+103.85.103.17:5678|India|Maharashtra|Mumbai
+45.249.101.4:56457|Bangladesh|Dhaka Division|Dhaka
+101.109.41.137:4153|Thailand|Narathiwat|Rueso
+109.238.223.1:51372|Czechia|Central Bohemia|Neratovice
+103.94.133.139:4153|Indonesia|Banten|Tangerang
+91.150.77.57:56921|Serbia|Vojvodina|Jarak
+177.55.247.181:5678|Brazil|Ceara|Fortaleza
+177.87.230.31:43573|Brazil|Santa Catarina|Tubarao
+177.86.64.93:3629|Brazil|Sao Paulo|Aracariguama
+131.196.180.1:4153|Argentina|Cordoba|Córdoba
+201.140.238.231:5678|Brazil|Pernambuco|Recife
+45.175.179.4:4145|Brazil|Goias|Goiânia
+181.88.73.150:5678|United States|Illinois|Chicago
+177.66.41.49:4145|Brazil|Rio Grande do Sul|Santo Cristo
+202.124.46.100:4145|Cambodia|Phnom Penh|Phnom Penh
+200.70.19.83:4153|Argentina|Buenos Aires F.D.|San Telmo
+177.93.78.9:4153|Brazil|Bahia|Juazeiro
+183.88.240.139:4153|Thailand|Chon Buri|Bang Lamung
+139.255.45.67:5678|Indonesia|Jakarta|Jakarta
+103.113.3.238:4145|Indonesia|Jakarta|Jakarta
+119.18.159.34:4145|Indonesia|West Java|Puspasari
+202.75.97.82:38238|Indonesia|Jakarta|Jakarta
+37.187.133.177:55894|India|Haryana|Hisar
 103.149.16.17:8080|India|Telangana|Hyderabad
-185.61.169.67:4145|Italy|Sicily|Palermo
-188.95.20.139:5678|Italy|Lazio|Rome
+216.215.125.182:48324|United States|Texas|Houston
+119.148.103.4:4153|Bangladesh|Dhaka Division|Dhaka
+94.72.158.129:4153|Bulgaria|Plovdiv|Plovdiv
+85.196.136.17:4153|Bulgaria|Stara Zagora|Stara Zagora
+188.190.101.143:4145|Slovakia|Trencin|Uhrovec
+213.6.145.33:4153|Palestine|Gaza|Gaza
+62.33.235.43:4153|Russia|Ivanovo Oblast|Teykovo
 103.114.96.126:8291|Bangladesh|Chittagong|Feni
-185.82.98.73:5678|Lebanon|Mohafazat Liban-Nord|Tripoli
-77.46.138.1:33608|Serbia|Central Serbia|Belgrade
-177.73.248.38:55290|Brazil|Sao Paulo|São Paulo
+155.133.83.169:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
+201.76.179.249:31337|Brazil|Rio de Janeiro|Rio de Janeiro
+188.75.186.152:4145|Czechia|Liberecky kraj|Rokytnice nad Jizerou
+185.32.44.1:4153|Azerbaijan|Baku City|Baku
+45.234.100.112:1080|Brazil|Pernambuco|Recife
 181.198.111.123:5678|Ecuador|Provincia del Guayas|Velasco Ibarra
-45.7.177.189:39867|Brazil|Alagoas|Porto de Pedras
-102.38.50.133:4153|Somalia|Banaadir|Mogadishu
-116.118.48.208:33739|Vietnam|Ho Chi Minh|Ho Chi Minh City
-41.190.232.52:36926|DR Congo|Lomami|Gandajika
-129.126.102.14:4153|Singapore|Central Singapore|Singapore
-202.162.214.250:5434|Indonesia|West Java|Pamulang
-202.137.141.183:5678|Laos|Vientiane Prefecture|Vientiane
-36.89.85.49:5678|Indonesia|Central Java|Semarang
-8.39.228.193:39593|United States|Colorado|Denver
-201.144.20.231:5678|Mexico|Mexico City|Mexico City
-14.102.20.53:5678|India|Haryana|Faridabad
-58.240.192.158:4145|China|Jiangsu|Suzhou
-93.105.171.113:4153|Poland|Pomerania|Gdynia
-77.46.138.153:33608|Serbia|Central Serbia|Belgrade
-191.6.133.20:4145|Brazil|Minas Gerais|Ouro Fino
-24.234.142.123:31008|United States|Nevada|Las Vegas
-45.172.177.1:59341|Argentina|Santa Fe|Carcarana
-200.0.247.83:4153|Argentina|Buenos Aires F.D.|Retiro
+75.119.206.112:32524|United States|California|Brea
+200.27.110.30:57702|Chile|Santiago Metropolitan|Santiago
+190.205.100.129:5678|Venezuela|Miranda|Caracas
+38.41.53.145:5678|Turkey|Konya|Konya
+5.183.179.117:45698|Germany|Hesse|Frankfurt am Main
+5.196.124.208:58588|France|Hauts-de-France|Roubaix
+116.118.48.208:50162|Vietnam|Ho Chi Minh|Ho Chi Minh City
+178.212.54.137:5678|Poland|Lubusz|Strzelce Krajenskie
+103.1.105.10:4153|Malaysia|Melaka|Malacca
+143.248.55.62:15566|Germany|Brandenburg|Brandenburg
+103.30.0.5:4145|Indonesia|Central Java|Semarang
+202.124.43.174:4145|Cambodia|Phnom Penh|Phnom Penh
+183.88.240.53:4145|Thailand|Bangkok|Samphanthawong
+103.5.63.212:40544|Philippines|Central Luzon|San Jose del Monte
+37.18.73.60:5566|Germany|Bavaria|Haßfurt
+1.186.40.9:39651|India|Maharashtra|Lohogaon
+103.210.29.201:31433|India|Uttar Pradesh|Kanpur
+190.83.2.52:1080|Honduras|Departamento de Cortes|Puerto Cortez
+190.0.22.36:61155|Colombia|Antioquia|Medellín
+103.109.59.77:1080|Bangladesh|Chittagong|Lakshmipur
+103.114.98.205:1080|Bangladesh|Chittagong|Feni
+91.93.143.10:4153|Turkey|Kocaeli|Mollafeneri
+45.229.192.61:5678|Colombia|Departamento de Caldas|Manizales
+85.196.136.13:4153|Bulgaria|Stara Zagora|Stara Zagora
