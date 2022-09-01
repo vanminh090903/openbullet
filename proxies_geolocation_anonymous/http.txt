@@ -1,31 +1,25 @@
-130.41.55.190:8080|United States|California|Los Angeles
-103.175.46.46:8181|Indonesia|West Java|Cirebon
 130.41.15.76:8080|United States|Colorado|Denver
 176.192.70.58:8017|Russia|Moscow|Moscow
-103.166.10.137:8181|Indonesia|East Java|Tulungagung
-63.250.52.82:8118|Luxembourg|Mersch|Roost
-203.202.255.67:8080|Bangladesh|Dhaka Division|Dhaka
-191.97.14.244:999|Colombia|Departamento de Boyaca|Moniquira
-38.41.0.93:999|Venezuela|Distrito Federal|Caracas
+139.224.165.41:1080|United Kingdom|England|London
+102.68.128.217:8080|Libya|Tripoli|Tripoli
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
+103.48.68.36:83|India|Telangana|Hyderabad
+71.19.249.118:8001|United States|Virginia|Yorktown
+117.102.75.13:9999|Indonesia|Jakarta|Jakarta
+190.107.233.232:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+103.48.68.35:83|India|Telangana|Hyderabad
+189.201.153.91:999|Mexico|Chiapas|Tuxtla Gutiérrez
+170.83.79.17:999|Venezuela|Distrito Federal|Caracas
+130.41.55.190:8080|United States|California|Los Angeles
+202.61.254.57:8118|United States|Nevada|Las Vegas
+102.68.128.215:8080|Libya|Tripoli|Tripoli
+190.108.85.189:999|Peru|Junin|Huancayo
 201.158.44.163:4343|Brazil|Sao Paulo|São Paulo
-191.97.14.26:999|Colombia|Antioquia|Medellín
-151.248.16.57:8080|Netherlands|Utrecht|Nieuwegein
-113.160.159.160:19132|Vietnam|Tinh Bac Giang|Bac Giang
-170.254.201.29:3180|Brazil|Rio de Janeiro|Sao Goncalo
-106.14.64.22:1080|Australia|New South Wales|Sydney
-205.207.103.73:8282|United States|Maryland|Millington
-103.159.90.210:82|India|Rajasthan|Aklera
-103.124.198.130:3125|Indonesia|Riau|Batam
-103.123.169.177:83|Bangladesh|Dhaka Division|Dhaka
-103.145.130.150:8080|Indonesia|East Java|Sidoarjo
-45.182.141.112:999|Venezuela|Carabobo|Valencia
-103.165.1.2:8080|Indonesia|East Kalimantan|Samarinda
-83.238.80.15:8081|Poland|Podlasie|Szepietowo
-170.55.161.167:80|United States|Florida|West Palm Beach
-103.48.68.35:84|India|Telangana|Hyderabad
-103.48.68.36:84|India|Telangana|Hyderabad
-157.100.53.106:999|Ecuador|Provincia de El Oro|Machala
-200.24.157.118:999|Ecuador|Provincia del Canar|Azogues
-103.80.82.169:3125|Indonesia|South Sulawesi|Makassar
-103.153.246.105:3125|Indonesia|South Sulawesi|Makassar
-191.97.16.113:999|Venezuela|Distrito Federal|Caracas
+103.74.146.105:83|India|National Capital Territory of Delhi|Delhi
+123.112.213.132:9000|China|Beijing|Beijing
+41.222.209.9:808|Nigeria|FCT|Abuja
+157.119.211.133:8080|India|Andhra Pradesh|Tirupati
+41.222.209.12:808|Nigeria|FCT|Abuja
+161.35.214.127:46269|Austria|Vienna|Vienna
+152.231.25.195:60080|Colombia|Departamento del Valle del Cauca|Santiago de Cali
