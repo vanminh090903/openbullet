@@ -1,50 +1,34 @@
-130.41.15.76:8080|United States|Colorado|Denver
-130.41.55.190:8080|United States|California|Los Angeles
-71.19.249.118:8001|United States|North Carolina|Kings Mountain
+95.216.194.46:1080|Latvia|Jēkabpils Municipality|Jēkabpils
+103.154.230.89:5678|Indonesia|East Java|Sukorejo
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-158.69.72.138:9300|Sweden|Stockholm County|Stockholm
-103.166.210.123:443|Indonesia|Banten|Tangerang
-103.152.232.194:8080|Indonesia|West Java|Bekasi
-149.57.11.17:8181|United States|Indiana|Frankton
-103.155.166.92:8181|Indonesia|West Java|Bekasi
-167.114.96.27:9300|Sweden|Stockholm County|Stockholm
-157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
-45.189.113.63:999|Ecuador|Provincia del Guayas|Milagro
+130.41.15.76:8080|United States|Colorado|Denver
 45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-158.69.53.132:9300|Iceland|Capital Region|Reykjavik
-202.6.227.174:3888|Indonesia|East Java|Surabaya
-200.48.3.227:10101|Peru|Lima|Lima
-91.221.240.20:1515|Iran|Tehran|Tehran
-103.168.166.255:9091|Indonesia|Central Java|Temanggung
-103.154.230.138:8080|Indonesia|East Java|Lamongan
-119.2.41.85:8080|Indonesia|Jakarta|Jakarta
-203.189.89.158:8080|Indonesia|West Java|Bandung
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
-170.83.79.17:999|Venezuela|Distrito Federal|Caracas
-183.33.192.180:9797|China|Guangdong|Mutouchong
-186.125.218.185:999|Argentina|Salta|El Carmen
-190.113.41.164:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-216.176.187.99:30039|United States|New York|Queens
-103.114.98.217:6000|Bangladesh|Chittagong|Lakshmipur
-190.107.233.228:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-177.93.51.168:999|Colombia|Departamento del Meta|Villavicencio
-45.225.184.145:999|Chile|Santiago Metropolitan|Melipilla
-103.74.146.105:83|India|National Capital Territory of Delhi|Delhi
-41.222.209.9:808|Nigeria|FCT|Abuja
-103.147.77.66:5021|Indonesia|West Nusa Tenggara|Sumbawa Besar
-103.155.54.233:83|India|West Bengal|Haldia
+45.169.98.73:8080|Colombia|Departamento del Putumayo|Valle del Guamuez
+95.216.224.238:8118|United States|Arizona|Tempe
+200.155.136.77:8080|Brazil|Rio Grande do Sul|Porto Alegre
+38.41.0.91:999|Venezuela|Distrito Federal|Caracas
+45.121.216.219:55443|Indonesia|Banten|South Tangerang
+116.0.4.54:8080|Indonesia|Jakarta|Jakarta
+45.170.100.9:999|Chile|Santiago Metropolitan|Buin
+80.249.187.83:8080|Russia|St.-Petersburg|St Petersburg
+177.23.54.10:6006|Brazil|Rio Grande do Sul|Imigrante
+103.15.140.177:44759|Bangladesh|Rangpur Division|Thakurgaon
+115.124.85.20:8080|Indonesia|West Java|Bekasi
+190.85.141.170:9090|Colombia|Departamento de Santander|Bucaramanga
+103.155.54.245:83|India|West Bengal|Haldia
+95.216.12.141:22201|Sweden|Östergötland|Linköping
+103.173.233.242:8080|Indonesia|East Java|Medokanayu
+45.184.73.16:40033|Brazil|Bahia|Queimadas
+46.101.126.180:35601|Germany|Bavaria|Nuremberg
 41.222.209.12:808|Nigeria|FCT|Abuja
-103.169.187.130:3125|Indonesia|East Java|Pasuruan
-181.13.254.51:999|Argentina|Buenos Aires F.D.|Buenos Aires
-103.153.232.241:8080|Nepal|Lumbini Province|Lumbini
-201.77.108.192:999|Mexico|Chihuahua|Chihuahua City
-200.106.187.252:999|Argentina|Buenos Aires|Jose Maria Ezeiza
-45.189.116.21:999|Peru|Lima|Lima
-202.91.78.194:84|India|Rajasthan|Aklera
-181.10.117.254:999|Argentina|Tucuman|La Cocha
-181.49.217.254:8080|Colombia|Bogota D.C.|Bogotá
-190.2.210.124:999|Colombia|Departamento de Narino|Tuquerres
-162.252.145.225:8282|United States|Indiana|Daleville
-36.94.183.153:8080|Indonesia|West Java|Bekasi
-88.255.101.230:8080|Turkey|Istanbul|Orhanlı
+191.97.16.119:999|Venezuela|Distrito Federal|Caracas
+77.197.101.70:8118|Switzerland|Zurich|Zurich
+102.68.128.218:8080|Libya|Tripoli|Tripoli
+190.237.238.211:999|Peru|La Libertad|Trujillo
+71.19.249.118:8001|United States|Virginia|Danville
+170.83.77.9:999|Venezuela|Distrito Federal|Caracas
+190.6.204.82:999|Honduras|Departamento de Cortes|San Pedro Sula
+85.25.111.162:5566|Luxembourg|Mersch|Roost
+128.201.119.251:999|Chile|Santiago Metropolitan|Providencia
+161.35.214.127:43365|Germany|Brandenburg|Brandenburg
+46.101.126.180:45861|Switzerland|Vaud|Belmont-sur-Lausanne
