@@ -1,41 +1,51 @@
-183.89.165.201:8080|Thailand|Nakhon Ratchasima|Nakhon Ratchasima
-103.154.230.89:5678|Indonesia|East Java|Sukorejo
 145.40.73.107:9443|Singapore|North West|Singapore
 130.41.15.76:8080|United States|Colorado|Denver
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-218.185.234.197:8080|Australia|Victoria|Melbourne
-158.69.53.98:9300|United States|New York|New York
-167.114.96.27:9300|Denmark|Capital Region|Graested
-121.101.133.68:8080|Indonesia|Central Java|Kebumen Satu
-103.80.82.165:3125|Indonesia|South Sulawesi|Makassar
-188.209.232.176:8080|Yemen|Amanat Alasimah|Sanaa
-190.2.210.124:999|Colombia|Departamento de Narino|Tuquerres
-185.108.141.114:8080|Bulgaria|Sofia-Capital|Sofia
-78.38.100.121:8080|Iran|Tehran|Tehran
-217.11.184.27:3128|Tajikistan|Dushanbe|Dushanbe
-116.224.117.28:8001|China|Shanghai|Shanghai
-181.49.217.254:8080|Colombia|Bogota D.C.|Bogotá
-103.131.18.211:3125|Indonesia|Central Java|Purbayan
+110.164.59.101:8080|Thailand|Nonthaburi|Pak Kret
 45.175.238.96:999|Mexico|Hidalgo|Huichapan
-161.22.34.118:8080|Venezuela|Distrito Federal|Caracas
-187.102.236.161:999|Mexico|Chihuahua|Ciudad Delicias
-103.155.54.233:83|India|West Bengal|Haldia
-170.244.210.110:999|Ecuador|Provincia del Canar|Canar
-45.184.73.16:40033|Brazil|Bahia|Queimadas
-139.255.94.123:39635|Indonesia|Jakarta|Jakarta
-200.60.111.60:999|Peru|Lima region|Barranca
-202.6.227.174:3888|Indonesia|East Java|Surabaya
-41.222.209.9:808|Nigeria|FCT|Abuja
-46.101.126.180:45861|United Kingdom|England|Harrow
-185.190.38.154:8080|Serbia|Central Serbia|Belgrade
-36.89.156.150:8080|Indonesia|Jakarta|Jakarta
-138.0.91.227:999|Colombia|Departamento de Narino|Pasto
-103.133.26.107:8181|Indonesia|Central Java|Kudus
-51.79.50.22:9300|Germany|North Rhine-Westphalia|Bonn
-152.44.40.139:5566|United States|New York|Buffalo
-101.53.154.137:2012|Denmark|Capital Region|Graested
-154.0.14.113:8080|South Africa|Gauteng|Sandton
+191.102.74.113:8080|Colombia|Bogota D.C.|Bogotá
 176.235.131.234:9090|Turkey|Istanbul|Istanbul
-186.215.87.194:8921|Brazil|Federal District|Brasília
-103.147.77.66:5021|Indonesia|West Nusa Tenggara|Sumbawa Besar
+61.7.146.7:80|Thailand|Ratchaburi|Ban Kha
+95.216.64.229:22201|Sweden|Östergötland|Linköping
+176.192.70.58:8025|Russia|Moscow|Moscow
+176.192.70.58:8004|Russia|Moscow|Moscow
+130.41.55.190:8080|United States|California|Los Angeles
+158.69.27.94:9300|Netherlands|North Holland|Oude Meer
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+43.129.93.240:7890|United States|California|Los Angeles
+102.68.128.212:8080|Libya|Tripoli|Tripoli
+179.1.65.182:999|Colombia|Departamento de Cordoba|Sahagun
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+170.83.79.17:999|Venezuela|Distrito Federal|Caracas
+71.19.249.118:8001|United States|North Carolina|Winterville
+190.97.233.16:999|Venezuela|Portuguesa|Araure
+200.54.25.228:6969|Chile|Santiago Metropolitan|Maipu
+79.253.201.252:8080|Germany|Bavaria|Freilassing
+186.148.184.130:999|Colombia|Bogota D.C.|Bogotá
+103.18.77.235:8080|Indonesia|West Java|Bogor
+103.166.10.134:8181|Indonesia|East Java|Tulungagung
+88.255.101.237:8080|Turkey|Istanbul|Orhanlı
+103.155.54.233:84|India|West Bengal|Haldia
+190.90.224.122:999|Colombia|Departamento del Cauca|Popayán
+103.159.221.7:3125|Indonesia|Bali|Singaraja
+178.130.83.148:8080|Yemen|Amanat Alasimah|Sanaa
+45.190.79.160:999|Mexico|Jalisco|Yahualica de Gonzalez Gallo
+139.224.165.41:1080|United Kingdom|England|London
+103.133.26.107:8181|Indonesia|Central Java|Kudus
+187.19.200.225:8080|Brazil|Ceara|Pereiro
+202.180.16.1:8080|Indonesia|West Java|Karawang
+165.16.113.98:8080|Libya|Tripoli|Tripoli
+103.169.254.57:3125|Indonesia|East Java|Pasuruan
+103.81.212.192:83|India|Uttarakhand|Gopeshwar
+201.222.45.68:999|Chile|Santiago Metropolitan|Santiago
+190.107.233.231:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+46.101.126.180:45895|Germany|North Rhine-Westphalia|Bonn
+190.107.237.19:999|Ecuador|Provincia del Guayas|Milagro
+103.87.212.140:8080|Bangladesh|Dhaka Division|Dhaka
+186.125.218.185:999|Argentina|Salta|El Carmen
+95.216.12.141:22215|Sweden|Östergötland|Linköping
+191.102.107.235:999|Colombia|Departamento de Santander|Bucaramanga
+201.150.116.128:999|Mexico|Hidalgo|Huitel
+89.203.235.110:9999|Czechia|Central Bohemia|Brandys nad Labem-Stara Boleslav
+181.209.117.54:8080|Argentina|Buenos Aires|Benavidez
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+103.83.97.238:8080|Indonesia|Yogyakarta|Yogyakarta
