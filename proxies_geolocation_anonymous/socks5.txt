@@ -1,7 +1,9 @@
-103.213.118.46:1080|Indonesia|Jambi|Jambi City
-212.83.143.159:55270|France|Auvergne-Rhone-Alpes|Clermont-Ferrand
-31.128.248.2:1080|Ukraine|Cherkasy Oblast|Cherkasy
-37.18.73.94:5566|Czechia|Kralovehradecky kraj|Hradec Králové
-37.18.73.60:5566|Germany|Land Berlin|Berlin
+130.185.121.228:50002|Sweden|Stockholm County|Stockholm
+58.210.196.42:7302|China|Jiangsu|Suzhou
+190.2.137.129:37909|Netherlands|North Holland|Amsterdam
+37.187.133.177:57114|Vietnam|Ho Chi Minh|Ho Chi Minh City
+223.223.198.206:6003|Hong Kong|Central and Western District|Central
 222.88.201.188:7302|China|Henan|Nanyang
-193.105.124.46:1080|Ukraine|Kharkiv|Pervomays'kyy
+37.187.133.177:55443|France|Île-de-France|Paris
+37.59.50.81:9050|Germany|Baden-Wurttemberg|Karlsruhe
+223.223.198.206:7003|Hong Kong|Central and Western District|Central
