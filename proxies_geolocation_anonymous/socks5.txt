@@ -1,10 +1,11 @@
-112.54.33.47:7302|Hong Kong|Central and Western District|Central
-203.28.246.126:1337|Germany|Land Berlin|Berlin
-5.161.100.145:1080|United States|Kansas|Wichita
-203.153.36.37:7497|India|Haryana|Gurugram
-37.18.73.60:5566|Netherlands|North Holland|Amsterdam
-75.119.201.146:15745|United States|California|Brea
-185.86.5.162:8975|Turkey|Istanbul|Istanbul
+75.119.206.135:15745|United States|California|Brea
 130.185.121.228:50002|Sweden|Stockholm County|Stockholm
-210.16.73.80:1080|Philippines|Metro Manila|Manila
-125.141.139.110:5566|United States|Nevada|Las Vegas
+112.54.33.47:7302|Hong Kong|Central and Western District|Central
+5.161.100.145:1080|United States|Kansas|Wichita
+185.86.5.162:8975|Turkey|Istanbul|Istanbul
+37.18.73.60:5566|Germany|North Rhine-Westphalia|Bonn
+159.69.153.169:5566|France|Bourgogne-Franche-Comté|Bavilliers
+120.79.112.57:1284|Portugal|Coimbra|Miranda do Corvo
+37.187.133.177:55462|Brazil|Sao Paulo|São Paulo
+203.153.36.37:7497|India|Haryana|Gurugram
+188.127.224.46:4711|United States|Illinois|Decatur
