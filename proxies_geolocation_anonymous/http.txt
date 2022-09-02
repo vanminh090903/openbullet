@@ -1,30 +1,23 @@
-110.78.138.190:8080|Thailand|Bangkok|Din Daeng
 130.41.55.190:8080|United States|California|Los Angeles
-179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
-45.175.238.96:999|Mexico|Hidalgo|Huichapan
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
 130.41.15.76:8080|United States|Colorado|Denver
-176.192.70.58:8025|Russia|Moscow|Moscow
-45.189.117.42:999|Peru|Lima|Lima
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
-183.33.192.180:9797|China|Guangdong|Mutouchong
-185.142.43.217:8080|Lebanon|Mohafazat Baalbek-Hermel|Bednâyel
-170.254.201.40:3180|Brazil|Rio de Janeiro|Sao Goncalo
-103.155.54.245:83|India|West Bengal|Haldia
-190.107.233.228:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-200.229.147.2:999|Honduras|Departamento de Comayagua|Valle de Ángeles
-200.85.183.100:8080|Argentina|Neuquen|Neuquén
-47.241.189.54:3127|Indonesia|Banten|Tangerang
-103.30.246.41:8888|Indonesia|Central Java|Kebumen Satu
-170.83.77.25:999|Venezuela|Distrito Federal|Caracas
-186.125.218.185:999|Argentina|Salta|El Carmen
-190.97.233.16:999|Venezuela|Carabobo|El Vigia
-179.42.78.68:999|Colombia|Departamento de Arauca|Saravena
+14.207.120.129:8080|Thailand|Bangkok|Bangkok
+45.175.238.96:999|Mexico|Hidalgo|Huichapan
+177.234.236.12:999|Ecuador|Provincia de El Oro|Machala
+211.234.125.5:443|South Korea|Seoul|Seoul
+191.92.144.27:8080|Colombia|Antioquia|Medellín
+190.107.233.235:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+103.145.45.57:55443|Bangladesh|Dhaka Division|Nāgarpur
 41.222.209.9:808|Nigeria|FCT|Abuja
-119.62.125.252:3128|China|Yunnan|Dali
-103.159.196.215:1085|Indonesia|West Java|Bekasi
-200.155.136.77:8080|Brazil|Rio Grande do Sul|Porto Alegre
-180.210.184.226:8080|Bangladesh|Dhaka Division|Dhaka
-85.62.10.93:8080|Spain|Madrid|Madrid
-103.169.187.162:3125|Indonesia|East Java|Arosbaya
+139.255.94.123:39635|Indonesia|Jakarta|Jakarta
+41.222.209.12:808|Nigeria|FCT|Abuja
+103.154.230.99:5678|Indonesia|East Java|Sukorejo
+167.172.96.117:33747|Germany|Brandenburg|Brandenburg
+71.19.249.118:8001|United States|Maryland|Baltimore
+45.224.153.60:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
+167.172.173.210:39569|Germany|Brandenburg|Brandenburg
+85.25.111.162:5566|Germany|Bavaria|Haßfurt
+190.107.237.2:999|Ecuador|Provincia del Guayas|Milagro
+47.241.189.54:3127|Indonesia|Banten|Tangerang
+92.80.1.202:8082|Romania|Bucharest|Bucharest
