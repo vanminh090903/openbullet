@@ -1,51 +1,44 @@
-103.153.40.38:8080|Indonesia|Jakarta|Jakarta
-130.41.15.76:8080|United States|Colorado|Denver
-61.7.146.7:80|Thailand|Ratchaburi|Ban Kha
 130.41.55.190:8080|United States|California|Los Angeles
-95.216.12.141:22209|Sweden|Östergötland|Linköping
-51.79.50.46:9300|Germany|Brandenburg|Brandenburg
-95.216.12.141:22201|Sweden|Östergötland|Linköping
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+161.35.214.127:43365|Germany|Brandenburg|Brandenburg
+14.207.123.29:8080|Thailand|Bangkok|Bangkok
+185.20.198.108:8080|Iraq|Basra|Basrah
 45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-158.69.53.98:9300|Germany|Brandenburg|Brandenburg
-176.192.70.58:8003|Russia|Moscow|Moscow
-190.107.233.228:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-45.174.78.64:999|Mexico|Chihuahua|Ciudad Juárez
-102.68.135.229:8080|Libya|Tripoli|Tripoli
-45.189.252.130:999|Mexico|Veracruz|Alvarado
-201.222.45.66:999|Chile|Santiago Metropolitan|Santiago
-191.97.16.111:999|Venezuela|Distrito Federal|Caracas
-187.102.236.161:999|Mexico|Chihuahua|Ciudad Delicias
-85.25.201.22:5566|United States|New York|New York
-189.164.87.79:10101|Mexico|Puebla|Puebla City
-190.242.36.131:999|Colombia|Departamento del Cauca|Padilla
-190.217.10.12:999|Venezuela|Distrito Federal|Caracas
-41.180.68.195:8080|South Africa|Gauteng|Germiston
-187.190.0.240:999|Mexico|Mexico City|Mexico City
-103.155.166.94:8181|Indonesia|West Java|Bekasi
-167.172.173.210:35529|United States|Texas|Austin
-103.170.22.50:8089|Indonesia|Central Java|Kemantren Satu
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-103.175.46.105:3125|Indonesia|West Java|Cirebon
-149.57.11.17:8181|United States|Indiana|Frankton
-176.192.70.58:8025|Russia|Moscow|Moscow
-38.41.0.90:999|Venezuela|Distrito Federal|Caracas
-41.222.209.12:808|Nigeria|FCT|Abuja
-41.222.209.9:808|Nigeria|FCT|Abuja
-45.172.111.14:999|Argentina|San Juan|Caucete
-205.207.102.9:8282|United States|Maryland|Centreville
-49.128.180.177:8080|Indonesia|Yogyakarta|Yogyakarta
-45.224.23.148:999|Ecuador|Provincia de Manabi|Portoviejo
-46.101.126.180:45861|Sweden|Stockholm County|Stockholm
-218.185.234.197:8080|Australia|Victoria|Melbourne
-91.121.169.13:5566|United States|Wisconsin|Milwaukee
-190.128.129.10:8080|Paraguay|Asuncion|Asunción
-190.120.186.10:999|Argentina|Buenos Aires|Bosques
-190.119.122.130:999|Peru|Lima|Lima
-131.161.238.126:8090|Argentina|Tucuman|San Miguel de Tucumán
-103.169.187.162:3125|Indonesia|East Java|Arosbaya
-170.83.77.181:999|Venezuela|Distrito Federal|Caracas
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+158.69.71.245:9300|France|Île-de-France|Paris
+201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
+51.79.50.22:9300|Germany|Bavaria|Haßfurt
+102.68.128.217:8080|Libya|Tripoli|Tripoli
+103.48.68.36:83|India|Telangana|Hyderabad
 139.224.226.173:1080|Poland|Mazovia|Warsaw
-123.112.213.132:9000|China|Beijing|Beijing
-190.110.99.104:999|Chile|Atacama|Copiapó
-181.214.85.65:999|Dominican Republic|Puerto Plata|Puerto Plata
+51.79.50.31:9300|Germany|Brandenburg|Brandenburg
+122.102.118.83:8080|Iraq|Baghdad|Baghdad
+103.156.75.34:8080|Indonesia|Bali|Ubud
+103.80.77.1:443|Indonesia|Jakarta|Jakarta
+71.19.249.118:8001|United States|New York|Utica
+181.10.117.254:999|Argentina|Tucuman|La Cocha
+180.210.184.226:8080|Bangladesh|Dhaka Division|Dhaka
+185.82.98.42:9091|Lebanon|Mohafazat Liban-Nord|Tripoli
+201.217.55.97:8080|Paraguay|Asuncion|Asunción
+185.190.38.145:8080|Serbia|Central Serbia|Belgrade
+103.175.46.39:3125|Indonesia|West Java|Cirebon
+130.41.15.76:8080|United States|Colorado|Denver
+176.192.70.58:8018|Russia|Moscow|Moscow
+45.225.88.130:8080|Ecuador|Provincia de Pichincha|Quito
+103.145.57.109:8080|Bangladesh|Rajshahi Division|Bogra
+200.106.187.246:999|Argentina|Buenos Aires|Jose Maria Ezeiza
+202.6.227.174:3888|Indonesia|East Java|Surabaya
+200.106.187.247:999|Argentina|Buenos Aires|Jose Maria Ezeiza
+45.177.109.220:999|Colombia|Bogota D.C.|Bogotá
+38.10.247.165:9991|United States|Florida|Boca Raton
+216.176.187.99:8886|United States|Massachusetts|Springfield
+190.107.237.22:999|Ecuador|Provincia del Guayas|Milagro
+117.54.11.85:3128|Indonesia|Jakarta|Jakarta
+190.107.233.229:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
+85.25.111.162:5566|United States|Virginia|Ashburn
+46.101.126.180:35601|Pakistan|Punjab|Lahore
+116.0.4.54:8080|Indonesia|Jakarta|Jakarta
+103.153.40.38:8080|Indonesia|Jakarta|Jakarta
+167.172.173.210:36765|Sweden|Stockholm County|Stockholm
+182.253.6.236:8080|Indonesia|West Java|Cibuntu
+190.90.86.81:999|Colombia|Departamento de Norte de Santander|Cúcuta
