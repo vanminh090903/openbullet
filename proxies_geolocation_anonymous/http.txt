@@ -1,29 +1,31 @@
-103.145.130.150:8080|Indonesia|East Java|Sidoarjo
-130.41.15.76:8080|United States|Colorado|Denver
-198.52.241.12:999|France|Île-de-France|Paris
+103.152.232.194:8080|Indonesia|West Java|Bekasi
 130.41.55.190:8080|United States|California|Los Angeles
-200.229.147.2:999|Honduras|Departamento de Comayagua|Valle de Ángeles
-38.41.0.92:999|Venezuela|Distrito Federal|Caracas
-103.156.75.42:8181|Indonesia|Bali|Banjar Kelodan
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+51.222.160.42:3128|United Arab Emirates|Dubai|Dubai
+47.241.189.54:3127|Indonesia|Banten|Tangerang
+212.154.82.52:9090|Turkey|Istanbul|Istanbul
+176.192.70.58:8025|Russia|Moscow|Moscow
+170.83.79.17:999|Venezuela|Distrito Federal|Caracas
+103.133.26.107:8181|Indonesia|Central Java|Kudus
+95.216.194.46:1080|France|Occitanie|Pellefigue
 103.159.221.7:3125|Indonesia|Bali|Singaraja
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-63.250.52.82:8118|United States|New York|New York
-71.19.249.118:8001|United States|Illinois|Glendale Heights
-190.107.233.228:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-179.1.129.94:999|Colombia|Departamento de Tolima|Ibague
-190.217.10.12:999|Venezuela|Distrito Federal|Caracas
-170.254.201.40:3180|Brazil|Rio de Janeiro|Sao Goncalo
-139.224.226.158:1080|Poland|Mazovia|Warsaw
-51.222.160.42:3128|United Arab Emirates|Dubai|Dubai
-102.68.78.195:8080|Kenya|Nairobi Province|Nairobi
-102.68.135.157:8080|Libya|Tripoli|Tripoli
-201.217.55.97:8080|Paraguay|Asuncion|Asunción
-191.97.16.117:999|Venezuela|Distrito Federal|Caracas
-190.7.57.61:999|Argentina|Santa Fe|Rosario
-190.185.116.161:999|Honduras|Departamento de Cortes|San Pedro Sula
-102.68.128.211:8080|Libya|Tripoli|Tripoli
-139.224.226.173:1080|Poland|Mazovia|Warsaw
-202.137.3.209:3888|Indonesia|Jakarta|Jakarta
-103.81.13.129:60714|India|Rajasthan|Bhiwadi
-93.115.18.235:8118|United States|Texas|Austin
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+102.68.135.21:8080|Libya|Tripoli|Tripoli
+110.232.67.44:55443|Indonesia|North Sumatra|Medan
+130.41.15.76:8080|United States|Colorado|Denver
+118.97.47.250:55443|Indonesia|Jakarta|Jakarta
+201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+190.90.242.208:999|Colombia|Departamento de Norte de Santander|Ocaña
+92.80.1.202:8082|Romania|Bucharest|Bucharest
+190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+170.0.87.203:999|Argentina|Misiones|Andresito
+71.19.249.118:8001|United States|California|Westminster
+38.41.0.90:999|Venezuela|Distrito Federal|Caracas
+103.14.72.196:8080|Bangladesh|Dhaka Division|Dhaka
+41.222.209.9:808|Nigeria|FCT|Abuja
+190.104.134.145:3128|Paraguay|Asuncion|Asunción
+103.166.210.123:443|Indonesia|Banten|Tangerang
+103.87.212.140:8080|Bangladesh|Dhaka Division|Dhaka
+103.75.27.58:8087|Indonesia|West Java|Bekasi
+45.175.160.29:999|Argentina|Mendoza|Tunuyan
+201.71.2.41:999|Venezuela|Distrito Federal|Caracas
