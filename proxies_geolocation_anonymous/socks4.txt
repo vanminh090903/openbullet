@@ -1,67 +1,83 @@
-180.250.54.165:4145|Indonesia|East Java|Ngawi
-103.30.0.249:4145|Indonesia|Central Java|Semarang
-175.139.201.193:4153|Malaysia|Penang|Perai
-183.88.240.139:4153|Thailand|Chon Buri|Pattaya
-223.165.243.209:47205|South Korea|Jeollanam-do|Naju-si
-103.96.40.172:5678|India|Maharashtra|Pune
-103.115.255.94:36331|Bangladesh|Dhaka Division|Savar Upazila
-195.219.98.27:5678|Spain|Basque Country|Bilbao
-83.168.84.137:4153|Poland|West Pomerania|Szczecin
-93.105.171.128:4153|Poland|Pomerania|Gdynia
-178.216.0.168:39316|Ukraine|Kharkiv|Kharkiv
-46.98.247.92:1080|Ukraine|Dnipropetrovsk Oblast|Dnipro
-138.59.177.117:5678|Honduras|Departamento de Cortes|San Pedro Sula
-45.160.221.153:5678|Brazil|Pernambuco|Abreu e Lima
-109.238.189.104:4145|Iran|Tehran|Tehran
-131.161.68.41:35944|Brazil|Rio de Janeiro|Rio de Janeiro
-185.170.233.107:47574|Cyprus|Limassol District|Limassol
-200.0.247.86:4153|Argentina|Buenos Aires F.D.|Retiro
-155.133.83.161:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
-37.18.73.94:5566|United States|Nevada|Las Vegas
-103.206.245.65:5430|Indonesia|Jakarta|Jakarta
-103.143.20.82:4153|Indonesia|East Java|Ponorogo
-202.137.141.183:5678|Laos|Vientiane Prefecture|Vientiane
-37.111.50.251:4153|Myanmar|Yangon|Yangon
-101.109.41.137:4153|Thailand|Narathiwat|Rueso
-36.255.211.1:55438|India|Gujarat|Ahmedabad
-115.127.75.27:7777|Bangladesh|Dhaka Division|Dhaka
-148.77.34.200:54321|United States|New Jersey|Bayonne
+222.165.223.139:41541|Indonesia|Jakarta|Jakarta
+1.179.130.201:4153|Thailand|Surin|Tha Tum
+103.60.212.113:51754|India|Telangana|Hyderabad
+103.229.85.54:4145|Bangladesh|Dhaka Division|Dhaka
+205.177.85.134:39593|Japan|Tokyo|Tokyo
+173.195.27.134:10091|United States|Oklahoma|Lawton
+50.207.44.142:3355|United States|Illinois|Oak Park
+216.105.130.33:39593|United States|South Carolina|Easley
+190.83.2.54:1080|Honduras|Departamento de Cortes|Puerto Cortez
+190.83.2.51:1080|Honduras|Departamento de Cortes|Puerto Cortez
 185.61.169.67:4145|Italy|Sicily|Palermo
-190.120.249.149:4145|Venezuela|Carabobo|Valencia
-90.181.150.211:4145|Czechia|Hlavni mesto Praha|Prague
-103.109.59.193:1080|Bangladesh|Chittagong|Feni
-83.168.84.134:4153|Poland|West Pomerania|Szczecin
+162.12.217.89:3629|France|Île-de-France|Paris
+195.120.78.30:5678|Italy|Lombardy|Milan
+212.126.5.245:42344|Poland|Greater Poland|Poznan
+173.230.147.173:19527|Canada|Quebec|Beauharnois
+191.97.2.198:5678|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+185.171.54.29:4153|Iran|Tehran|Tehran
+195.158.223.133:4153|Ukraine|Luhansk|Luhansk
+177.12.178.9:4153|Brazil|Rio de Janeiro|Belford Roxo
+92.42.8.21:4145|Russia|Stavropol Kray|Pyatigorsk
+177.72.113.225:31164|Brazil|Sao Paulo|São Paulo
+31.209.96.173:51688|Cyprus|Keryneia|Kyrenia
+201.234.24.1:4153|Argentina|Cordoba|Córdoba
+200.0.247.86:4153|Argentina|Buenos Aires F.D.|Retiro
+181.212.10.89:4153|Chile|Region de Valparaiso|Villa Alemana
+103.115.255.193:36331|Bangladesh|Dhaka Division|Savar Upazila
+81.199.14.17:1088|United Kingdom|England|London
+37.18.73.60:5566|Poland|Mazovia|Warsaw
+37.18.73.94:5566|United States|Nevada|Las Vegas
+103.116.202.241:5678|Indonesia|Jakarta|Jakarta
+103.1.105.10:4153|Malaysia|Melaka|Malacca
+103.151.140.188:4145|Indonesia|Central Java|Kebonmanis
+117.54.201.93:5678|Indonesia|Jakarta|Bambu Apus
+151.232.18.66:5678|Iran|Tehran|Tehran
+103.228.246.129:5678|Indonesia|East Java|Madiun
+43.250.81.155:34432|Bangladesh|Dhaka Division|Dhaka
+103.171.241.1:1080|Indonesia|Jakarta|Jakarta
+38.83.108.89:5678|China|Henan|Zhengzhou
+202.179.184.46:5430|Indonesia|Jambi|Jambi City
+50.234.24.129:32100|United States|Virginia|Ashburn
+103.251.221.57:4145|India|National Capital Territory of Delhi|Delhi
+85.92.164.179:4145|United Kingdom|England|London
+170.80.91.14:4145|Panama|Provincia de Panama|Panama City
 103.114.96.126:8291|Bangladesh|Chittagong|Feni
-188.190.101.143:4145|Slovakia|Trencin|Uhrovec
-173.230.147.173:19527|Germany|Brandenburg|Brandenburg
-89.237.36.193:51549|Russia|Orenburg Oblast|Novotroitsk
-109.127.82.115:5678|Iraq|Erbil|Erbil
-177.86.64.1:3629|Brazil|Sao Paulo|Aracariguama
-197.253.30.1:10081|Nigeria|Lagos|Lagos
-177.36.185.181:5678|Brazil|Santa Catarina|Caçador
-170.79.182.82:11337|Argentina|Mendoza|San Martin
-89.218.5.108:50733|Kazakhstan|Almaty|Almaty
-200.0.247.84:4153|Argentina|Buenos Aires F.D.|Retiro
-213.150.221.198:4153|South Africa|Gauteng|Kempton Park
-154.66.108.32:3629|Lesotho|Butha-Buthe|Butha-Buthe
-105.29.75.113:4153|South Africa|Gauteng|Johannesburg
-166.62.52.254:27589|United States|Arizona|Scottsdale
-54.38.72.186:16838|United Kingdom|England|Purfleet-on-Thames
-185.87.121.35:8975|Turkey|Istanbul|Istanbul
-37.18.73.60:5566|Romania|Bucharest|Bucharest
-45.117.228.97:4145|Malaysia|Selangor|Petaling Jaya
-103.130.113.129:5678|Bangladesh|Dhaka Division|Dhaka
-8.42.68.93:39593|United States|Colorado|Nederland
-45.249.78.193:3629|India|Andhra Pradesh|Guntur
-103.87.212.15:4153|Bangladesh|Dhaka Division|Dhaka
-45.249.101.4:56457|Bangladesh|Dhaka Division|Dhaka
-103.24.21.1:5678|India|Telangana|Hyderabad
-103.117.108.6:4153|Bangladesh|Sylhet Division|Sylhet
-45.234.61.157:4153|Venezuela|Miranda|San Antonio de Los Altos
-112.78.170.251:5678|Indonesia|Central Java|Rejanegara
-5.8.240.94:4153|Iraq|Sulaymaniyah|Sulaymaniyah
+103.109.59.117:1080|Bangladesh|Chittagong|Feni
+178.212.54.137:5678|Poland|Lubusz|Strzelce Krajenskie
+62.33.235.46:4153|Russia|Ivanovo Oblast|Teykovo
+84.22.45.175:1080|Albania|Tirana|Tirana
+195.158.223.131:4153|Ukraine|Luhansk|Luhansk
+176.236.163.37:59311|Turkey|Kocaeli|Mollafeneri
+125.141.139.198:5566|Romania|Bucharest|Bucharest
+190.205.100.129:5678|Venezuela|Miranda|Caracas
+186.224.225.26:42648|Brazil|Goias|Caldas Novas
+185.252.41.212:5678|Turkey|Sakarya|Adapazarı
+202.164.194.10:4145|Iraq|Baghdad|Baghdad
+45.175.177.0:4145|Brazil|Goias|Goiânia
+177.131.29.213:4153|Brazil|Amapa|Macapá
+112.2.21.18:51080|China|Jiangsu|Suzhou
+177.131.29.208:4153|Brazil|Amapa|Macapá
+66.33.213.3:15891|United States|California|Brea
+37.187.133.177:57132|Vietnam|Tinh Thai Nguyen|Thai Nguyen
+47.243.230.63:61508|Croatia|City of Zagreb|Zagreb
+51.83.190.248:19050|Sweden|Stockholm County|Stockholm
+103.242.104.245:5678|Indonesia|Central Java|Ambarawa
+202.59.173.204:1080|Indonesia|Jakarta|Jakarta
+103.30.0.249:4145|Indonesia|Central Java|Semarang
+182.16.240.49:30617|Indonesia|Jakarta|Kuningan Barat
+103.94.8.53:5678|Indonesia|Yogyakarta|Yogyakarta
+103.24.177.59:4145|Hong Kong|Central and Western District|Central
+103.160.17.38:5678|Bangladesh|Dhaka Division|Dhaka
+64.124.145.1:1080|United States|Georgia|Atlanta
+45.249.101.1:56457|Bangladesh|Dhaka Division|Dhaka
+103.133.37.77:4153|India|Gujarat|Rajkot
+190.145.182.3:4153|Colombia|Antioquia|Medellín
+190.205.42.46:1080|Venezuela|Guárico|San Juan de los Morros
+80.80.167.22:10801|Kosovo|Pristina|Pristina
+91.150.77.58:56921|Serbia|Vojvodina|Jarak
+103.170.100.25:1080|Indonesia|Jakarta|Jakarta
 213.74.58.60:5678|Turkey|Istanbul|Istanbul
-200.2.196.42:5678|Chile|Region de la Araucania|Carahue
-179.189.244.226:51327|Brazil|Pernambuco|Ipojuca
-80.82.147.4:4153|Czechia|Moravskoslezsky kraj|Český Těšín
-45.7.210.199:4153|Argentina|Cordoba|Brinkmann
+45.175.179.3:4145|Brazil|Goias|Goiânia
+45.234.100.112:1080|Brazil|Pernambuco|Recife
+89.218.5.108:50733|Kazakhstan|Almaty|Almaty
+191.7.208.101:31576|Brazil|Ceara|Novo Oriente
