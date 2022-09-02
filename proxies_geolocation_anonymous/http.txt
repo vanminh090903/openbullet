@@ -1,32 +1,33 @@
-130.41.55.190:8080|United States|California|Los Angeles
-130.41.15.76:8080|United States|Colorado|Denver
-180.183.96.100:8080|Thailand|Bangkok|Bangkok
-167.114.96.27:9300|Germany|Brandenburg|Brandenburg
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
 110.78.138.190:8080|Thailand|Bangkok|Din Daeng
-191.97.14.26:999|Colombia|Antioquia|Medellín
-139.224.165.41:1080|United Kingdom|England|London
-45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+130.41.15.76:8080|United States|Colorado|Denver
+130.41.55.190:8080|United States|California|Los Angeles
+201.150.116.49:999|Mexico|Hidalgo|Atitalaquia
+205.207.103.33:8282|United States|Maryland|Centreville
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+147.135.134.57:9300|Germany|Brandenburg|Brandenburg
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-211.234.125.5:443|South Korea|Seoul|Seoul
-45.166.144.2:999|Chile|Santiago Metropolitan|Santiago
-190.131.250.105:999|Colombia|Departamento de Bolivar|Cartagena
-45.189.117.42:999|Peru|Lima|Lima
-45.229.33.102:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-71.19.249.118:8001|United States|California|Clovis
-103.153.136.187:8080|Indonesia|Gorontalo|Gorontalo
+181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
+103.159.221.7:3125|Indonesia|Bali|Singaraja
+71.19.249.118:8001|United States|Florida|Saint Johns
+71.19.249.118:24000|United States|Mississippi|Jackson
+106.14.64.22:1080|Australia|New South Wales|Sydney
+95.216.194.46:1081|Netherlands|North Holland|Amsterdam
+103.133.26.107:8181|Indonesia|Central Java|Kudus
+68.183.230.116:35267|United States|District of Columbia|Washington
+191.97.16.110:999|Venezuela|Distrito Federal|Caracas
+103.148.28.109:3125|Indonesia|West Java|Bogor
+183.88.228.208:8080|Thailand|Bangkok|Bangkok
+186.125.218.185:999|Argentina|Salta|El Carmen
 41.222.209.12:808|Nigeria|FCT|Abuja
-190.103.28.187:3128|Venezuela|Carabobo|Valencia
-45.70.15.5:8080|Ecuador|Provincia del Chimborazo|Alausi
-89.203.235.110:9999|Czechia|Central Bohemia|Brandys nad Labem-Stara Boleslav
-212.154.82.52:9090|Turkey|Istanbul|Istanbul
-170.0.87.202:999|Argentina|Misiones|Andresito
-139.224.226.173:1080|Poland|Mazovia|Warsaw
-85.25.111.162:5566|Germany|Baden-Wurttemberg|Karlsruhe
-103.166.10.137:8181|Indonesia|East Java|Tulungagung
-103.228.246.69:8080|Indonesia|East Java|Madiun
-103.154.230.129:8080|Indonesia|East Java|Lamongan
-103.133.26.100:8181|Indonesia|West Java|Bogor
-131.161.53.38:1994|Honduras|Departamento de Cortes|San Pedro Sula
-31.171.152.68:8118|Albania|Tirana|Tirana
-43.243.174.26:83|India|Maharashtra|Pune
+138.117.84.161:999|Colombia|Departamento del Huila|Pitalito
+45.174.79.129:999|Mexico|Chihuahua|Ciudad Juárez
+190.104.134.145:3128|Paraguay|Asuncion|Asunción
+182.253.105.123:8080|Indonesia|East Java|Surabaya
+217.11.184.30:3128|Tajikistan|Dushanbe|Dushanbe
+217.219.28.117:3128|Iran|Kerman|Rafsanjan
+111.68.31.155:8080|Indonesia|Yogyakarta|Yogyakarta
+102.68.128.210:8080|Libya|Tripoli|Tripoli
+69.160.7.126:8080|Myanmar|Kachin|Bhamo
+85.25.201.22:5566|United States|New York|Brooklyn
+38.130.249.129:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+110.49.11.50:8080|Thailand|Lopburi|Lopburi
