@@ -1,35 +1,48 @@
-130.41.15.76:8080|United States|Colorado|Denver
 110.78.138.190:8080|Thailand|Bangkok|Din Daeng
-83.229.5.231:8888|Mexico|Mexico City|Mexico City
-158.69.27.94:9300|Croatia|City of Zagreb|Zagreb
-177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-107.173.156.247:8123|Netherlands|Flevoland|Dronten
 130.41.55.190:8080|United States|California|Los Angeles
-38.10.252.248:999|United States|Florida|Miami
-38.130.249.137:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-103.121.122.72:9812|Indonesia|Aceh|Lhokseumawe
-190.90.242.208:999|Colombia|Departamento de Norte de Santander|Ocaña
-202.168.69.228:8080|Malaysia|Selangor|Cyberjaya
-103.163.193.97:83|India|Assam|Bongaigaon
-181.174.224.35:999|Peru|Lima|Lima
-183.33.192.7:9797|China|Guangdong|Mutouchong
-190.109.6.115:999|Colombia|Cundinamarca|Tocancipa
-152.200.154.51:999|Colombia|Departamento del Huila|Neiva
-177.53.153.16:999|Peru|Lima|Lima
-102.68.135.21:8080|Libya|Tripoli|Tripoli
-170.83.79.17:999|Venezuela|Distrito Federal|Caracas
-191.97.14.244:999|Colombia|Departamento de Boyaca|Moniquira
-201.71.2.41:999|Venezuela|Distrito Federal|Caracas
-102.68.135.129:8080|Libya|Tripoli|Tripoli
-206.161.97.16:31337|Japan|Tokyo|Chiyoda
-185.190.38.145:8080|Serbia|Central Serbia|Belgrade
-201.158.44.163:4343|Brazil|Sao Paulo|São Paulo
-191.97.16.115:999|Venezuela|Distrito Federal|Caracas
-5.58.110.249:8080|Ukraine|Kyiv City|Kyiv
-181.129.52.155:42648|Colombia|Antioquia|Medellín
-45.171.109.1:999|Ecuador|Provincia de Sucumbios|Nueva Loja
-103.151.22.19:8080|Indonesia|Jakarta|Jakarta
-116.224.117.28:8001|China|Shanghai|Shanghai
-103.124.87.1:8080|India|West Bengal|Kolkata
-177.43.213.80:8080|Brazil|Sao Paulo|Araraquara
-185.82.98.22:8091|Lebanon|Mohafazat Liban-Nord|Tripoli
+130.41.15.76:8080|United States|Colorado|Denver
+176.192.70.58:8025|Russia|Moscow|Moscow
+170.254.201.40:3180|Brazil|Rio de Janeiro|Sao Goncalo
+176.192.70.58:8002|Russia|Moscow|Moscow
+45.228.77.63:999|Argentina|Buenos Aires|Moreno
+177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
+201.71.2.97:999|Venezuela|Distrito Federal|Caracas
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+71.19.249.118:8001|United States|Ohio|Zanesville
+62.94.218.90:8080|Italy|Lombardy|Milan
+191.97.14.26:999|Colombia|Antioquia|Medellín
+36.66.171.243:8080|Indonesia|Jakarta|Jakarta
+161.35.214.127:43241|United States|California|Los Angeles
+181.115.67.3:999|Honduras|Departamento de Ocotepeque|Nueva Ocotepeque
+103.153.136.187:8080|Indonesia|Gorontalo|Gorontalo
+41.220.238.137:83|Kenya|Nairobi Province|Nairobi
+201.222.45.65:999|Chile|Santiago Metropolitan|Santiago
+157.100.56.179:999|Ecuador|Provincia de Loja|Cariamanga
+200.114.87.229:8080|Argentina|Buenos Aires|Florencio Varela
+205.207.100.81:8282|United States|Maryland|Centreville
+45.179.200.129:999|Colombia|Bogota D.C.|Bogotá
+190.2.213.38:6969|Colombia|Departamento de Santander|Bucaramanga
+193.57.43.193:81|Ukraine|Kharkiv|Nova Vodolaha
+123.115.112.116:9000|China|Beijing|Beijing
+144.48.115.19:8080|Bangladesh|Dhaka Division|Azimpur
+206.161.97.47:31337|Japan|Tokyo|Chiyoda
+45.175.160.25:999|Argentina|Mendoza|Tunuyan
+154.64.211.145:999|France|Île-de-France|Paris
+103.145.141.36:8080|Indonesia|Jakarta|Jakarta
+106.0.48.132:8080|Indonesia|Riau Islands|Tanjung Pinang
+101.53.154.137:2006|Germany|Brandenburg|Brandenburg
+79.253.201.252:8080|Germany|Bavaria|Freilassing
+177.53.154.213:999|Peru|Lima|Lima
+45.230.47.17:999|Venezuela|Carabobo|Valencia
+45.189.113.63:999|Ecuador|Provincia del Guayas|Milagro
+103.205.183.18:55443|Bangladesh|Dhaka Division|Dhaka
+190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+201.217.55.97:8080|Paraguay|Asuncion|Asunción
+149.56.96.252:5566|Netherlands|North Holland|Amsterdam
+190.2.210.124:999|Colombia|Departamento de Narino|Tuquerres
+103.145.130.150:8080|Indonesia|East Java|Sidoarjo
+45.190.170.0:999|Peru|Lima|Lima
+45.229.58.33:999|Panama|Provincia de Panama|Panama City
