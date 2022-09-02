@@ -1,32 +1,36 @@
-130.41.15.76:8080|United States|Colorado|Denver
-68.183.191.179:39365|United States|California|San Jose
-103.121.122.72:9812|Indonesia|Aceh|Lhokseumawe
-38.130.249.137:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-179.1.133.33:999|Colombia|Bogota D.C.|Bogotá
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-195.248.240.65:8080|Germany|Hesse|Frankfurt am Main
 130.41.55.190:8080|United States|California|Los Angeles
-201.222.45.66:999|Chile|Santiago Metropolitan|Santiago
-88.255.101.237:8080|Turkey|Istanbul|Orhanlı
-114.7.193.212:8080|Indonesia|Jakarta|Jakarta
-103.153.232.1:8080|Nepal|Lumbini Province|Lumbini
-102.68.128.212:8080|Libya|Tripoli|Tripoli
-185.82.98.23:9093|Lebanon|Mohafazat Liban-Nord|Tripoli
-103.153.232.241:8080|Nepal|Lumbini Province|Lumbini
-190.121.128.217:999|Colombia|Departamento de Santander|Bucaramanga
-211.234.125.5:443|South Korea|Seoul|Seoul
+110.78.138.190:8080|Thailand|Bangkok|Din Daeng
+38.41.29.43:999|Venezuela|Distrito Federal|Caracas
+190.108.85.188:999|Peru|Lima|Lima
+181.129.243.100:999|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+130.41.15.76:8080|United States|Colorado|Denver
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+103.159.221.7:3125|Indonesia|Bali|Singaraja
+71.19.249.118:8001|United States|Florida|Tallahassee
+45.175.239.17:999|Mexico|Hidalgo|Atitalaquia
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+185.190.38.145:8080|Serbia|Central Serbia|Belgrade
+103.36.35.135:8080|Indonesia|Jakarta|Jakarta
+186.148.184.130:999|Colombia|Bogota D.C.|Bogotá
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+102.165.127.85:8080|Nigeria|Lagos|Lekki
+185.190.38.150:8080|Serbia|Central Serbia|Belgrade
+45.189.252.130:999|Mexico|Veracruz|Alvarado
+111.68.26.237:8080|Indonesia|Central Java|Klaten
+103.175.46.46:8181|Indonesia|West Java|Cirebon
+45.225.184.177:999|Chile|Santiago Metropolitan|Melipilla
+190.107.233.227:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+2.179.193.146:80|Iran|Semnan Province|Dāmghān
 41.222.209.12:808|Nigeria|FCT|Abuja
-106.14.64.22:1080|Australia|New South Wales|Sydney
-103.145.57.50:8080|Bangladesh|Rajshahi Division|Bogra
-45.156.31.58:9090|Turkey|Istanbul|Istanbul
-200.39.153.1:999|Peru|La Libertad|Trujillo
-200.54.25.227:6969|Chile|Santiago Metropolitan|Maipu
-190.107.233.230:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-183.33.192.7:9797|China|Guangdong|Mutouchong
-103.152.232.194:8080|Indonesia|West Java|Bekasi
-103.161.165.192:8181|Indonesia|West Java|Panumbangan
-202.182.57.30:8080|Indonesia|Jakarta|Jakarta
-190.104.1.19:999|Bolivia|Departamento de Santa Cruz|Santa Cruz
-45.71.198.201:999|Argentina|Misiones|San Vicente
-121.101.133.59:8080|Indonesia|Central Java|Kebumen Satu
+190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
+201.77.108.130:999|Mexico|Chihuahua|Jimenez
+154.212.7.243:999|Mexico|Hidalgo|Francisco I. Madero
+177.190.222.130:8080|Brazil|Bahia|Jaguaquara
+119.62.125.252:3128|China|Yunnan|Dali
+190.107.237.19:999|Ecuador|Provincia del Guayas|Milagro
+190.107.237.20:999|Ecuador|Provincia del Guayas|Milagro
+190.107.237.13:999|Ecuador|Provincia del Guayas|Milagro
+36.91.108.141:3128|Indonesia|Jakarta|Jakarta
+43.241.131.97:8080|India|Maharashtra|Bharam
+190.107.233.231:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
