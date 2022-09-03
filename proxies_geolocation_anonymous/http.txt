@@ -1,52 +1,42 @@
+121.101.131.10:8080|Indonesia|Central Java|Kebumen Satu
 130.41.15.76:8080|United States|Colorado|Denver
-170.83.77.225:999|Venezuela|Distrito Federal|Caracas
-45.175.238.96:999|Mexico|Hidalgo|Huichapan
-91.235.75.33:8282|Russia|Chelyabinsk Oblast|Chelyabinsk
+200.125.169.148:999|United States|Florida|North Miami
+45.175.239.17:999|Mexico|Hidalgo|Atitalaquia
+212.154.82.52:9090|Turkey|Istanbul|Istanbul
+201.150.117.97:999|Mexico|Hidalgo|Huichapan
+170.83.79.241:999|Venezuela|Distrito Federal|Caracas
+198.27.74.6:9300|Germany|Brandenburg|Brandenburg
 177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
 45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-93.115.18.235:8118|Netherlands|North Holland|Amsterdam
-190.107.237.19:999|Ecuador|Provincia del Guayas|Milagro
-191.102.68.178:999|Colombia|Bogota D.C.|Bogotá
-181.232.190.124:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
-154.83.29.201:999|Venezuela|Distrito Federal|Caracas
-200.32.80.54:999|Colombia|Departamento de Narino|Tuquerres
-102.38.14.157:8080|Libya|Tripoli|Tripoli
-202.53.171.114:80|Bangladesh|Dhaka Division|Dhaka
-154.83.29.205:999|Venezuela|Distrito Federal|Caracas
-201.222.45.68:999|Chile|Santiago Metropolitan|Santiago
-103.172.70.18:8080|Indonesia|West Java|Karawang
-154.83.29.206:999|Venezuela|Distrito Federal|Caracas
-202.168.69.227:8080|Malaysia|Selangor|Cyberjaya
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+137.74.90.233:8282|France|Hauts-de-France|Gravelines
+103.159.90.210:82|India|Rajasthan|Aklera
+138.0.91.227:999|Colombia|Departamento de Narino|Pasto
 45.184.73.114:40033|Brazil|Bahia|Queimadas
-103.153.136.187:8080|Indonesia|Gorontalo|Gorontalo
-103.175.156.142:8080|Indonesia|West Java|Depok
-102.165.127.85:8080|Nigeria|Lagos|Lekki
-121.101.133.61:8080|Indonesia|Central Java|Kebumen Satu
-103.165.1.2:8080|Indonesia|East Kalimantan|Samarinda
-130.41.55.190:8080|United States|California|Los Angeles
-205.207.100.81:8282|United States|Maryland|Centreville
-103.163.193.65:83|India|Assam|Bongaigaon
+106.14.64.22:1080|Australia|New South Wales|Sydney
+201.71.2.132:999|Venezuela|Distrito Federal|Caracas
+71.19.249.118:8001|United Kingdom|England|Hull
+161.35.215.107:33477|Romania|Bucharest|Bucharest
+190.2.137.129:45033|Spain|Madrid|Alcobendas
+201.71.2.41:999|Venezuela|Distrito Federal|Caracas
+114.130.78.185:8080|Bangladesh|Chittagong|Chittagong
+167.172.96.117:40625|Germany|Baden-Wurttemberg|Karlsruhe
+45.182.141.112:999|Venezuela|Carabobo|Valencia
 154.83.29.203:999|Venezuela|Distrito Federal|Caracas
-205.207.100.33:8282|United States|Maryland|Centreville
-41.222.209.9:808|Nigeria|FCT|Abuja
-38.41.0.92:999|Venezuela|Distrito Federal|Caracas
-190.107.237.15:999|Ecuador|Provincia del Guayas|Milagro
-170.84.145.165:5432|Brazil|Piaui|Teresina
-204.199.172.118:999|Peru|Lima|Lima
-103.159.68.147:8080|India|Rajasthan|Jaipur
-41.222.209.12:808|Nigeria|FCT|Abuja
-103.134.98.17:83|India|Telangana|Hyderabad
-38.41.0.91:999|Venezuela|Distrito Federal|Caracas
-45.230.47.17:999|Venezuela|Carabobo|Valencia
-183.89.186.49:8080|Thailand|Bangkok|Bangkok
-103.145.57.109:8080|Bangladesh|Rajshahi Division|Bogra
-120.78.17.9:80|China|Guangdong|Shenzhen
-131.161.53.38:1994|Honduras|Departamento de Cortes|San Pedro Sula
-183.88.73.176:8080|Thailand|Nonthaburi|Pak Kret
-102.68.128.214:8080|Libya|Tripoli|Tripoli
-45.189.252.193:999|Mexico|Veracruz|Alvarado
-115.124.85.19:8080|Indonesia|West Java|Bekasi
-5.58.110.249:8080|Ukraine|Kyiv City|Kyiv
-85.25.111.162:5566|Lithuania|Kaunas|Kaunas
+200.125.171.62:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
+154.83.29.202:999|Venezuela|Distrito Federal|Caracas
+194.169.167.5:8080|Serbia|Central Serbia|Belgrade
+103.155.166.93:8181|Indonesia|West Java|Bekasi
+170.246.85.38:50991|Ecuador|Provincia del Azuay|Cuenca
+201.77.110.129:999|Mexico|Chihuahua|Cuauhtemoc
+191.97.16.110:999|Venezuela|Distrito Federal|Caracas
+36.255.87.222:83|India|Karnataka|Bengaluru
+8.242.176.196:999|United States|Florida|Boca Raton
+103.148.28.11:3125|Indonesia|East Java|Sidoarjo
+196.20.12.1:8080|Namibia|Khomas|Windhoek
+103.207.3.6:84|India|Tamil Nadu|Tirupur
+149.202.181.48:5566|Germany|Bavaria|Haßfurt
+182.53.201.115:8080|Thailand|Bangkok|Bangkok
+190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+181.232.190.101:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
