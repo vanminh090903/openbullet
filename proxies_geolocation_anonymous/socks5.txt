@@ -1,9 +1,10 @@
-130.185.121.228:50002|Sweden|Stockholm County|Stockholm
-37.18.73.60:5566|United States|Wyoming|Sheridan
-54.38.151.84:56789|United Kingdom|England|Purfleet-on-Thames
+37.18.73.94:5566|Sweden|Stockholm County|Stockholm
+39.108.139.217:11188|Hong Kong|Central and Western District|Central
+5.161.100.145:1080|United States|Kansas|Wichita
+37.18.73.60:5566|Germany|Bavaria|Haßfurt
+222.88.201.188:7302|China|Henan|Nanyang
+203.153.36.37:7497|India|Haryana|Gurugram
+37.187.133.177:55186|South Korea|Gwangju|Gwangsan-gu
+143.248.55.62:15566|Norway|Vestfold og Telemark|Sandefjord
 120.79.112.57:1284|Portugal|Coimbra|Miranda do Corvo
-178.32.116.232:60993|France|Hauts-de-France|Roubaix
-78.38.108.195:1080|Iran|Sistan and Baluchestan|Zabol
-213.149.103.133:60642|Montenegro|Podgorica|Vladni
-125.141.133.99:5566|Germany|Bavaria|Haßfurt
-31.128.248.2:1080|Ukraine|Cherkasy Oblast|Cherkasy
+54.38.72.186:61053|United Kingdom|England|Purfleet-on-Thames
