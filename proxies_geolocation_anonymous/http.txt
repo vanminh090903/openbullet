@@ -1,24 +1,29 @@
+45.189.253.105:999|Mexico|Veracruz|Alvarado
 130.41.15.76:8080|United States|Colorado|Denver
-177.93.52.24:80|Colombia|Departamento de Boyaca|Tunja
-139.224.165.41:1080|United Kingdom|England|London
+120.78.17.9:80|China|Guangdong|Shenzhen
+38.10.68.234:9090|Turkey|Istanbul|Istanbul
 45.169.162.1:3128|Brazil|Bahia|Simoes Filho
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
 177.12.238.1:3128|Brazil|Bahia|Simoes Filho
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
-176.192.70.58:8025|Russia|Moscow|Moscow
-94.103.85.88:9300|Finland|Uusimaa|Helsinki
+85.25.91.141:32807|Germany|Brandenburg|Brandenburg
 130.41.55.190:8080|United States|California|Los Angeles
-103.87.236.81:8080|Bangladesh|Dhaka Division|Sonargaon
-179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
-211.149.155.136:8118|United States|Nevada|Las Vegas
-157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
-167.172.96.117:40625|Germany|Brandenburg|Brandenburg
-41.222.209.9:808|Nigeria|FCT|Abuja
-45.189.112.129:999|Ecuador|Provincia del Guayas|Pedro Carbo
-171.247.148.97:4003|Vietnam|Ho Chi Minh|Ho Chi Minh City
-45.224.153.61:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
+177.43.213.80:8080|Brazil|Sao Paulo|Araraquara
 154.83.29.204:999|Venezuela|Distrito Federal|Caracas
+151.22.181.215:8080|Italy|Calabria|Strongoli
+79.253.201.252:8080|Germany|Bavaria|Freilassing
+157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
+103.48.68.36:84|India|Telangana|Hyderabad
+181.232.190.100:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+154.83.29.205:999|Venezuela|Distrito Federal|Caracas
+103.135.14.176:8181|Indonesia|East Java|Malang
+41.222.209.9:808|Nigeria|FCT|Abuja
+171.247.148.97:4003|Vietnam|Ho Chi Minh|Ho Chi Minh City
+190.106.118.82:999|Dominican Republic|Nacional|Santo Domingo
 201.71.2.41:999|Venezuela|Distrito Federal|Caracas
-212.154.82.52:9090|Turkey|Istanbul|Istanbul
-41.222.209.12:808|Nigeria|FCT|Abuja
+103.73.74.217:2021|Indonesia|West Java|Karawang
+45.230.225.1:666|Brazil|Bahia|Salvador
+103.123.169.177:83|Bangladesh|Dhaka Division|Dhaka
+116.197.130.71:80|Indonesia|Jakarta|Jakarta
+45.184.73.114:40033|Brazil|Bahia|Queimadas
+45.189.113.111:999|Ecuador|Provincia del Guayas|Milagro
