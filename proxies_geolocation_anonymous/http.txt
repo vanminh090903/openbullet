@@ -1,26 +1,24 @@
-130.41.55.190:8080|United States|California|Los Angeles
-61.7.146.7:8082|Thailand|Suphanburi|Ban Pho
-177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-200.12.133.6:8080|Argentina|Mendoza|Mendoza
-138.0.91.227:999|Colombia|Departamento de Narino|Pasto
-158.69.53.98:9300|Germany|Bavaria|Haßfurt
-116.0.4.54:8080|Indonesia|Jakarta|Jakarta
-60.21.210.178:10808|China|Liaoning|Xinmin
-38.10.69.101:9090|Turkey|Konya|Konya
-154.83.29.202:999|Venezuela|Distrito Federal|Caracas
-71.19.249.118:8001|United States|Tennessee|Memphis
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
 130.41.15.76:8080|United States|Colorado|Denver
-191.92.144.27:8080|Colombia|Antioquia|Medellín
-170.254.201.29:3180|Brazil|Rio de Janeiro|Sao Goncalo
-31.220.171.241:8118|Netherlands|North Holland|Amsterdam
-211.234.125.5:443|South Korea|Seoul|Seoul
+177.93.52.24:80|Colombia|Departamento de Boyaca|Tunja
+139.224.165.41:1080|United Kingdom|England|London
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+200.12.133.6:8080|Argentina|Mendoza|Mendoza
+195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
+176.192.70.58:8025|Russia|Moscow|Moscow
+94.103.85.88:9300|Finland|Uusimaa|Helsinki
+130.41.55.190:8080|United States|California|Los Angeles
+103.87.236.81:8080|Bangladesh|Dhaka Division|Sonargaon
+179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
+211.149.155.136:8118|United States|Nevada|Las Vegas
+157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
+167.172.96.117:40625|Germany|Brandenburg|Brandenburg
 41.222.209.9:808|Nigeria|FCT|Abuja
-159.203.104.153:8200|Netherlands|North Holland|Amsterdam
-167.172.96.117:40625|Netherlands|Flevoland|Dronten
+45.189.112.129:999|Ecuador|Provincia del Guayas|Pedro Carbo
+171.247.148.97:4003|Vietnam|Ho Chi Minh|Ho Chi Minh City
 45.224.153.61:999|Ecuador|Provincia de Esmeraldas|Esmeraldas
-102.165.127.85:8080|Nigeria|Lagos|Lekki
-200.54.101.219:999|Chile|Santiago Metropolitan|Santiago
-45.175.160.25:999|Argentina|Mendoza|Tunuyan
+154.83.29.204:999|Venezuela|Distrito Federal|Caracas
+201.71.2.41:999|Venezuela|Distrito Federal|Caracas
+212.154.82.52:9090|Turkey|Istanbul|Istanbul
+41.222.209.12:808|Nigeria|FCT|Abuja
