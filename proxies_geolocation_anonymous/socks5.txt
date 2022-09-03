@@ -1,10 +1,5 @@
-103.160.56.92:10101|Indonesia|South Sumatra|Balailangu
-112.54.33.47:7302|Hong Kong|Central and Western District|Central
 172.105.27.151:7497|Canada|Ontario|Toronto
-188.34.140.205:1080|Germany|Saxony|Falkenstein
-5.161.100.145:1080|United States|Kansas|Wichita
-37.18.73.94:5566|Finland|Uusimaa|Vantaa
-37.18.73.60:5566|Canada|Quebec|Beauharnois
-159.69.153.169:5566|Croatia|City of Zagreb|Zagreb
-125.141.133.53:5566|Germany|Brandenburg|Brandenburg
-173.230.147.173:19527|United States|Nevada|Las Vegas
+203.153.36.37:7497|India|Haryana|Gurugram
+112.54.33.47:7302|Hong Kong|Central and Western District|Central
+37.18.73.60:5566|Luxembourg|Luxembourg|Luxembourg
+37.18.73.94:5566|United States|Nevada|Las Vegas
