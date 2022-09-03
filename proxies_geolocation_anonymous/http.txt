@@ -1,22 +1,20 @@
-45.175.238.96:999|Mexico|Hidalgo|Huichapan
-202.43.72.203:8080|Indonesia|Jakarta|Kuningan Barat
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-200.12.133.6:8080|Argentina|Mendoza|Mendoza
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
-103.166.10.163:8181|Indonesia|East Java|Tulungagung
-190.107.237.13:999|Ecuador|Provincia del Guayas|Milagro
-158.69.53.132:9300|Germany|Brandenburg|Brandenburg
-45.229.33.102:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-190.107.237.26:999|Ecuador|Provincia del Guayas|Milagro
-181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
-116.197.155.113:8080|India|Uttar Pradesh|Agra
-103.155.54.233:83|India|West Bengal|Haldia
-139.255.94.123:39635|Indonesia|Jakarta|Jakarta
-130.41.55.190:8080|United States|California|Los Angeles
-183.88.212.184:8080|Thailand|Chon Buri|Bang Lamung
 130.41.15.76:8080|United States|Colorado|Denver
-158.101.175.124:5566|Netherlands|North Holland|Alkmaar
-103.48.68.36:83|India|Telangana|Hyderabad
-203.128.75.196:8080|Indonesia|Jakarta|Jakarta
+130.41.55.190:8080|United States|California|Los Angeles
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+84.22.59.149:8080|Kosovo|Pristina|Pristina
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+200.12.133.6:8080|Argentina|Mendoza|Mendoza
+85.25.91.141:32807|Germany|Baden-Wurttemberg|Karlsruhe
+177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+94.103.85.88:9300|Netherlands|North Holland|Amsterdam
+95.216.64.229:22207|Sweden|Östergötland|Linköping
+51.79.50.22:9300|Poland|Mazovia|Warsaw
+190.107.233.232:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+181.209.95.13:999|Argentina|Corrientes|Corrientes
+190.107.233.235:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
+120.78.17.9:80|China|Guangdong|Shenzhen
+202.75.97.82:47009|Indonesia|Jakarta|Jakarta
+71.19.249.118:8001|United States|Georgia|Douglasville
+154.83.29.203:999|Venezuela|Distrito Federal|Caracas
+103.215.177.212:80|Indonesia|Central Java|Surakarta
+180.211.90.70:3125|Indonesia|East Java|Madiun
