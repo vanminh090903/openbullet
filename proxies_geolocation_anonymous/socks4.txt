@@ -1,65 +1,61 @@
-103.38.102.243:5678|Indonesia|Central Java|Purwokerto
-117.102.115.158:4153|Indonesia|Jakarta|Jakarta
-103.239.6.246:5678|Bangladesh|Dhaka Division|Dhaka
-49.0.32.177:10801|Bangladesh|Dhaka Division|Tongi
-103.217.213.145:4145|India|Andhra Pradesh|Guntur
+202.75.97.82:38238|Indonesia|Jakarta|Jakarta
+121.101.131.91:1080|Indonesia|Central Java|Klaten
+103.48.183.113:4145|India|Tamil Nadu|Chennai
+103.5.63.212:40544|Philippines|Central Luzon|San Jose del Monte
+43.250.81.156:34432|Bangladesh|Dhaka Division|Dhaka
+182.75.30.6:5678|India|Tamil Nadu|Chennai
+103.70.159.158:5678|India|Maharashtra|Ganeshwadi
+113.74.26.116:4145|China|Guangdong|Zhuhai
 103.85.103.41:5678|India|Maharashtra|Mumbai
-103.85.103.33:5678|India|Maharashtra|Mumbai
-173.195.27.144:10091|United States|Oklahoma|Lawton
-203.95.220.33:4153|Bangladesh|Dhaka Division|Dhaka
+50.250.75.153:39593|United States|Florida|Miami
+162.255.108.254:5678|United States|Washington|Kennewick
+103.251.221.21:4145|India|National Capital Territory of Delhi|Delhi
+184.105.134.166:48324|United States|California|Fremont
+103.199.97.129:39825|India|West Bengal|Kolkata
+89.25.23.211:4153|Bulgaria|Plovdiv|Plovdiv
+45.70.237.139:4145|Ecuador|Provincia del Azuay|Cuenca
+88.213.214.254:4145|Bulgaria|Shumen|Yasenkovo
+85.196.136.9:4153|Bulgaria|Stara Zagora|Stara Zagora
+77.46.138.153:33608|Serbia|Central Serbia|Belgrade
+110.76.129.229:5678|Bangladesh|Chittagong|Feni
+186.251.255.101:31337|Brazil|Rio Grande do Sul|Carazinho
+192.12.113.254:4145|Brazil|Sao Paulo|Monte Azul Paulista
+131.196.180.1:4153|Argentina|Cordoba|Córdoba
+190.216.56.1:4153|Argentina|Cordoba|Córdoba
+200.0.247.86:4153|Argentina|Buenos Aires F.D.|Retiro
+200.181.51.41:5678|Brazil|Goias|Nova Crixas
+37.18.73.94:5566|Sweden|Stockholm County|Stockholm
+173.230.147.173:19527|Germany|Brandenburg|Brandenburg
+201.251.63.208:49271|Argentina|Chubut|Comodoro Rivadavia
+103.174.238.99:1080|Indonesia|West Java|Indramayu
+103.60.212.113:51754|India|Telangana|Hyderabad
 58.240.192.158:4145|China|Jiangsu|Suzhou
-103.70.159.137:5678|India|Maharashtra|Ganeshwadi
-103.150.209.217:1080|Pakistan|Punjab|Lahore
-190.0.22.36:61155|Colombia|Antioquia|Medellín
-178.212.54.161:1080|Poland|Lubusz|Gmina Świebodzin
-212.186.125.121:5678|Austria|Vienna|Vienna
-62.33.235.43:4153|Russia|Ivanovo Oblast|Teykovo
-162.255.108.225:5678|United States|Washington|Kennewick
-45.172.120.14:4145|Brazil|Bahia|Boa Vista do Tupim
-195.210.172.46:58350|Russia|Moscow|Moscow
-37.18.73.94:5566|Germany|Baden-Wurttemberg|Karlsruhe
-37.18.73.60:5566|Germany|Brandenburg|Brandenburg
-45.175.178.48:4145|Brazil|Goias|Goiânia
-166.62.52.254:27589|United States|Arizona|Scottsdale
-222.165.215.117:52667|Indonesia|Jakarta|Jakarta
-103.36.35.251:5678|Indonesia|Jakarta|Cipinang
-103.56.205.79:5678|Indonesia|East Nusa Tenggara|Kupang
-103.5.63.211:40544|Philippines|Central Luzon|San Jose del Monte
-103.78.27.55:4145|Indonesia|Jakarta|Kebayoran Lama Selatan
-8.39.228.161:39593|United States|Colorado|Nederland
-162.255.108.245:5678|United States|Washington|Kennewick
-103.5.63.213:40544|Philippines|Central Luzon|San Jose del Monte
-50.237.98.81:1080|United States|Georgia|Doraville
-117.58.245.66:61393|Bangladesh|Dhaka Division|Dhaka
-201.144.20.231:5678|Mexico|Mexico City|Mexico City
-58.65.167.165:4145|Pakistan|Punjab|Multan
-90.181.150.211:4145|Czechia|Hlavni mesto Praha|Prague
-185.66.59.238:42647|Spain|Valencia|Ribarroja del Turia
-5.22.154.50:32127|Slovakia|Nitra|Jelenec
-93.159.189.154:4153|Poland|Lesser Poland|Krakow
-109.122.86.234:4153|Serbia|Central Serbia|Belgrade
-155.133.83.1:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
-185.171.52.101:4153|Iran|Tehran|Tehran
-179.125.172.177:4153|Brazil|Sao Paulo|Nova Odessa
-81.163.254.104:3629|Russia|Leningrad Oblast|Staraya
-94.232.145.158:5678|Poland|Subcarpathia|Jaslo
-192.141.232.12:33998|Brazil|Goias|Padre Bernardo
-201.68.215.79:61221|Brazil|Sao Paulo|São Paulo
-36.89.251.210:5678|Indonesia|Jakarta|Jakarta
-119.93.122.233:4145|Philippines|Central Luzon|Olongapo City
-103.153.140.241:4153|India|Tamil Nadu|Coimbatore
-184.105.133.1:48324|United States|California|Fremont
-8.42.68.197:39593|United States|Colorado|Golden
-103.24.21.1:5678|India|Telangana|Hyderabad
-220.174.210.128:4145|China|Hainan|Haikou
-115.242.248.222:5678|India|Odisha|Bhubaneswar
+103.58.75.29:5678|Bangladesh|Dhaka Division|Dhaka
+103.199.97.9:39825|India|West Bengal|Kolkata
+45.249.101.4:56457|Bangladesh|Dhaka Division|Dhaka
+213.165.160.251:5678|Malta|Tas-Sliema|Sliema
+80.71.112.121:55243|Iran|Hormozgan|Tehran
+77.46.153.185:5678|Serbia|Rasina|Brus
+181.204.96.178:5678|Colombia|Atlántico|Barranquilla
+177.184.67.61:4145|Brazil|Rio de Janeiro|Pirai
+125.213.194.26:5678|Afghanistan|Kabul|Kabul
+187.87.198.250:3629|Brazil|Bahia|Madre de Deus
+45.162.4.25:51508|Brazil|Bahia|Salvador
+37.18.73.60:5566|United States|Nevada|Las Vegas
+37.221.193.221:10928|United States|Pennsylvania|Collegeville
+213.149.103.133:61859|Montenegro|Podgorica|Vladni
+203.99.116.100:5678|Indonesia|West Java|Kedungjaya
+103.121.214.50:4145|Indonesia|West Java|Tasikmalaya
+103.116.202.241:5678|Indonesia|Jakarta|Jakarta
+103.116.203.245:40927|Indonesia|Jakarta|Grogol
+112.78.170.251:5678|Indonesia|Central Java|Rejanegara
+103.111.29.130:4153|Indonesia|Central Kalimantan|Palangkaraya
+45.125.222.125:47239|Bangladesh|Dhaka Division|Dhaka
+187.157.153.214:5678|Mexico|Veracruz|Veracruz
+45.117.228.97:4145|Malaysia|Selangor|Petaling Jaya
 103.114.98.205:1080|Bangladesh|Chittagong|Feni
-217.117.142.18:3629|Poland|Lesser Poland|Tarnów
-103.166.38.65:3629|Bangladesh|Dhaka Division|Azimpur
-80.80.167.249:10801|Kosovo|Pristina|Pristina
-89.161.90.225:5678|Poland|Podlasie|Siemiatycze
-45.232.226.137:52104|Brazil|Pernambuco|Sao Jose do Egito
-177.105.68.177:4153|Brazil|Pernambuco|Jaboatao dos Guararapes
-191.7.208.101:31576|Brazil|Ceara|Novo Oriente
-45.163.203.1:4145|Brazil|Rio Grande do Sul|Ijui
-179.189.244.225:51327|Brazil|Pernambuco|Ipojuca
+31.170.19.142:4153|Latvia|Saldus Municipality|Saldus
+185.169.181.13:4145|Turkey|Konya|Konya
+81.163.254.104:3629|Russia|Leningrad Oblast|Staraya
+81.1.195.165:4145|Russia|Novosibirsk Oblast|Novosibirsk
+177.93.78.25:4153|Brazil|Bahia|Juazeiro
