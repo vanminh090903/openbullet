@@ -1,40 +1,53 @@
-103.175.46.65:3125|Indonesia|West Java|Cirebon
-103.154.230.89:5678|Indonesia|East Java|Sukorejo
-182.53.201.115:8080|Thailand|Bangkok|Bangkok
-222.253.48.253:8080|Vietnam|Ho Chi Minh|Ho Chi Minh City
 130.41.15.76:8080|United States|Colorado|Denver
-116.197.154.65:8080|India|Uttar Pradesh|Agra
-45.175.65.190:1010|Honduras|Departamento de Yoro|El Progreso
-103.145.57.50:8080|Bangladesh|Rajshahi Division|Bogra
-176.192.70.58:8022|Russia|Moscow|Moscow
-46.101.126.180:39593|Germany|Brandenburg|Brandenburg
-177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+106.0.39.81:82|India|Telangana|Hyderabad
+188.34.140.205:8080|Germany|Saxony|Falkenstein
+177.53.152.138:999|Peru|Lima|Lima
+94.103.85.88:9300|Luxembourg|Mersch|Roost
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
 177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-170.254.201.29:3180|Brazil|Rio de Janeiro|Sao Goncalo
-200.114.87.229:8080|Argentina|Buenos Aires|Florencio Varela
-130.41.55.190:8080|United States|California|Los Angeles
-38.41.0.93:999|Venezuela|Distrito Federal|Caracas
-103.81.13.129:60714|India|Rajasthan|Bhiwadi
-41.220.238.137:82|Kenya|Nairobi Province|Nairobi
-84.22.59.149:8080|Kosovo|Pristina|Pristina
+177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+106.14.64.22:1080|Australia|New South Wales|Sydney
+176.192.70.58:8020|Russia|Moscow|Moscow
+45.189.117.42:999|Peru|Lima|Lima
+203.202.255.67:8080|Bangladesh|Dhaka Division|Dhaka
+103.130.106.153:83|India|Odisha|Balasore
+36.95.177.177:8080|Indonesia|West Nusa Tenggara|Mataram
+211.234.125.5:443|South Korea|Seoul|Seoul
+190.71.147.50:999|Colombia|Departamento del Meta|Villavicencio
+161.35.214.127:46269|United States|New York|New York
+191.97.16.117:999|Venezuela|Distrito Federal|Caracas
 181.225.107.50:999|Colombia|Departamento del Huila|Neiva
-103.214.201.209:8080|Bangladesh|Chittagong|Comilla
-111.68.31.155:8080|Indonesia|Yogyakarta|Yogyakarta
-205.207.100.81:8282|United States|Maryland|Centreville
-190.107.233.234:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-181.174.224.35:999|Peru|Lima|Lima
-31.13.33.5:8080|Russia|Moscow|Moscow
-180.149.235.39:8080|Bangladesh|Dhaka Division|Dhaka
-195.135.243.53:8080|Russia|Moscow Oblast|Krasnozavodsk
-2.184.4.66:6565|Iran|Kerman|Kerman
-170.83.77.181:999|Venezuela|Distrito Federal|Caracas
+157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
+190.217.81.59:999|Colombia|Bogota D.C.|Bogotá
+190.97.233.16:999|Venezuela|Carabobo|El Vigia
+195.24.138.114:8080|Ukraine|Lvivska Oblast|Lviv
+212.154.82.52:9090|Turkey|Istanbul|Istanbul
+46.101.126.180:39593|United States|Virginia|Ashburn
+45.169.98.73:8080|Colombia|Departamento del Putumayo|Valle del Guamuez
+189.201.242.209:999|Mexico|Baja California|Mexicali
+103.48.68.36:83|India|Telangana|Hyderabad
+103.175.46.39:3125|Indonesia|West Java|Cirebon
+41.222.209.12:808|Nigeria|FCT|Abuja
+170.0.87.207:999|Argentina|Misiones|Andresito
+114.6.227.28:8080|Indonesia|West Sumatra|Padang
+103.175.46.42:3125|Indonesia|West Java|Cirebon
+186.3.38.202:999|Ecuador|Provincia del Azuay|Cuenca
 41.222.209.9:808|Nigeria|FCT|Abuja
-45.174.77.241:999|Mexico|Chihuahua|Chihuahua City
-191.102.107.235:999|Colombia|Departamento de Santander|Bucaramanga
-185.190.38.150:8080|Serbia|Central Serbia|Belgrade
-158.69.53.98:9300|Germany|Bavaria|Haßfurt
-201.77.108.192:999|Mexico|Chihuahua|Chihuahua City
-202.29.237.210:3128|Thailand|Bangkok|Bangkok
-110.78.114.161:8080|Thailand|Phayao|Ban Mai
-200.85.183.100:8080|Argentina|Neuquen|Neuquén
-181.10.117.254:999|Argentina|Tucuman|La Cocha
+45.189.252.193:999|Mexico|Veracruz|Alvarado
+60.21.210.178:10808|China|Liaoning|Xinmin
+79.253.201.252:8080|Germany|Bavaria|Freilassing
+189.201.153.91:999|Mexico|Chiapas|Tuxtla Gutiérrez
+130.41.55.190:8080|United States|California|Los Angeles
+103.81.194.174:3125|Indonesia|West Java|Bogor
+177.23.54.10:6006|Brazil|Rio Grande do Sul|Imigrante
+213.6.156.89:19000|Palestine|Gaza|Gaza
+180.210.184.226:8080|Bangladesh|Dhaka Division|Dhaka
+45.234.2.253:9898|Brazil|Parana|Cascavel
+103.164.151.51:3125|Indonesia|Riau|Pekanbaru
+45.173.44.9:999|Colombia|Departamento de Sucre|San Andres de Palomo
+103.81.152.10:8080|India|Rajasthan|Jaipur
+27.131.179.216:10443|Thailand|Phra Nakhon Si Ayutthaya|Ayutthaya
+201.77.108.130:999|Mexico|Chihuahua|Jimenez
+92.51.31.177:8080|Ukraine|Crimea|Simferopol
+191.97.16.110:999|Venezuela|Distrito Federal|Caracas
+162.252.144.161:8282|United States|Indiana|Williamsburg
