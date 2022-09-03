@@ -1,61 +1,66 @@
 130.41.55.190:8080|United States|California|Los Angeles
 130.41.15.76:8080|United States|Colorado|Denver
-45.175.239.192:999|Mexico|Hidalgo|Atitalaquia
-190.90.224.122:999|Colombia|Departamento del Cauca|Popayán
-189.164.87.79:10101|Mexico|Puebla|Puebla City
-170.83.77.225:999|Venezuela|Distrito Federal|Caracas
-102.68.129.54:8080|Libya|Tripoli|Tripoli
-176.192.70.58:8025|Russia|Moscow|Moscow
-45.189.254.10:999|Mexico|Veracruz|Alvarado
-200.85.183.99:8080|Argentina|Neuquen|Neuquén
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-200.12.133.6:8080|Argentina|Mendoza|Mendoza
-103.48.68.36:83|India|Telangana|Hyderabad
-103.170.255.84:51372|Netherlands|North Holland|Haarlem
-122.102.118.82:8080|Iraq|Baghdad|Baghdad
-5.58.110.249:8080|Ukraine|Kyiv City|Kyiv
-161.35.214.127:43241|France|Île-de-France|Paris
-113.160.208.255:8080|Vietnam|Hanoi|Hanoi
-103.75.27.58:8087|Indonesia|West Java|Bekasi
-182.16.171.65:43188|Indonesia|Jakarta|Jakarta
-121.101.133.70:8080|Indonesia|Central Java|Kebumen Satu
-43.243.174.3:83|India|Maharashtra|Pune
-181.78.22.15:999|Colombia|Departamento de La Guajira|Maicao
-181.129.208.27:999|Colombia|Departamento de Risaralda|Pereira
-38.10.247.165:9991|United States|Florida|Boca Raton
-201.71.2.132:999|Venezuela|Distrito Federal|Caracas
-201.184.107.26:999|Colombia|Bogota D.C.|Bogotá
-103.153.247.35:3125|Indonesia|Jakarta|Jakarta
-103.164.151.52:3125|Indonesia|Riau|Pekanbaru
-160.226.132.33:8080|South Africa|Western Cape|Gansbaai
-45.179.200.129:999|Colombia|Bogota D.C.|Bogotá
-103.164.151.51:3125|Indonesia|Riau|Pekanbaru
-191.97.9.133:999|Colombia|Bogota D.C.|Bogotá
-66.96.241.162:3125|Indonesia|Central Java|Kudus
+170.83.77.125:999|Venezuela|Distrito Federal|Caracas
+167.172.173.210:38155|Germany|Brandenburg|Brandenburg
 190.71.147.50:999|Colombia|Departamento del Meta|Villavicencio
-167.172.96.117:40625|Germany|Brandenburg|Brandenburg
-95.216.12.141:22212|Sweden|Östergötland|Linköping
-103.15.140.121:44759|Bangladesh|Rangpur Division|Thakurgaon
+170.83.77.33:999|Venezuela|Distrito Federal|Caracas
+176.192.70.58:8025|Russia|Moscow|Moscow
+85.25.91.141:32839|Germany|Brandenburg|Brandenburg
+198.27.74.6:9300|Germany|Brandenburg|Brandenburg
+85.25.91.141:32857|Germany|Land Berlin|Berlin
+103.153.247.35:3125|Indonesia|Jakarta|Jakarta
+177.12.238.1:3128|Brazil|Bahia|Simoes Filho
+79.101.55.161:53281|Serbia|Belgrade|Belgrade
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+200.12.133.6:8080|Argentina|Mendoza|Mendoza
+45.239.123.18:999|Chile|Santiago Metropolitan|Santiago
+45.189.117.42:999|Peru|Lima|Lima
+102.68.128.210:8080|Libya|Tripoli|Tripoli
+167.172.173.210:37823|Germany|Land Berlin|Berlin
+179.42.79.10:999|Colombia|Departamento de Arauca|Saravena
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+110.78.114.161:8080|Thailand|Chiang Mai|Chiang Mai
+14.115.104.76:808|China|Guangdong|Guangzhou
+103.85.114.244:8080|Bangladesh|Dhaka Division|Azimpur
+194.145.138.16:9090|Turkey|Istanbul|Esenyurt
+103.87.212.140:8080|Bangladesh|Dhaka Division|Dhaka
+103.175.46.69:3125|Indonesia|West Java|Cirebon
+190.104.1.19:999|Bolivia|Departamento de Santa Cruz|Santa Cruz
+167.172.96.117:40625|Canada|Ontario|Hamilton
+201.54.176.64:8080|Brazil|Ceara|Fortaleza
+181.232.190.100:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+103.154.230.89:5678|Indonesia|East Java|Sukorejo
+167.249.20.9:999|El Salvador|Departamento de San Miguel|San Miguel
+101.53.154.137:2006|United States|New York|New York
+103.250.68.10:8080|Bangladesh|Dhaka Division|Dhaka
+106.14.64.22:1080|Australia|New South Wales|Sydney
+103.166.210.123:443|Indonesia|Banten|Tangerang
 41.222.209.9:808|Nigeria|FCT|Abuja
+103.166.10.134:8181|Indonesia|East Java|Tulungagung
+190.92.67.210:999|Honduras|Departamento de Cortes|San Pedro Sula
+170.254.201.66:3180|Brazil|Rio de Janeiro|Sao Goncalo
+190.128.129.10:8080|Paraguay|Asuncion|Asunción
+47.241.189.54:3127|Indonesia|Banten|Tangerang
+45.189.58.77:9090|Ecuador|Provincia del Azuay|Cuenca
+200.106.187.246:999|Argentina|Buenos Aires|Jose Maria Ezeiza
 139.255.94.123:39635|Indonesia|Jakarta|Jakarta
-103.154.230.99:5678|Indonesia|East Java|Sukorejo
-190.109.24.210:999|Colombia|Atlántico|Barranquilla
-200.24.157.116:999|Ecuador|Provincia del Canar|Azogues
-167.172.178.193:39593|Sweden|Stockholm County|Stockholm
-165.16.5.190:9999|Libya|Sha'biyat Banghazi|Benghazi
-38.10.252.248:999|United States|Florida|Miami
-45.189.254.26:999|Mexico|Veracruz|Alvarado
-31.171.152.68:8118|Albania|Tirana|Tirana
-45.190.170.0:999|Peru|Lima|Lima
-151.22.181.214:8080|Italy|Calabria|Strongoli
-181.224.253.29:8080|Peru|Lima|Lima
-201.219.194.189:999|Colombia|Departamento de Sucre|Sincelejo
-77.46.138.49:8080|Serbia|Central Serbia|Stari Grad
-103.111.214.106:3129|Indonesia|West Java|Bekasi
-103.161.165.192:8181|Indonesia|West Java|Panumbangan
-149.202.181.48:5566|United Kingdom|England|Gloucester
-117.102.75.13:9999|Indonesia|Jakarta|Jakarta
-103.87.236.81:8080|Bangladesh|Dhaka Division|Sonargaon
-170.244.210.109:999|Ecuador|Provincia del Canar|Canar
+77.197.101.70:8118|Switzerland|Zurich|Zurich
+103.165.253.149:3125|Indonesia|East Java|Jember
+45.175.160.25:999|Argentina|Mendoza|Tunuyan
+103.164.151.51:3125|Indonesia|Riau|Pekanbaru
+211.149.155.136:8118|Denmark|Capital Region|Graested
+122.102.118.82:8080|Iraq|Baghdad|Baghdad
+185.82.99.148:8099|Lebanon|Mohafazat Liban-Nord|Tripoli
+102.68.128.218:8080|Libya|Tripoli|Tripoli
+115.124.79.90:8080|Indonesia|Jakarta|Jakarta
+189.164.87.79:10101|Mexico|Puebla|Puebla City
+201.222.45.67:999|Chile|Santiago Metropolitan|Santiago
+120.78.17.9:80|China|Guangdong|Shenzhen
+103.151.177.221:8080|Indonesia|Jakarta|Utan
+201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
+191.102.68.178:999|Colombia|Bogota D.C.|Bogotá
+179.49.113.230:999|Honduras|Departamento de Francisco Morazan|Tegucigalpa
+190.109.16.147:999|Colombia|Departamento de Tolima|Ibague
+221.131.229.54:7890|United States|Illinois|Chicago
+103.184.180.161:8080|Indonesia|Jakarta|Jakarta
+154.73.159.10:8585|South Africa|Gauteng|Meyerton
