@@ -1,17 +1,24 @@
-116.22.197.147:23456|Singapore|Central Singapore|Singapore
-113.111.107.134:23456|Hong Kong|Wong Tai Sin|San Po Kong
-221.219.97.117:1080|Hong Kong|Eastern|Causeway Bay
+27.46.73.5:23456|Hong Kong|Kwun Tong|Kowloon Bay
 49.75.218.183:1080|Hong Kong|Central and Western District|Central
-117.70.248.189:23456|United States|California|San Jose
-183.156.65.61:23456|United States|California|Edwards
-180.158.149.28:2080|Hong Kong|Central and Western District|Central
-114.241.90.164:23456|United States|California|Los Angeles
-34.172.155.209:8000|United States|Iowa|Council Bluffs
-173.230.147.173:19527|Netherlands|North Holland|Amsterdam
+116.22.197.147:23456|Singapore|Central Singapore|Singapore
 221.235.88.35:23456|Taiwan|Changhua|Chang-hua
+114.241.90.164:23456|United States|California|Los Angeles
+117.70.248.189:23456|United States|California|San Jose
+222.129.168.141:1080|Japan|Tokyo|Tokyo
+34.172.155.209:8000|United States|Iowa|Council Bluffs
+183.156.65.61:23456|United States|California|Edwards
+37.18.73.94:5566|Germany|Brandenburg|Brandenburg
+130.185.121.228:50002|Sweden|Stockholm County|Stockholm
 5.161.100.145:1080|United States|Kansas|Wichita
-212.129.42.252:63625|France|Île-de-France|Paris
-102.36.127.249:1080|South Africa|Mpumalanga|Nelspruit
-92.53.90.84:4496|United States|Texas|Dallas
-37.187.133.177:56137|South Korea|Gyeongsangbuk-do|Gumi
-37.187.133.177:56940|South Korea|Jeollabuk-do|Jeonju
+37.18.73.60:5566|Germany|Bavaria|Haßfurt
+113.111.107.134:23456|Hong Kong|Wong Tai Sin|San Po Kong
+185.139.155.155:1976|Sweden|Uppsala County|Uppsala
+221.219.97.117:1080|Hong Kong|Eastern|Causeway Bay
+109.72.225.83:9100|United States|New York|Brooklyn
+37.187.133.177:56542|South Korea|Gwangju|Buk-gu
+125.141.139.197:5566|Sweden|Stockholm County|Stockholm
+37.187.133.177:55438|India|Karnataka|Bengaluru
+222.209.29.85:23456|United States|California|Los Angeles
+210.16.73.80:1080|Philippines|Metro Manila|Manila
+138.201.140.125:15976|Germany|Saxony|Falkenstein
+37.187.133.177:55894|Singapore|South West|Singapore
