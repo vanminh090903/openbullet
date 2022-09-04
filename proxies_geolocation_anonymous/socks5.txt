@@ -1,17 +1,15 @@
-103.68.182.90:8009|Hong Kong|Islands District|Tung Chung
-203.153.36.37:7497|India|Haryana|Gurugram
-222.129.168.141:1080|Japan|Tokyo|Tokyo
-34.172.155.209:8000|United States|Iowa|Council Bluffs
-27.46.73.5:23456|Hong Kong|Kwun Tong|Kowloon Bay
 5.161.100.145:1080|United States|Kansas|Wichita
-37.18.73.60:5566|Iceland|Capital Region|Reykjavik
-66.33.212.161:15891|United States|California|Brea
-92.53.90.84:4496|United States|Texas|Dallas
-212.129.42.252:63625|France|Île-de-France|Paris
-159.69.153.169:5566|Netherlands|North Holland|Amsterdam
-221.219.97.117:1080|Hong Kong|Eastern|Causeway Bay
-222.88.201.188:7302|China|Henan|Nanyang
-66.33.214.240:17567|United States|California|Brea
-116.118.48.208:35050|Vietnam|Ho Chi Minh|Ho Chi Minh City
-45.91.92.45:15578|South Korea|Daejeon|Yuseong-gu
-166.62.52.25:15879|United States|Arizona|Scottsdale
+203.153.36.37:7497|India|Haryana|Gurugram
+34.172.155.209:8000|United States|Iowa|Council Bluffs
+114.241.90.164:23456|United States|California|Los Angeles
+37.18.73.60:5566|Germany|Brandenburg|Brandenburg
+37.187.133.177:55795|Vietnam|Hanoi|Hanoi
+112.54.33.47:7302|Hong Kong|Central and Western District|Central
+37.18.73.94:5566|Netherlands|North Holland|Alkmaar
+180.158.149.28:2080|Hong Kong|Central and Western District|Central
+130.185.121.228:50002|Sweden|Stockholm County|Stockholm
+143.248.55.62:15566|United States|Nevada|Las Vegas
+222.129.168.141:1080|Japan|Tokyo|Tokyo
+37.187.133.177:57444|South Korea|Gwangju|Gwangsan-gu
+166.62.52.25:34970|United States|Arizona|Scottsdale
+185.209.177.12:26609|United States|California|Los Angeles
