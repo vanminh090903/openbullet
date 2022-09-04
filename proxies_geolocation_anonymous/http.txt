@@ -1,67 +1,44 @@
-182.53.201.115:8080|Thailand|Bangkok|Bangkok
-201.150.117.97:999|Mexico|Hidalgo|Huichapan
-130.41.55.190:8080|United States|California|Los Angeles
-170.83.79.241:999|Venezuela|Distrito Federal|Caracas
-80.87.213.45:8080|Slovakia|Zilina|Varin
-170.83.77.125:999|Venezuela|Distrito Federal|Caracas
-167.172.96.117:40625|Netherlands|North Holland|Amsterdam
-85.25.91.141:32846|Germany|Brandenburg|Brandenburg
-102.68.128.216:8080|Libya|Tripoli|Tripoli
-177.234.217.92:999|Ecuador|Provincia de Pichincha|Quito
-176.192.70.58:8022|Russia|Moscow|Moscow
-103.135.14.176:8181|Indonesia|East Java|Malang
-191.97.16.111:999|Venezuela|Distrito Federal|Caracas
-103.109.96.69:8080|Bangladesh|Dhaka Division|Dhaka
-190.109.24.214:999|Colombia|Atlántico|Barranquilla
-198.27.74.6:9300|Netherlands|Flevoland|Dronten
-103.48.68.36:83|India|Telangana|Hyderabad
-157.119.225.245:83|India|Haryana|Gurgaon
-45.169.162.1:3128|Brazil|Bahia|Simoes Filho
-176.192.70.58:8017|Russia|Moscow|Moscow
-165.16.46.215:8080|Libya|Tripoli|Tripoli
-177.12.238.100:3128|Brazil|Bahia|Simoes Filho
-176.235.131.234:9090|Turkey|Istanbul|Istanbul
+172.105.184.208:8001|Australia|South Australia|Adelaide
 130.41.15.76:8080|United States|Colorado|Denver
-177.125.169.6:55443|Brazil|Sao Paulo|Ribeirao Pires
-103.154.230.138:8080|Indonesia|East Java|Lamongan
-200.125.171.201:9991|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
-45.224.23.148:999|Ecuador|Provincia de Manabi|Portoviejo
-181.174.224.35:999|Peru|Lima|Lima
-201.222.45.68:999|Chile|Santiago Metropolitan|Santiago
-103.69.38.1:8080|India|Uttar Pradesh|Ghaziabad
-180.210.184.226:8080|Bangladesh|Dhaka Division|Dhaka
-103.166.10.134:8181|Indonesia|East Java|Tulungagung
-189.201.242.225:999|Mexico|Baja California|Mexicali
-102.38.14.157:8080|Libya|Tripoli|Tripoli
-202.29.237.213:3128|Thailand|Bangkok|Bangkok
-159.65.69.186:9300|Canada|Ontario|Hamilton
-103.74.146.105:83|India|National Capital Territory of Delhi|Delhi
-115.124.85.20:8080|Indonesia|West Java|Bekasi
-176.192.70.58:8001|Russia|Moscow|Moscow
-41.222.209.9:808|Nigeria|FCT|Abuja
-103.154.230.129:8080|Indonesia|East Java|Lamongan
-167.172.173.210:33443|Germany|Baden-Wurttemberg|Karlsruhe
+211.234.125.5:443|South Korea|Seoul|Seoul
+188.121.20.133:8118|Netherlands|North Holland|Amsterdam
+130.41.55.190:8080|United States|California|Los Angeles
+115.147.16.112:8080|Philippines|Calabarzon|Cainta
+176.192.70.58:8014|Russia|Moscow|Moscow
 177.12.238.1:3128|Brazil|Bahia|Simoes Filho
-177.242.151.131:8080|Mexico|Oaxaca|San Juan Bautista Tuxtla
-176.192.70.58:8025|Russia|Moscow|Moscow
-190.107.237.9:999|Ecuador|Provincia del Guayas|Milagro
-190.131.250.105:999|Colombia|Departamento de Bolivar|Cartagena
-191.97.16.115:999|Venezuela|Distrito Federal|Caracas
-103.161.30.1:83|India|Telangana|Hyderabad
-154.64.211.145:999|France|Île-de-France|Paris
-27.147.193.82:8080|Bangladesh|Khulna Division|Chuadanga
-103.162.205.32:8181|Indonesia|Central Java|Magelang
-103.145.130.150:8080|Indonesia|East Java|Sidoarjo
-71.19.249.118:8001|United States|Florida|Ocala
-138.121.161.82:8093|Argentina|Santa Fe|Rosario
-37.230.195.131:8118|United States|Florida|Miami
-139.224.165.41:1080|United Kingdom|England|London
-161.35.215.107:33477|Netherlands|North Holland|Amsterdam
-95.216.64.229:22207|Sweden|Östergötland|Linköping
-41.222.209.12:808|Nigeria|FCT|Abuja
-36.66.171.243:8080|Indonesia|Jakarta|Jakarta
-41.78.212.50:8787|South Africa|Western Cape|Cape Town
-51.79.50.22:9300|Germany|Bavaria|Haßfurt
-103.59.213.29:8080|India|Maharashtra|Bharam
-101.255.127.12:8080|Indonesia|Jakarta|Jakarta
-49.128.180.178:8080|Indonesia|Yogyakarta|Yogyakarta
+177.12.238.100:3128|Brazil|Bahia|Simoes Filho
+103.87.236.81:8080|Bangladesh|Dhaka Division|Sonargaon
+45.169.162.1:3128|Brazil|Bahia|Simoes Filho
+85.25.91.141:32857|Germany|Brandenburg|Brandenburg
+103.153.246.65:3125|Indonesia|West Java|Purwakarta
+102.68.135.129:8080|Libya|Tripoli|Tripoli
+190.107.237.10:999|Ecuador|Provincia del Guayas|Milagro
+157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
+103.155.54.245:83|India|West Bengal|Haldia
+139.255.67.51:3888|Indonesia|Jakarta|Jakarta
+167.172.178.193:40269|Netherlands|North Holland|Amsterdam
+102.165.127.85:8080|Nigeria|Lagos|Lekki
+157.119.225.245:83|India|Haryana|Gurgaon
+181.118.158.134:999|Colombia|Bogota D.C.|Bogotá
+188.34.140.205:8080|Germany|Saxony|Falkenstein
+68.183.191.179:39161|United States|New Jersey|Hackensack
+116.224.117.39:8001|China|Shanghai|Shanghai
+190.61.41.125:999|Colombia|Bogota D.C.|Chapinero
+38.10.69.101:9090|Turkey|Konya|Konya
+180.211.90.70:3125|Indonesia|East Java|Madiun
+45.189.252.193:999|Mexico|Veracruz|Alvarado
+88.255.101.235:8080|Turkey|Istanbul|Orhanlı
+191.97.14.26:999|Colombia|Antioquia|Medellín
+103.71.21.185:83|India|Chhattisgarh|Bahtarai
+103.155.54.73:83|India|West Bengal|Haldia
+181.232.190.100:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+41.222.209.9:808|Nigeria|FCT|Abuja
+159.203.104.153:8200|Germany|North Rhine-Westphalia|Düsseldorf
+119.62.125.252:3128|China|Yunnan|Dali
+179.1.129.94:999|Colombia|Departamento de Tolima|Ibague
+45.181.122.74:999|Chile|Santiago Metropolitan|Santiago
+105.19.63.217:9812|South Africa|Western Cape|Cape Town
+205.207.102.9:8282|United States|Maryland|Centreville
+37.18.73.87:5566|Netherlands|North Holland|Amsterdam
+103.215.177.212:80|Indonesia|Central Java|Surakarta
+103.14.72.196:8080|Bangladesh|Dhaka Division|Dhaka
