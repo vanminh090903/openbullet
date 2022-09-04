@@ -1,12 +1,17 @@
-77.48.246.114:7497|Czechia|South Moravian|Brno
+116.22.197.147:23456|Singapore|Central Singapore|Singapore
+113.111.107.134:23456|Hong Kong|Wong Tai Sin|San Po Kong
+221.219.97.117:1080|Hong Kong|Eastern|Causeway Bay
+49.75.218.183:1080|Hong Kong|Central and Western District|Central
+117.70.248.189:23456|United States|California|San Jose
+183.156.65.61:23456|United States|California|Edwards
+180.158.149.28:2080|Hong Kong|Central and Western District|Central
+114.241.90.164:23456|United States|California|Los Angeles
 34.172.155.209:8000|United States|Iowa|Council Bluffs
-193.105.124.46:1080|Ukraine|Kharkiv|Pervomays'kyy
-37.18.73.60:5566|Netherlands|North Brabant|Roosendaal
-185.208.172.248:9051|Netherlands|Gelderland|Rozendaal
+173.230.147.173:19527|Netherlands|North Holland|Amsterdam
+221.235.88.35:23456|Taiwan|Changhua|Chang-hua
 5.161.100.145:1080|United States|Kansas|Wichita
+212.129.42.252:63625|France|Île-de-France|Paris
+102.36.127.249:1080|South Africa|Mpumalanga|Nelspruit
 92.53.90.84:4496|United States|Texas|Dallas
-37.18.73.94:5566|United States|Florida|Miami
-37.187.133.177:55208|South Korea|Gyeonggi-do|Bucheon-si
-37.187.133.177:55438|South Korea|Gyeongsangbuk-do|Sangju-si
-185.200.38.235:10820|Turkey|Hatay|Antakya
-37.187.133.177:56921|Colombia|Departamento de Norte de Santander|Cúcuta
+37.187.133.177:56137|South Korea|Gyeongsangbuk-do|Gumi
+37.187.133.177:56940|South Korea|Jeollabuk-do|Jeonju
