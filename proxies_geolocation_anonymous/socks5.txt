@@ -1,19 +1,22 @@
+103.160.56.78:10101|Indonesia|South Sumatra|Balailangu
+27.46.73.5:23456|Hong Kong|Kwun Tong|Kowloon Bay
 116.22.197.147:23456|Singapore|Central Singapore|Singapore
-113.111.107.134:23456|Hong Kong|Wong Tai Sin|San Po Kong
-180.158.149.28:2080|Hong Kong|Central and Western District|Central
-222.129.168.141:1080|Japan|Tokyo|Tokyo
-118.113.162.149:2080|Japan|Tokyo|Tokyo
-5.161.100.145:1080|United States|Kansas|Wichita
-185.200.38.235:10820|Turkey|Hatay|Antakya
-106.110.140.87:2080|United States|California|Los Angeles
+113.160.188.21:1080|Vietnam|Hanoi|Hanoi
 203.153.36.37:7497|India|Haryana|Gurugram
-173.230.147.173:19527|United States|Virginia|Reston
-37.187.133.177:56948|Brazil|Rio Grande do Sul|Nova Roma do Sul
-115.152.76.52:23456|Hong Kong|Kowloon City|Kowloon
-185.86.5.162:8975|Turkey|Istanbul|Istanbul
-37.18.73.60:5566|Germany|Bavaria|Haßfurt
-202.43.237.50:8009|Hong Kong|Tsuen Wan District|Kwai Chung
-37.18.73.94:5566|Norway|Vestfold og Telemark|Sandefjord
+106.110.140.87:2080|United States|California|Los Angeles
+114.241.90.164:23456|United States|California|Los Angeles
+5.161.100.145:1080|United States|Kansas|Wichita
+37.18.73.94:5566|Germany|Brandenburg|Brandenburg
+58.210.196.42:7302|China|Jiangsu|Suzhou
+103.68.182.90:8009|Hong Kong|Islands District|Tung Chung
+37.18.73.60:5566|Poland|Mazovia|Warsaw
+13.213.144.148:38080|Singapore|Central Singapore|Singapore
 34.172.155.209:8000|United States|Iowa|Council Bluffs
-37.221.193.221:10001|United States|New York|New York
-159.69.153.169:5566|Netherlands|North Holland|Amsterdam
+125.141.133.49:5566|Germany|Brandenburg|Brandenburg
+113.111.107.134:23456|Hong Kong|Wong Tai Sin|San Po Kong
+114.92.241.102:1080|Taiwan|Taipei City|Taipei
+115.152.76.52:23456|Hong Kong|Kowloon City|Kowloon
+185.139.155.155:1976|Sweden|Uppsala County|Uppsala
+125.141.133.98:5566|Netherlands|North Holland|Alkmaar
+37.187.133.177:56542|South Korea|Gwangju|Buk-gu
+188.127.224.46:4447|Italy|Calabria|Catanzaro
