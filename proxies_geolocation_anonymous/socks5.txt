@@ -1,13 +1,14 @@
-34.172.155.209:8000|United States|Iowa|Council Bluffs
-38.91.107.229:33881|United States|Georgia|Hawkinsville
-212.83.143.191:41669|United States|Virginia|Ashburn
-212.83.143.159:48024|United States|Virginia|Ashburn
-212.83.143.151:12891|United States|Arizona|Scottsdale
-223.223.198.206:7003|Russia|Moscow|Zelenograd
-212.83.143.159:24541|United States|Arizona|Tempe
-5.161.100.145:1080|United States|Kansas|Wichita
+134.209.143.56:7497|United States|California|Santa Clara
+157.90.75.16:7497|Germany|Saxony|Falkenstein
+190.131.198.77:7497|Colombia|Bogota D.C.|Bogotá
+193.105.124.46:1080|Ukraine|Kharkiv|Pervomays'kyy
+37.18.73.60:5566|Germany|Bavaria|Haßfurt
+203.153.36.37:7497|India|Haryana|Gurugram
+58.210.196.42:7302|China|Jiangsu|Suzhou
 174.138.176.75:62826|United States|Idaho|Victor
-37.18.73.94:5566|Germany|Bavaria|Haßfurt
-188.127.224.46:4307|United States|Texas|Spring
-212.83.143.151:23327|United States|Arizona|Tempe
-37.221.193.221:10769|United States|California|Florence-Graham
+212.83.143.159:48024|United States|Virginia|Ashburn
+212.83.143.159:24541|United States|Arizona|Tempe
+212.83.143.191:41669|United States|Virginia|Ashburn
+222.129.168.141:1080|Japan|Tokyo|Tokyo
+114.95.154.27:23456|United States|California|Los Angeles
+5.161.100.145:1080|United States|Kansas|Wichita
