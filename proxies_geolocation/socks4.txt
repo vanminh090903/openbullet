@@ -1,388 +1,420 @@
-103.140.35.11:4145|Indonesia|Jakarta|Jakarta
-113.11.138.22:5678|Indonesia|Jakarta|Jakarta
-117.102.119.150:32302|Indonesia|Jakarta|Jakarta
-182.253.158.52:5678|Indonesia|West Java|Bandung
-103.154.113.242:4153|Indonesia|East Java|Ponorogo
-202.150.164.146:5678|Indonesia|West Java|Bekasi
-49.156.42.186:5678|Cambodia|Phnom Penh|Phnom Penh
-110.78.152.90:4145|Thailand|Bangkok|Samphanthawong
-119.82.251.250:31678|Cambodia|Phnom Penh|Phnom Penh
-110.77.149.227:4153|Thailand|Prachin Buri|Kabin Buri
-110.78.82.233:5678|Thailand|Kalasin|Don Chan
-103.167.171.39:1080|Indonesia|Banten|Tangerang
-117.103.5.142:60113|Indonesia|Yogyakarta|Yogyakarta
-159.192.139.42:5678|Thailand|Bangkok|Samphanthawong
-103.94.133.90:4153|Indonesia|Banten|Tangerang
-118.39.57.75:4145|South Korea|Busan|Buk-gu
-175.100.47.144:51080|Cambodia|Phnom Penh|Phnom Penh
-89.43.5.134:3629|Iran|Tehran|Tehran
-192.252.220.92:17328|United States|California|Los Angeles
-14.63.1.108:4145|South Korea|Seoul|Gangdong-gu
-180.250.159.49:4153|Indonesia|Central Java|Semarang
-106.242.5.206:4145|South Korea|Seoul|Yangcheon-gu
+103.76.15.202:5678|Indonesia|Jakarta|Jakarta
+103.137.8.98:4153|Indonesia|Banten|South Tangerang
+183.81.156.225:5678|Indonesia|West Java|Menteng
+152.32.188.230:47611|Hong Kong|Central and Western District|Central
+103.146.184.48:1082|Indonesia|Central Java|Wonogiri
+182.23.36.82:4153|Indonesia|Jakarta|Jakarta
+103.9.188.138:52269|Cambodia|Phnom Penh|Phnom Penh
+103.147.119.3:4145|Indonesia|East Kalimantan|Samarinda
+103.5.63.213:40544|Philippines|Central Luzon|San Jose del Monte
+103.161.76.91:1080|Indonesia|East Java|Malang
+202.124.46.97:4145|Cambodia|Phnom Penh|Phnom Penh
+202.148.3.68:4153|Indonesia|Jakarta|Jakarta
+103.106.216.161:8080|Indonesia|East Java|Gresik
+139.0.21.236:5678|Indonesia|Jakarta|Jakarta
+103.221.254.7:8291|Bangladesh|Dhaka Division|Azimpur
+119.93.123.229:4145|Philippines|Central Luzon|Olongapo City
 67.201.33.10:25283|United States|California|Santa Ana
-103.249.25.50:5678|India|Gujarat|Surat
-150.129.207.84:41889|India|Gujarat|Ahmedabad
-45.127.120.178:5678|India|Maharashtra|Jalna
-187.130.139.197:37812|Mexico|Mexico City|Mexico City
+103.85.156.90:5678|Bangladesh|Rajshahi Division|Pār Naogaon
+110.78.164.188:4153|Thailand|Saraburi|Wihan Daeng
+36.89.17.227:1080|Indonesia|Jakarta|Jakarta
+192.252.220.92:17328|United States|California|Los Angeles
+103.111.29.130:4153|Indonesia|Central Kalimantan|Palangkaraya
+103.121.215.34:40927|Indonesia|West Java|Tasikmalaya
+202.162.219.10:1080|Indonesia|West Java|Pamulang
+103.14.20.225:5678|Indonesia|West Java|Bandung
+113.53.247.221:4153|Thailand|Bangkok|Khwaeng Thung Song Hong
+103.62.144.152:30590|Bangladesh|Dhaka Division|Dhaka
+121.134.198.156:4145|South Korea|Incheon|Gyeyang-gu
+27.72.145.184:5678|Vietnam|Hanoi|Hanoi
+58.75.126.235:4145|South Korea|Gyeonggi-do|Anyang-si
+1.186.213.67:5678|India|Karnataka|Bengaluru
+103.114.0.3:4153|India|Maharashtra|Mumbai
+118.67.216.94:4145|Bangladesh|Dhaka Division|Araihazar
+123.200.22.234:4153|Bangladesh|Dhaka Division|Dhaka
+103.60.212.113:51754|India|Telangana|Hyderabad
+101.51.104.72:4145|Thailand|Nakhon Pathom|Nakhon Pathom
+103.5.127.132:5678|Cambodia|Phnom Penh|Phnom Penh
+103.120.146.32:5678|Bangladesh|Dhaka Division|Dhaka
+180.180.12.51:4145|Thailand|Rayong|Ban Huai Pong
+192.154.246.163:9000|United States|North Carolina|Charlotte
+103.53.110.45:10801|India|Haryana|Sonipat
+182.52.19.222:3629|Thailand|Bangkok|Bangkok
+24.75.156.114:3366|United States|Florida|Dunnellon
+192.111.135.17:18302|United States|Georgia|Atlanta
+192.252.211.197:14921|United States|Georgia|Atlanta
+192.111.137.35:4145|United States|Georgia|Atlanta
+185.94.6.178:4145|Czechia|Ustecky kraj|Havran
+192.252.214.20:15864|United States|Georgia|Atlanta
 113.108.247.146:20086|China|Guangdong|Guangzhou
-103.87.24.34:5678|India|Haryana|Pehowa
-61.164.58.66:10800|China|Zhejiang|Yuyao
-12.109.102.86:64312|United States|West Virginia|Parkersburg
-36.111.191.127:1080|China|Zhejiang|Lipu
-204.10.182.34:39593|United States|Florida|Ocala
-50.251.146.121:5678|United States|Georgia|Baldwin
-103.254.94.154:5678|Bangladesh|Rajshahi Division|Belkuchi
-192.111.139.162:4145|United States|Georgia|Atlanta
+103.152.43.6:5678|Pakistan|Punjab|Shahkot
+187.130.139.197:37812|Mexico|Mexico City|Mexico City
+192.252.208.70:14282|United States|Georgia|Atlanta
+216.127.113.58:5678|United States|Pennsylvania|Philadelphia
+192.111.130.5:17002|United States|Georgia|Atlanta
 198.8.94.170:4145|United States|Georgia|Atlanta
 192.111.138.29:4145|United States|Georgia|Atlanta
-192.252.209.155:14455|United States|Georgia|Atlanta
-186.1.206.154:1080|Haiti|Departement de l'Ouest|Fermathe
-132.226.173.184:54154|South Korea|Seoul|Seoul
-223.223.198.206:7003|Hong Kong|Central and Western District|Central
-192.111.139.165:4145|United States|Georgia|Atlanta
-192.111.129.145:16894|United States|Georgia|Atlanta
-103.250.152.20:5678|India|Gujarat|Vadodara
-123.59.100.242:1080|China|Beijing|Beijing
-192.111.130.2:4145|United States|Georgia|Atlanta
-103.12.246.105:4145|India|Haryana|Jhajjar
-192.252.211.197:14921|United States|Georgia|Atlanta
-192.111.137.34:18765|United States|Georgia|Atlanta
-192.111.135.18:18301|United States|Georgia|Atlanta
-23.148.64.71:39593|United States|Tennessee|Millington
-8.219.135.23:443|Singapore|North West|Singapore
-176.227.155.65:9999|Spain|Andalusia|Huescar
 192.111.139.163:19404|United States|Georgia|Atlanta
-103.92.160.242:4673|Bangladesh|Dhaka Division|Paltan
-65.169.38.73:26592|United States|Georgia|Duluth
-201.184.159.28:5678|Colombia|Antioquia|Itaguei
-118.122.194.18:30522|China|Sichuan|Zhongba
-185.94.7.236:4145|Czechia|Ustecky kraj|Louny
-201.184.233.178:5678|Colombia|Antioquia|Medellín
-186.97.167.26:5678|Colombia|Antioquia|Medellín
-114.134.90.43:5678|Bangladesh|Dhaka Division|Dhaka
-217.169.213.98:1080|Serbia|Belgrade|Belgrade
-200.109.66.90:4153|Venezuela|Miranda|Caracas
-1.20.227.66:4145|Thailand|Bangkok|Khwaeng Thung Song Hong
-103.115.255.86:36331|Bangladesh|Dhaka Division|Savar Upazila
-50.197.210.138:32100|United States|Texas|Houston
+192.111.139.165:4145|United States|Georgia|Atlanta
 192.252.208.67:14287|United States|Georgia|Atlanta
-5.58.53.216:1085|Ukraine|Ternopil Oblast|Ternopil
+45.179.165.1:5678|Venezuela|Zulia|Maracaibo
+45.125.222.97:47239|Bangladesh|Dhaka Division|Dhaka
+192.111.137.34:18765|United States|Georgia|Atlanta
+198.8.94.174:39078|United States|Georgia|Atlanta
+188.95.20.138:5678|Italy|Lazio|Rome
+213.250.198.66:4145|Czechia|Pardubicky kraj|Litomyšl
+201.184.239.74:5678|Colombia|Antioquia|Medellín
+201.184.155.20:5678|Colombia|Antioquia|Medellín
+178.212.98.200:44550|Ukraine|Lviv Oblast|Lviv
+65.169.38.73:26592|United States|Georgia|Duluth
+192.111.135.18:18301|United States|Georgia|Atlanta
+78.90.252.7:4153|Bulgaria|Pazardzhik|Tserovo
+82.194.133.209:4153|Austria|Salzburg|Radstadt
+185.186.18.20:5678|Poland|Mazovia|Siedlce
 178.48.68.61:4145|Hungary|Budapest|Budapest
-89.252.12.123:5678|Ukraine|Kyiv City|Kyiv
-192.252.214.20:15864|United States|Georgia|Atlanta
-99.56.147.242:53096|United States|Texas|Allen
-178.151.134.232:5678|Ukraine|Kyiv City|Kyiv
-72.195.34.59:4145|United States|Oklahoma|Oklahoma City
-184.181.217.213:4145|United States|Oklahoma|Oklahoma City
-72.206.181.105:64935|United States|Oklahoma|Oklahoma City
-181.205.36.210:5678|Colombia|Antioquia|Medellín
-72.221.171.130:4145|United States|Illinois|Chicago
-98.162.25.7:31653|United States|Louisiana|Baton Rouge
-98.170.57.231:4145|United States|Oklahoma|Oklahoma City
+186.147.254.122:5678|Colombia|Antioquia|Medellín
+1.0.133.89:4153|Thailand|Saraburi|Ban Kaeng Khoi Nuea
+185.89.65.165:33744|Poland|Łódź Voivodeship|Tomaszów Mazowiecki
+98.178.72.21:10919|United States|Oklahoma|Oklahoma City
+70.166.167.38:57728|United States|Oklahoma|Oklahoma City
 98.188.47.150:4145|United States|Oklahoma|Oklahoma City
-184.178.172.26:4145|United States|Virginia|Roanoke
-174.75.211.222:4145|United States|Oklahoma|Oklahoma City
-184.181.217.206:4145|United States|Oklahoma|Oklahoma City
+174.77.111.197:4145|United States|Oklahoma|Oklahoma City
+184.181.217.220:4145|United States|Oklahoma|Oklahoma City
+185.188.218.14:4145|Kosovo|Prizren|Mališevo
+118.122.194.18:30522|China|Sichuan|Zhongba
 72.221.172.203:4145|United States|Oklahoma|Oklahoma City
-24.249.199.12:4145|United States|Florida|Milton
-72.195.34.60:27391|United States|Oklahoma|Oklahoma City
-72.217.216.239:4145|United States|Arizona|Phoenix
-184.178.172.3:4145|United States|Virginia|Roanoke
-188.246.181.50:4145|Russia|Moscow|Moscow
-184.181.217.194:4145|United States|Oklahoma|Oklahoma City
-98.162.25.16:4145|United States|Louisiana|Baton Rouge
-174.77.111.198:49547|United States|Oklahoma|Oklahoma City
-24.249.199.4:4145|United States|Florida|Milton
+85.196.136.9:4153|Bulgaria|Stara Zagora|Stara Zagora
+184.181.217.201:4145|United States|Oklahoma|Oklahoma City
+213.6.210.50:4153|Palestine|Ramallah|Ramallah
+72.210.252.137:4145|United States|Oklahoma|Oklahoma City
+184.178.172.14:4145|United States|Virginia|Roanoke
+72.195.114.169:4145|United States|Oklahoma|Oklahoma City
+83.166.226.72:5678|Russia|Moscow|Moscow
+70.166.167.55:57745|United States|Oklahoma|Oklahoma City
+184.181.217.213:4145|United States|Oklahoma|Oklahoma City
+184.178.172.26:4145|United States|Virginia|Roanoke
 72.210.252.134:46164|United States|Oklahoma|Oklahoma City
-46.98.247.92:1080|Ukraine|Dnipropetrovsk Oblast|Dnipro
+46.188.53.61:3629|Russia|Moscow|Moscow
+217.197.242.18:4153|Russia|Moscow Oblast|Sergiyev Posad
+213.226.11.149:59086|Bulgaria|Sofia-Capital|Sofia
+174.64.199.82:4145|United States|Oklahoma|Oklahoma City
+188.246.181.50:4145|Russia|Moscow|Moscow
+184.181.217.206:4145|United States|Oklahoma|Oklahoma City
+72.206.181.97:64943|United States|Oklahoma|Oklahoma City
+184.181.217.210:4145|United States|Oklahoma|Oklahoma City
+184.178.172.13:15311|United States|Virginia|Roanoke
+98.162.25.23:4145|United States|Louisiana|Baton Rouge
+72.206.181.103:4145|United States|Oklahoma|Oklahoma City
+184.178.172.5:15303|United States|Virginia|Roanoke
+72.206.181.123:4145|United States|Oklahoma|Oklahoma City
+72.195.34.60:27391|United States|Oklahoma|Oklahoma City
+174.75.211.222:4145|United States|Oklahoma|Oklahoma City
+184.178.172.17:4145|United States|Virginia|Roanoke
+72.221.232.152:4145|United States|Oklahoma|Oklahoma City
+80.52.223.98:5678|Poland|Pomerania|Starogard Gdański
+103.116.203.242:40927|Indonesia|Jakarta|Grogol
+185.236.46.221:5678|Ukraine|Odessa|Odessa
+98.162.25.4:31654|United States|Louisiana|Baton Rouge
+221.120.218.187:5678|Pakistan|Punjab|Sialkot
+213.91.128.99:10801|Bulgaria|Smolyan|Smolyan
+200.85.169.18:50577|Nicaragua|Departamento de Managua|Managua
+190.182.88.214:30956|Colombia|Atlántico|Barranquilla
+69.160.4.206:5678|Myanmar|Bago Region|Tharyarwady
+93.90.212.2:4153|Russia|Moscow|Moscow
+91.93.143.14:4153|Turkey|Kocaeli|Mollafeneri
+93.171.224.48:4153|Ukraine|Vinnytsya Oblast|Bershad
+184.178.172.18:15280|United States|Virginia|Roanoke
+98.170.57.231:4145|United States|Oklahoma|Oklahoma City
+188.132.146.23:1080|Turkey|Hatay|İskenderun
+98.162.25.16:4145|United States|Louisiana|Baton Rouge
+204.10.182.34:39593|United States|Florida|Ocala
+176.241.82.149:5678|Iraq|Baghdad|Baghdad
+174.64.199.79:4145|United States|Oklahoma|Oklahoma City
+159.89.228.253:38172|United States|New Jersey|North Bergen
+213.16.81.182:35559|Hungary|Borsod-Abaúj-Zemplén|Prugy
+213.172.89.227:4153|Azerbaijan|Baku City|Baku
+95.165.17.138:1080|Russia|Moscow|Moscow
+81.12.157.98:5678|Romania|Bucharest|Bucharest
+201.221.128.154:5678|Colombia|Departamento de Santander|Bucaramanga
+45.228.147.209:5678|Brazil|Paraíba|Campina Grande
+118.122.194.18:1976|China|Sichuan|Zhongba
+190.216.56.177:4153|Argentina|Cordoba|Córdoba
+177.22.203.19:4153|Brazil|Alagoas|Maceió
+93.91.201.70:5678|Iraq|Erbil|Erbil
+201.234.24.1:4153|Argentina|Cordoba|Córdoba
+200.32.105.86:4153|Argentina|Cordoba|Córdoba
+8.219.102.57:443|Singapore|North West|Singapore
+98.162.25.29:31679|United States|Louisiana|Baton Rouge
+80.68.76.178:4153|Russia|Moscow|Moscow
+176.31.226.57:16258|France|Hauts-de-France|Roubaix
+179.107.51.4:4145|Brazil|Santa Catarina|Biguacu
+143.255.178.1:4153|Chile|Santiago Metropolitan|Santiago
+72.210.221.223:4145|United States|Oklahoma|Oklahoma City
+170.231.64.112:5678|Brazil|Parana|Ivai
+186.4.125.7:5678|Argentina|Buenos Aires|Lobos
+185.20.115.118:34493|Belarus|Minsk City|Minsk
+185.89.181.212:5678|Italy|Veneto|Portogruaro
+179.108.158.204:4145|Brazil|Bahia|Teixeira de Freitas
+187.85.157.30:5678|Brazil|Santa Catarina|Caçador
+200.105.192.6:5678|Bolivia|Departamento de La Paz|La Paz
+110.185.105.210:51800|China|Sichuan|Zhongba
+196.3.97.71:5678|Mozambique|Cidade de Maputo|Maputo
+78.186.98.171:1080|Turkey|Denizli|Acıpayam
+98.162.96.53:10663|United States|Oklahoma|Oklahoma City
+46.98.193.59:5678|Ukraine|Poltava Oblast|Poltava
+154.79.250.48:5678|Kenya|Nairobi Province|Nairobi
+72.195.34.42:4145|United States|Oklahoma|Oklahoma City
+150.158.135.201:24289|China|Beijing|Haidian
+185.47.184.253:45463|Hungary|Bács-Kiskun|Ersekcsanad
+105.213.143.55:5678|South Africa|Gauteng|Soweto
+181.212.10.89:4153|Chile|Region de Valparaiso|Villa Alemana
+185.103.14.155:4153|Lebanon|South Governorate|En Nâqoûra
+72.210.221.197:4145|United States|Oklahoma|Oklahoma City
+72.195.34.41:4145|United States|Oklahoma|Oklahoma City
+177.207.165.218:5678|Brazil|Rio de Janeiro|Rio de Janeiro
+92.45.19.35:5678|Turkey|Izmir|Izmir
+102.66.233.239:5678|South Africa|Orange Free State|Middleburg
+24.249.199.12:4145|United States|Florida|Milton
+190.216.56.1:4153|Argentina|Cordoba|Córdoba
+186.201.31.189:4145|Brazil|Sao Paulo|Itapetininga
+51.38.238.251:21266|France|Hauts-de-France|Gravelines
+168.205.218.90:4145|Brazil|Minas Gerais|Campos Gerais
+185.87.121.5:8975|Turkey|Istanbul|Istanbul
+181.113.135.254:50083|Ecuador|Provincia del Guayas|Guayaquil
+46.101.99.250:56632|Germany|Hesse|Frankfurt am Main
+193.239.101.11:44712|Poland|Greater Poland|Gniezno
+139.255.136.23:5678|Indonesia|Banten|Tangerang
+118.136.131.174:5678|Indonesia|Jakarta|Jakarta
+103.206.245.65:5430|Indonesia|Jakarta|Jakarta
+49.156.42.186:5678|Cambodia|Phnom Penh|Phnom Penh
+119.18.158.130:4153|Indonesia|West Java|Pasirastana
+1.32.57.85:5678|Malaysia|Penang|Perai
+203.223.44.102:53945|Cambodia|Phnom Penh|Phnom Penh
+150.129.57.251:4153|Indonesia|Jakarta|Kuningan Barat
+103.167.171.39:1080|Indonesia|Banten|Tangerang
+36.95.122.51:5678|Indonesia|Jakarta|Jakarta
+116.206.61.179:5678|Bangladesh|Dhaka Division|Dhaka
+36.91.17.17:5678|Indonesia|Jakarta|Jakarta
+64.227.104.2:13166|United States|California|Santa Clara
+203.113.117.48:4153|Thailand|Surin|Tha Tum
+1.20.227.66:4145|Thailand|Bangkok|Khwaeng Thung Song Hong
+139.255.41.122:8291|Indonesia|Jakarta|Jakarta
+103.140.205.137:1080|Bangladesh|Chittagong|Chittagong
+101.51.121.203:4153|Thailand|Narathiwat|Rueso
+124.107.36.198:5678|Philippines|Metro Manila|Binondo
+119.17.192.97:1080|Vietnam|Hanoi|Hanoi
+103.9.134.148:5678|Bangladesh|Dhaka Division|Tongi
+23.225.14.198:59774|United States|California|Los Angeles
+202.70.68.149:1088|Nepal|Bagmati Province|Kathmandu
+103.152.89.210:4153|Indonesia|Jakarta|Jakarta
+182.93.84.43:5678|Nepal|Bagmati Province|Kathmandu
+50.237.206.174:64312|United States|Illinois|Oak Park
+70.185.95.162:39593|United States|Arkansas|Bentonville
+187.189.75.157:5678|Mexico|Mexico City|Mexico City
+103.58.75.29:5678|Bangladesh|Dhaka Division|Dhaka
+50.234.24.129:32100|United States|Virginia|Ashburn
+192.169.197.17:46313|United States|Arizona|Scottsdale
+157.230.111.195:15080|Germany|Hesse|Frankfurt am Main
+70.60.230.8:34116|United States|Virginia|Cana
+192.252.209.155:14455|United States|Georgia|Atlanta
+192.111.130.2:4145|United States|Georgia|Atlanta
+149.20.253.108:12551|United States|Indiana|Nashville
+103.75.184.179:55448|Vietnam|Hanoi|Hanoi
+102.66.225.161:5678|South Africa|Eastern Cape|Cradock
+192.111.129.145:16894|United States|Georgia|Atlanta
+80.85.98.110:5678|Malta|Tas-Sliema|Sliema
+101.51.105.84:4145|Thailand|Nakhon Pathom|Nakhon Pathom
+181.205.46.178:4666|Colombia|Antioquia|Medellín
+209.198.43.57:5678|United States|Georgia|Matthews
+202.40.177.94:5678|Bangladesh|Dhaka Division|Dhaka
+178.212.48.70:1080|Poland|Lubusz|Gmina Świebodzin
+176.113.157.149:37417|Ukraine|Kyiv Oblast|Fastiv
+93.171.224.44:4153|Ukraine|Vinnytsya Oblast|Bershad
+72.195.34.59:4145|United States|Oklahoma|Oklahoma City
+103.115.255.65:36331|Bangladesh|Dhaka Division|Savar Upazila
+200.29.109.112:14888|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+80.54.62.254:5678|Poland|Lublin|Lubartow
+217.115.213.187:4145|Romania|Suceava|Frasin
+72.210.208.101:4145|United States|Oklahoma|Oklahoma City
+79.173.75.182:3629|Russia|Leningrad Oblast|Gatchina
+98.175.31.195:4145|United States|Virginia|Norfolk
+109.197.55.234:1080|Russia|St.-Petersburg|St Petersburg
+45.5.119.86:4153|Guatemala|Departamento de Guatemala|Guatemala City
+37.18.73.94:5566|Germany|Brandenburg|Brandenburg
+213.6.68.94:5678|Palestine|Nablus|Nablus
+98.162.25.7:31653|United States|Louisiana|Baton Rouge
+72.221.232.155:4145|United States|Oklahoma|Oklahoma City
+184.178.172.28:15294|United States|Virginia|Roanoke
 72.195.114.184:4145|United States|Oklahoma|Oklahoma City
 98.170.57.249:4145|United States|Oklahoma|Oklahoma City
-72.195.34.58:4145|United States|Oklahoma|Oklahoma City
-72.210.252.137:4145|United States|Oklahoma|Oklahoma City
-31.43.63.70:4145|Ukraine|Kyiv City|Kyiv
-109.122.86.234:4153|Serbia|Central Serbia|Belgrade
-72.221.232.152:4145|United States|Oklahoma|Oklahoma City
-184.181.217.201:4145|United States|Oklahoma|Oklahoma City
-72.206.181.103:4145|United States|Oklahoma|Oklahoma City
-72.195.34.35:27360|United States|Oklahoma|Oklahoma City
-217.115.213.187:4145|Romania|Suceava|Frasin
-178.72.192.37:5678|Czechia|Moravskoslezsky kraj|Ostrava
-192.111.130.5:17002|United States|Georgia|Atlanta
-184.178.172.23:4145|United States|Virginia|Roanoke
-184.178.172.18:15280|United States|Virginia|Roanoke
-98.178.72.21:10919|United States|Oklahoma|Oklahoma City
-213.226.11.149:59086|Bulgaria|Sofia-Capital|Sofia
-178.23.90.90:4153|Slovakia|Nitra|Nové Zámky
-184.178.172.13:15311|United States|Virginia|Roanoke
-72.221.232.155:4145|United States|Oklahoma|Oklahoma City
-184.178.172.14:4145|United States|Virginia|Roanoke
-78.40.104.5:1080|Georgia|K'alak'i T'bilisi|Tbilisi
-31.172.133.253:4153|Russia|Stavropol Kray|Stavropol
-184.181.217.220:4145|United States|Oklahoma|Oklahoma City
-181.48.63.206:4153|Colombia|Bogota D.C.|Bogotá
-190.119.167.154:5678|Peru|Amazonas|Lamud
-92.45.19.44:1080|Turkey|Izmir|Izmir
-192.111.135.17:18302|United States|Georgia|Atlanta
-187.67.249.230:5678|Brazil|Rio de Janeiro|Rio de Janeiro
-185.186.18.20:5678|Poland|Mazovia|Siedlce
-80.191.40.41:5678|Iran|Tehran|Tehran
-109.224.12.170:52015|Iraq|Baghdad|Baghdad
-46.23.155.18:62638|Russia|Altai Krai|Zarinsk
-138.197.138.160:19363|Canada|Ontario|Toronto
-190.216.56.1:4153|Argentina|Cordoba|Córdoba
-70.166.167.55:57745|United States|Oklahoma|Oklahoma City
-217.64.27.144:5678|Azerbaijan|Baku City|Baku
-200.41.60.33:4153|Argentina|Cordoba|Córdoba
-177.86.182.52:4153|Brazil|Paraíba|Solanea
-186.10.10.138:5678|Chile|Santiago Metropolitan|Las Condes
-177.128.120.85:5678|Brazil|Mato Grosso do Sul|Maracaju
-179.108.158.204:4145|Brazil|Bahia|Teixeira de Freitas
-190.15.252.205:3629|Argentina|Buenos Aires|Chivilcoy
-174.64.199.82:4145|United States|Oklahoma|Oklahoma City
-177.136.124.45:56113|Brazil|Bahia|Lauro de Freitas
-87.121.49.238:4145|Bulgaria|Burgas|Saint Vlas
-200.43.231.16:4153|Argentina|Misiones|Obera
-103.66.176.45:32251|Bangladesh|Dhaka Division|Dhaka
-177.85.157.25:4153|Brazil|Mato Grosso|Primavera do Leste
-201.33.161.238:4153|Brazil|Rio de Janeiro|Cachoeiras de Macacu
-45.175.178.48:4145|Brazil|Goias|Goiânia
-45.5.194.138:22222|Brazil|Para|Ruropolis
-105.213.155.211:5678|South Africa|Gauteng|Johannesburg
-192.252.215.5:16137|United States|Georgia|Atlanta
-81.199.14.17:1088|United Kingdom|England|London
-35.244.6.175:1080|India|Maharashtra|Mumbai
-197.255.254.153:5678|Nigeria|Lagos|Lagos
-174.64.199.79:4145|United States|Oklahoma|Oklahoma City
-103.38.205.3:5678|India|Gujarat|Ahmedabad
-186.97.198.18:5678|Colombia|Antioquia|Medellín
-162.243.140.82:34020|United States|California|San Francisco
-193.239.101.11:44712|Poland|Greater Poland|Gniezno
-105.213.103.171:5678|South Africa|Gauteng|Kempton Park
-46.160.90.81:5678|Ukraine|Kharkiv|Kharkiv
-210.211.122.40:42949|Vietnam|Hanoi|Hanoi
-98.175.31.195:4145|United States|Virginia|Norfolk
-118.122.194.18:2286|China|Sichuan|Zhongba
-174.77.111.197:4145|United States|Oklahoma|Oklahoma City
-37.18.73.94:5566|United States|New York|New York
-103.163.47.30:2080|China|Inner Mongolia Autonomous Region|Hohhot
-200.85.95.234:4153|Argentina|Cordoba|Monte Buey
-185.184.197.98:5678|Iraq|Erbil|Qushtepe
-134.209.105.160:47322|Singapore|South West|Singapore
-64.227.104.2:13166|United States|California|Santa Clara
-159.224.243.185:61303|Ukraine|Dnipropetrovsk Oblast|Dnipro
-196.3.97.71:5678|Mozambique|Cidade de Maputo|Maputo
-178.32.116.232:64029|France|Hauts-de-France|Roubaix
-118.122.194.18:16469|China|Sichuan|Zhongba
-182.253.158.114:4145|Indonesia|West Java|Bandung
-182.253.153.68:5678|Indonesia|Jakarta|Jakarta
-202.145.11.217:5678|Indonesia|West Java|Pamulang
-124.158.186.34:5678|Indonesia|Central Java|Semarang
-36.67.147.220:4153|Indonesia|Jakarta|Jakarta
-103.248.40.110:5678|Cambodia|Phnom Penh|Phnom Penh
-202.169.35.90:4145|Indonesia|Jakarta|Jakarta
-182.253.247.245:4153|Indonesia|Jakarta|Jakarta
-182.52.67.122:50801|Thailand|Bangkok|Lat Krabang
-46.98.193.59:5678|Ukraine|Poltava Oblast|Poltava
-103.220.205.162:4673|Bangladesh|Dhaka Division|Dhaka
-223.165.241.9:47205|South Korea|Jeollanam-do|Naju-si
-1.179.147.5:52210|Thailand|Nakhon Pathom|Sam Phran
-103.60.214.18:51754|India|Telangana|Hyderabad
-149.20.253.40:12551|United States|Indiana|Nashville
-118.174.209.124:4145|Thailand|Bangkok|Bangkok
-170.178.217.84:38882|United States|California|Santa Clarita
-50.233.42.98:30717|United States|Illinois|Evanston
-58.215.218.170:10800|China|Jiangsu|Qinnan
-67.22.223.9:39593|United States|Texas|Post
-203.113.117.50:4153|Thailand|Surin|Tha Tum
-158.140.173.212:44550|Indonesia|South Sumatra|Palembang
-37.18.73.60:5566|United States|California|Los Angeles
-103.233.152.179:1080|Indonesia|Jakarta|Jakarta
-103.87.170.101:5678|India|Rajasthan|Jaipur
-122.2.65.202:5678|Philippines|Metro Manila|Mandaluyong City
-202.21.114.134:4153|Mongolia|Ulaanbaatar Hot|Ulan Bator
-95.154.104.147:31387|Russia|Primorskiy (Maritime) Kray|Vladivostok
-43.250.81.158:34432|Bangladesh|Dhaka Division|Dhaka
-103.47.216.19:4145|India|Bihar|Patna
-187.177.30.154:4145|Mexico|Mexico City|Mexico City
-103.5.127.132:5678|Cambodia|Phnom Penh|Phnom Penh
-178.62.226.96:63216|Netherlands|North Holland|Amsterdam
-150.220.8.228:64312|United States|Kansas|Kansas City
-176.98.248.2:4153|Czechia|Central Bohemia|Ricany
-192.252.208.70:14282|United States|Georgia|Atlanta
-185.94.6.178:4145|Czechia|Ustecky kraj|Havran
-138.59.177.117:5678|Honduras|Departamento de Cortes|San Pedro Sula
-185.47.184.253:45463|Hungary|Bács-Kiskun|Ersekcsanad
-88.80.119.227:1080|Bulgaria|Blagoevgrad|Petrich
-212.39.114.139:5678|Bosnia and Herzegovina|Federation of B&H|Mostar
-82.194.133.209:4153|Austria|Salzburg|Radstadt
-150.158.135.201:24289|China|Beijing|Haidian
-212.186.125.121:5678|Austria|Vienna|Vienna
-92.242.254.15:4145|Croatia|Varazdin|Marusevec
-185.79.243.153:38431|Poland|Silesia|Myszkow
-193.169.81.91:5678|Ukraine|Ternopil Oblast|Ternopil
-37.230.154.57:3629|Russia|Moscow|Moscow
-98.162.25.23:4145|United States|Louisiana|Baton Rouge
-109.232.106.150:52435|Russia|Moscow|Moscow
-109.237.92.138:4145|Ukraine|Kyiv City|Kyiv
 93.119.166.150:5678|Moldova|Chișinău Municipality|Chisinau
-178.253.201.11:1080|Serbia|Belgrade|Belgrade
-184.178.172.28:15294|United States|Virginia|Roanoke
-174.77.111.196:4145|United States|Oklahoma|Oklahoma City
-72.210.221.197:4145|United States|Oklahoma|Oklahoma City
-184.181.217.210:4145|United States|Oklahoma|Oklahoma City
-72.210.221.223:4145|United States|Oklahoma|Oklahoma City
-98.162.25.4:31654|United States|Louisiana|Baton Rouge
-72.206.181.123:4145|United States|Oklahoma|Oklahoma City
-72.221.164.34:60671|United States|Oklahoma|Oklahoma City
-72.195.34.41:4145|United States|Oklahoma|Oklahoma City
-46.227.36.152:1080|Poland|Mazovia|Bodzanów
-46.21.77.122:4153|Russia|Tatarstan Republic|Naberezhnyye Chelny
-184.178.172.5:15303|United States|Virginia|Roanoke
-200.8.18.194:443|Venezuela|Yaracuy|Yaritagua
-84.51.56.123:4145|Turkey|Istanbul|Istanbul
-178.168.208.4:5678|Belarus|Mogilev|Babruysk
-213.226.16.46:51372|Bulgaria|Shumen|Novi Pazar
-91.150.189.122:60647|Poland|Lublin|Lublin
-72.210.208.101:4145|United States|Oklahoma|Oklahoma City
-80.80.164.164:10801|Kosovo|Pristina|Pristina
-91.225.170.25:4153|Ukraine|Odessa|Odessa
-185.190.90.2:4145|Albania|Qarku i Durresit|Durrës
-213.14.31.123:35314|Turkey|Istanbul|Kartal
-31.207.191.125:5678|Russia|Chelyabinsk Oblast|Kyshtym
-194.12.124.188:3629|Ukraine|Sebastopol City|Sevastopol
-185.139.56.133:4145|Georgia|K'alak'i T'bilisi|Tbilisi
-80.82.147.3:4153|Czechia|Moravskoslezsky kraj|Český Těšín
-89.28.32.203:57391|Moldova|Criuleni|Criuleni
-88.255.217.12:1080|Turkey|Kayseri|Kayseri
-81.24.82.69:40980|Russia|Dagestan|Makhachkala
-176.241.82.149:5678|Iraq|Baghdad|Baghdad
-176.197.103.58:4145|Russia|Kemerovo Oblast|Kemerovo
-98.162.25.29:31679|United States|Louisiana|Baton Rouge
-70.166.167.38:57728|United States|Oklahoma|Oklahoma City
-177.72.112.169:31164|Brazil|Sao Paulo|São Paulo
-95.170.201.34:43018|Iraq|Erbil|Erbil
-187.102.79.33:4145|Brazil|Sao Paulo|Catanduva
-37.228.65.107:51032|Kazakhstan|Mangistauskaya Oblast'|Aktau
-213.6.38.50:59422|Palestine|Ramallah|Ramallah
-177.54.195.48:4145|Brazil|Sao Paulo|Catanduva
-186.211.199.118:4145|Brazil|Rio Grande do Sul|Canoas
-27.147.241.134:10800|Bangladesh|Dhaka Division|Dhaka
-186.225.10.159:4153|Brazil|Santa Catarina|Videira
-50.47.75.216:5678|United States|Washington|Bellevue
-196.61.44.54:5678|Ghana|Greater Accra Region|Accra
-46.188.82.63:4153|Russia|Moscow|Moscow
-190.103.240.57:4153|Argentina|Entre Rios|Colon
-190.180.35.150:5678|Bolivia|Departamento de Santa Cruz|Santa Cruz
-213.230.109.175:5678|Uzbekistan|Tashkent|Tashkent
-103.124.137.251:1080|Indonesia|Central Java|Purbayan
-94.139.150.45:4145|Moldova|Chișinău Municipality|Chisinau
-88.247.138.7:45534|Turkey|Tekirdağ|Tekirdağ
-185.87.121.35:8975|Turkey|Istanbul|Istanbul
-184.178.172.11:4145|United States|Virginia|Roanoke
-98.162.96.53:10663|United States|Oklahoma|Oklahoma City
-103.250.153.202:41889|India|Gujarat|Vadodara
-162.243.140.82:55145|United States|California|San Francisco
-98.188.47.132:4145|United States|Oklahoma|Oklahoma City
-41.160.6.186:59881|South Africa|Western Cape|Cape Town
-116.0.56.34:1080|Pakistan|Sindh|Karachi
-173.249.33.122:30336|Germany|Bavaria|Nuremberg
-72.206.181.97:64943|United States|Oklahoma|Oklahoma City
-41.190.55.154:5678|Zimbabwe|Harare|Harare
-98.162.96.41:4145|United States|Oklahoma|Oklahoma City
-72.195.34.42:4145|United States|Oklahoma|Oklahoma City
-92.241.87.14:5678|Georgia|K'alak'i T'bilisi|Tbilisi
-137.184.100.192:37444|United States|New Jersey|North Bergen
-195.201.225.104:46688|Germany|Bavaria|Gunzenhausen
-72.221.171.135:4145|United States|Illinois|Chicago
-187.103.0.27:5678|Brazil|Bahia|Jacobina
-188.169.84.30:5678|Georgia|K'alak'i T'bilisi|Tbilisi
-105.212.100.77:5678|South Africa|Western Cape|Cape Town
-116.118.48.208:35050|Vietnam|Ho Chi Minh|Ho Chi Minh City
-119.15.83.162:5678|Cambodia|Phnom Penh|Phnom Penh
-192.9.241.231:19860|United States|California|San Jose
-192.9.241.51:26568|United States|California|San Jose
-121.66.198.76:4145|South Korea|Gyeonggi-do|Bucheon-si
-132.226.229.192:15263|South Korea|Seoul|Seoul
-198.8.94.174:39078|United States|Georgia|Atlanta
-166.62.82.118:26811|United States|Arizona|Scottsdale
-168.138.162.66:1080|Singapore|South East|Singapore
-2.137.22.252:4153|Spain|Canary Islands|Adeje
-95.216.181.107:9080|Germany|Saxony|Dresden
-209.141.56.216:10898|United States|Nevada|Las Vegas
-192.169.197.17:64685|United States|Arizona|Scottsdale
-193.110.115.220:5678|Ukraine|Donetsk Oblast|Kramatorsk
-103.206.245.65:5430|Indonesia|Jakarta|Jakarta
-103.101.231.125:5678|Indonesia|Jakarta|Jakarta
-122.200.144.132:3629|Indonesia|Banten|South Tangerang
-138.197.138.160:26872|Canada|Ontario|Toronto
-121.101.131.91:1080|Indonesia|Central Java|Klaten
-117.102.78.166:1080|Indonesia|Jakarta|Jakarta
-158.140.185.64:5678|Indonesia|Jakarta|Jakarta
-103.38.102.243:5678|Indonesia|Central Java|Purwokerto
-152.32.84.108:4153|Philippines|Calabarzon|Naic
-110.77.149.50:5678|Thailand|Bangkok|Samphanthawong
-103.161.76.91:1080|Indonesia|East Java|Malang
-36.66.43.157:5678|Indonesia|Riau|Pekanbaru
-36.94.139.210:5678|Indonesia|West Java|Bogor
-36.95.171.107:5678|Indonesia|West Java|Babakangarut
-116.204.229.97:4145|Bangladesh|Dhaka Division|Dhaka
-101.109.23.73:4145|Thailand|Nakhon Nayok|Ongkharak
-118.172.228.137:4145|Thailand|Prachuap Khiri Khan|Kui Buri
-124.105.29.181:13629|Philippines|Calabarzon|Taytay
-59.31.90.206:4145|South Korea|North Chungcheong|Eumseong-gun
-66.42.224.229:41679|United States|Ohio|Cincinnati
-103.212.93.225:45639|India|Maharashtra|Thane
-103.132.92.114:4673|Bangladesh|Dhaka Division|Dhaka
-132.226.229.103:39553|South Korea|Seoul|Seoul
-50.237.98.130:1080|United States|Georgia|Doraville
-201.140.116.170:4153|Mexico|Sinaloa|Culiacán
-103.144.18.95:80|Indonesia|East Java|Jember
-151.232.18.66:5678|Iran|Tehran|Tehran
-103.52.252.18:5678|India|West Bengal|Kolkata
-165.84.180.124:45927|Hong Kong|Sai Kung District|Sai Kung
-103.156.248.35:1080|Indonesia|Riau|Baserah
-183.63.138.178:5678|China|Guangdong|Dongguan
-103.250.148.82:41889|India|Gujarat|Mansa
-165.22.209.96:25150|India|Karnataka|Bengaluru
-185.161.186.82:54321|Spain|Catalonia|Celra
-185.49.170.20:33626|Spain|Madrid|Madrid
-70.35.213.226:4153|Canada|Quebec|Montreal
-176.58.20.226:4153|Poland|West Pomerania|Choszczno
-129.226.92.230:443|Singapore|Central Singapore|Singapore
-192.111.137.35:4145|United States|Georgia|Atlanta
-200.116.198.140:37092|Colombia|Departamento de Caldas|Manizales
-87.197.136.58:4153|Slovakia|Kosice|Michalovce
-208.102.51.6:58208|United States|Kentucky|Alexandria
-49.231.0.178:55860|Thailand|Phuket|Chalong
-79.121.31.86:5678|Hungary|Győr-Moson-Sopron|Győr
-45.71.185.42:3629|Ecuador|Provincia de El Oro|Machala
-65.20.155.226:5678|Iraq|Baghdad|Baghdad
-80.91.120.38:5678|Albania|Tirana|Tirana
-91.199.93.32:4153|Ukraine|Kyiv City|Kyiv
-72.49.49.11:31034|United States|Ohio|Cincinnati
-184.178.172.25:15291|United States|Virginia|Roanoke
-185.236.46.221:5678|Ukraine|Odessa|Odessa
-5.44.254.40:4145|Palestinian Territory|West Bank|Ramallah
-46.188.53.61:3629|Russia|Moscow|Moscow
-195.222.107.85:4153|Romania|Harghita|Odorheiu Secuiesc
-43.129.219.169:13122|Hong Kong|Central and Western District|Hong Kong
-72.195.114.169:4145|United States|Oklahoma|Oklahoma City
-116.68.192.230:4145|Bangladesh|Dhaka Division|Dhaka
-91.121.210.56:15716|France|Hauts-de-France|Roubaix
-43.130.47.27:21127|United States|California|Santa Clara
-103.9.134.148:5678|Bangladesh|Dhaka Division|Tongi
-62.201.252.158:5678|Iraq|Sulaymaniyah|Sulaymaniyah
-45.129.123.101:4153|Turkey|Ankara|Ankara
-129.226.41.201:443|India|Maharashtra|Mumbai
-46.146.202.237:4153|Russia|Perm Krai|Perm
+176.118.46.24:1080|Ukraine|Transcarpathia|Vynohradiv
 98.162.96.52:4145|United States|Oklahoma|Oklahoma City
+213.6.33.110:4145|Palestine|Ramallah|Ramallah
+72.195.34.35:27360|United States|Oklahoma|Oklahoma City
+24.249.199.4:4145|United States|Florida|Milton
+72.217.216.239:4145|United States|Arizona|Phoenix
+98.188.47.132:4145|United States|Oklahoma|Oklahoma City
+92.42.8.23:4153|Russia|Stavropol Kray|Stavropol
+178.158.197.147:3629|Ukraine|Kyiv City|Kyiv
+188.134.9.40:1080|Russia|St.-Petersburg|St Petersburg
+109.92.138.250:5678|Serbia|Rasina|Brus
+212.200.89.10:4153|Serbia|Bor|Davidovac
+188.190.101.143:4145|Slovakia|Trencin|Uhrovec
+67.22.223.9:39593|United States|Texas|Post
+91.209.114.78:5678|Hungary|Somogy megye|Siófok
+110.76.129.229:5678|Bangladesh|Chittagong|Feni
+62.201.252.158:5678|Iraq|Sulaymaniyah|Sulaymaniyah
+185.123.235.77:5678|Italy|Apulia|Serracapriola
+92.45.19.6:1080|Turkey|Istanbul|Istanbul
+174.77.111.198:49547|United States|Oklahoma|Oklahoma City
+87.98.221.94:1000|France|Hauts-de-France|Roubaix
+5.165.2.223:3629|Russia|Sverdlovsk Oblast|Yekaterinburg
+131.161.68.41:35944|Brazil|Rio de Janeiro|Rio de Janeiro
+103.89.62.41:4153|India|Uttar Pradesh|Lucknow
+184.178.172.25:15291|United States|Virginia|Roanoke
+89.190.43.240:5678|Czechia|Kraj Vysocina|Pribyslav
+91.105.152.168:4145|Russia|Altai Krai|Barnaul
+138.97.0.125:4145|Brazil|Goias|Buriti Alegre
+5.58.33.187:5678|Ukraine|Ternopil Oblast|Ternopil
+46.23.155.18:62638|Russia|Altai Krai|Zarinsk
+102.36.134.30:5678|Nigeria|Lagos|Oshodi
+80.92.227.185:5678|Ukraine|Kharkiv|Kharkiv
+184.178.172.11:4145|United States|Virginia|Roanoke
+156.67.115.5:4145|Poland|Subcarpathia|Sanok
+158.58.133.38:5678|Russia|Krasnodarskiy Kray|Sochi
+187.44.1.248:5678|Brazil|Minas Gerais|Montes Claros
+92.62.70.233:4145|Kyrgyzstan|Gorod Bishkek|Bishkek
+177.220.243.130:4153|Brazil|Rio Grande do Sul|Porto Alegre
+37.238.134.130:31772|Iraq|Baghdad|Baghdad
+46.29.229.77:4145|Czechia|Liberecky kraj|Liberec
+190.103.240.57:4153|Argentina|Entre Rios|Colon
+200.29.8.18:5678|Chile|Santiago Metropolitan|Santiago
+170.80.33.103:5678|Brazil|Mato Grosso do Sul|Campo Grande
+138.99.93.227:4145|Brazil|Ceara|Capistrano
+170.238.180.21:4145|Brazil|Parana|Quarto Centenario
+79.151.16.40:5678|Spain|Valencia|Benidorm
+200.0.247.86:4153|Argentina|Buenos Aires F.D.|Retiro
+170.233.117.32:4153|Argentina|Santa Cruz|Río Gallegos
+105.213.155.211:5678|South Africa|Gauteng|Johannesburg
+187.44.146.2:32139|Brazil|Bahia|Salvador
+36.111.191.127:1080|China|Zhejiang|Lipu
+41.57.108.247:10801|Kenya|Nairobi Province|Nairobi
+187.19.127.246:8011|Brazil|Paraíba|Itabaiana
+88.247.138.7:45534|Turkey|Tekirdağ|Tekirdağ
+41.215.74.26:5678|Kenya|Nairobi Province|Nairobi
+109.125.132.244:30319|Iran|Tehran|Tehran
+154.72.73.226:4145|Tanzania|Dar es Salaam Region|Dar es Salaam
+177.74.157.169:5678|Brazil|Para|Santarém
+105.212.59.126:5678|South Africa|Gauteng|Pretoria
+84.238.244.85:4145|Bulgaria|Sofia-Capital|Novi Iskar
+8.210.154.47:53367|Hong Kong|Central and Western District|Central
+169.255.189.105:4145|Democratic Republic of the Congo|Maniema|Kindu
+103.209.207.92:5678|India|Uttar Pradesh|Etah
+197.82.166.158:1080|South Africa|Gauteng|Johannesburg
+31.210.52.133:29242|Turkey|Istanbul|Eyüpsultan
+72.221.171.130:4145|United States|Illinois|Chicago
+142.93.143.192:60096|Netherlands|North Holland|Amsterdam
+72.206.181.105:64935|United States|Oklahoma|Oklahoma City
+188.237.60.27:1080|Moldova|Strășeni|Lozova
+184.178.172.3:4145|United States|Virginia|Roanoke
+72.221.164.34:60671|United States|Oklahoma|Oklahoma City
+109.205.243.10:5678|Slovakia|Banska Bystrica|Zvolen
+173.249.33.122:30336|Germany|Bavaria|Nuremberg
+72.195.34.58:4145|United States|Oklahoma|Oklahoma City
+167.172.23.19:13180|United States|New Jersey|Clifton
+200.0.247.83:4153|Argentina|Buenos Aires F.D.|Retiro
+154.79.249.72:5678|Kenya|Nairobi Province|Nairobi
+187.67.249.230:5678|Brazil|Rio de Janeiro|Rio de Janeiro
+154.113.67.86:5678|Nigeria|Lagos|Lagos
+138.197.138.160:35055|Canada|Ontario|Toronto
+209.141.56.216:10898|United States|Nevada|Las Vegas
+51.38.71.114:63827|United Kingdom|England|London
+98.162.96.41:4145|United States|Oklahoma|Oklahoma City
+91.121.210.56:7740|France|Hauts-de-France|Roubaix
+196.0.39.50:5678|Uganda|Central Region|Kampala
+174.77.111.196:4145|United States|Oklahoma|Oklahoma City
+168.138.162.66:1080|Singapore|South East|Singapore
+217.66.223.125:5678|Iran|Tehran|Tehran
+103.235.198.17:5678|Nepal|Bagmati Province|Kathmandu
+185.108.164.176:58154|Iran|Tehran|Tehran
+8.134.50.79:10705|China|Guangdong|Guangzhou
+51.79.51.174:10328|Canada|Quebec|Beauharnois
+185.94.218.57:44421|Ukraine|Lviv Oblast|Lviv
+198.186.192.83:9050|Romania|Bucharest|Bucharest
+129.226.212.149:443|Singapore|Central Singapore|Singapore
+192.9.241.231:19860|United States|California|San Jose
+182.253.247.245:4153|Indonesia|Jakarta|Jakarta
+103.81.64.74:1080|Indonesia|Lampung|Bandar Lampung
+202.148.12.90:51302|Indonesia|East Java|Surabaya
+123.231.185.162:1088|Indonesia|Jakarta|Jakarta
+116.118.48.140:26993|Vietnam|Ho Chi Minh|Ho Chi Minh City
+43.129.219.169:13122|Hong Kong|Central and Western District|Hong Kong
+112.215.33.114:3629|Indonesia|Banten|South Tangerang
+124.122.137.150:4153|Thailand|Bangkok|Bangkok
+36.67.63.239:38071|Indonesia|Jakarta|Srengseng Sawah
+36.78.210.176:4145|Indonesia|Jakarta|Jakarta
+218.24.16.198:36180|China|Liaoning|Shenyang
+118.172.228.137:4145|Thailand|Prachuap Khiri Khan|Kui Buri
+202.151.163.10:1080|Vietnam|Hanoi|Hanoi
+43.241.30.222:4145|India|Maharashtra|Pune
+103.66.233.153:4145|India|Maharashtra|Mumbai
+202.84.46.107:4153|Bangladesh|Dhaka Division|Dhaka
+113.161.254.4:1080|Vietnam|Hanoi|Hanoi
+110.44.113.162:5678|Nepal|Bagmati Province|Kathmandu
+50.255.17.229:32100|United States|California|Lafayette
+187.243.253.182:43015|Mexico|Sonora|Ciudad Obregón
+101.51.121.3:4153|Thailand|Narathiwat|Rueso
+103.167.170.213:1080|Indonesia|Banten|Tangerang
+113.161.248.125:1080|Vietnam|Hanoi|Hanoi
+1.0.132.249:4153|Thailand|Saraburi|Ban Kaeng Khoi Nuea
+132.226.229.192:15263|South Korea|Seoul|Seoul
+149.20.253.241:12551|United States|Indiana|Nashville
+192.111.137.37:18762|United States|Georgia|Atlanta
+208.102.51.6:58208|United States|Kentucky|Alexandria
+220.135.2.247:59171|Taiwan|Taipei City|Taipei
+203.98.76.64:5678|Mongolia|Ulaanbaatar Hot|Ulan Bator
+150.230.96.150:19291|Japan|Tokyo|Tokyo
+220.174.210.128:4145|China|Hainan|Haikou
+190.109.2.87:4145|Colombia|Departamento del Magdalena|Cienaga
+129.226.92.230:443|Singapore|Central Singapore|Singapore
+192.111.139.162:4145|United States|Georgia|Atlanta
+201.184.233.178:5678|Colombia|Antioquia|Medellín
+69.61.200.104:36181|United States|Kentucky|Covington
+162.12.217.9:3629|France|Île-de-France|Paris
+192.252.215.5:16137|United States|Georgia|Atlanta
+213.135.234.101:4153|Luxembourg|Luxembourg|Luxembourg
+45.156.176.1:4153|Spain|Andalusia|Seville
+202.144.134.150:5678|Bhutan|Thimphu Dzongkhag|Thimphu
+89.161.89.161:5678|Poland|Podlasie|Siemiatycze
+213.97.98.89:4153|Spain|Madrid|Galapagar
+181.48.193.42:2580|Colombia|Bogota D.C.|Bogotá
+66.42.224.229:41679|United States|Ohio|Cincinnati
+89.41.106.8:4145|Moldova|Floreşti|Floresti
+78.128.124.9:60536|Bulgaria|Smolyan|Borino
+91.213.119.246:46024|Ukraine|Vinnytsya Oblast|Vinnytsia
+185.14.121.211:7890|France|Pays de la Loire|Pornic
+193.105.62.11:58973|Ukraine|Zhytomyr|Liubar
+138.68.17.164:6785|United States|California|Santa Clara
+77.89.204.254:4145|Moldova|Chișinău Municipality|Chisinau
+92.207.253.226:4145|United Kingdom|England|Newbury
+78.40.104.5:1080|Georgia|K'alak'i T'bilisi|Tbilisi
+200.27.110.29:57702|Chile|Santiago Metropolitan|Santiago
+31.179.162.78:4153|Poland|Mazovia|Warsaw
 146.56.101.251:59566|South Korea|Gangwon-do|Chuncheon
-201.219.156.18:5678|Chile|Santiago Metropolitan|San Bernardo
-80.80.167.249:10801|Kosovo|Pristina|Pristina
-190.12.95.170:37209|Peru|Lima|Lima
-192.12.112.70:4145|Brazil|Sao Paulo|Monte Azul Paulista
-92.119.74.249:5678|Spain|Madrid|Madrid
-186.208.19.61:5678|Brazil|Rio Grande do Sul|Camaqua
-150.230.249.37:22913|South Korea|Gangwon-do|Chuncheon
-217.197.242.18:4153|Russia|Moscow Oblast|Sergiyev Posad
+91.225.226.39:55455|Ukraine|Kyiv City|Kyiv
+188.235.34.146:1080|Russia|Voronezh Oblast|Voronezh
+85.132.8.219:4153|Azerbaijan|Baku City|Baku
+185.189.186.19:1080|Ukraine|Chernivtsi Oblast|Chernivtsi
+204.15.76.133:45013|United States|California|Santa Clarita
+82.103.118.42:1099|Bulgaria|Sofia-Capital|Sofia
+43.153.62.242:443|United States|California|Santa Clara
+129.226.41.201:443|India|Maharashtra|Mumbai
+213.230.109.175:5678|Uzbekistan|Tashkent|Tashkent
+185.139.155.155:1976|Sweden|Uppsala County|Uppsala
+177.128.209.90:4673|Brazil|Bahia|Salvador
+62.173.60.34:5678|Nigeria|Lagos|Lagos
+177.72.82.9:5678|Brazil|Rio Grande do Sul|Sao Gabriel
+181.229.14.123:5678|Argentina|Buenos Aires|Buenos Aires
+189.50.111.105:3629|Brazil|Sao Paulo|Bauru
+43.134.230.145:443|Singapore|North West|Singapore
