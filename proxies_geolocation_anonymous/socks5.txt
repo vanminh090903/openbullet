@@ -1,9 +1,6 @@
 114.241.90.164:23456|United States|California|Los Angeles
-187.191.53.155:7497|Mexico|Mexico City|Mexico City
-120.79.112.57:1284|Portugal|Coimbra|Miranda do Corvo
-188.127.224.46:6654|United States|Virginia|Virginia Beach
-37.18.73.94:5566|Iceland|Capital Region|Reykjavik
-37.18.73.60:5566|Germany|Bavaria|Haßfurt
-5.161.100.145:1080|United States|Kansas|Wichita
-190.2.137.129:39117|Thailand|Pathum Thani|Lam Luk Ka
-37.221.193.221:17834|United States|Minnesota|Adrian
+185.200.38.235:10820|Turkey|Hatay|Antakya
+203.153.36.37:7497|India|Haryana|Gurugram
+37.18.73.60:5566|Luxembourg|Mersch|Roost
+34.172.155.209:8000|United States|Iowa|Council Bluffs
+37.18.73.94:5566|France|Île-de-France|Paris
