@@ -1,27 +1,32 @@
-103.53.79.113:8080|Indonesia|Jakarta|Jakarta
+172.105.184.208:8001|Australia|New South Wales|Sydney
+147.139.138.14:3128|Indonesia|Jakarta|Jakarta
 130.41.15.76:8080|United States|Colorado|Denver
-176.192.70.58:8022|Russia|Moscow|Moscow
+103.53.79.113:8080|Indonesia|Jakarta|Jakarta
 200.12.133.6:8080|Argentina|Mendoza|Mendoza
-191.97.14.26:999|Colombia|Antioquia|Medellín
-190.108.82.98:999|Peru|Lima|Lima
-201.222.45.69:999|Chile|Santiago Metropolitan|Santiago
-71.19.249.118:8001|United States|New York|Port Jefferson Station
-185.190.38.154:8080|Serbia|Central Serbia|Belgrade
-45.190.170.254:999|Peru|Lima|Lima
-157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
-187.102.236.161:999|Mexico|Chihuahua|Ciudad Delicias
-41.222.209.12:808|Nigeria|FCT|Abuja
-103.5.232.145:8080|Bangladesh|Chittagong|Chittagong
-103.147.77.66:5009|Indonesia|West Nusa Tenggara|Sumbawa Besar
-202.6.227.174:3888|Indonesia|East Java|Surabaya
-190.107.237.18:999|Ecuador|Provincia del Guayas|Milagro
-103.59.213.29:8080|India|Maharashtra|Bharam
-45.236.28.68:999|Venezuela|Aragua|Turmero
-202.21.109.139:1012|Mongolia|Ulaanbaatar Hot|Ulan Bator
-139.255.94.123:39635|Indonesia|Jakarta|Jakarta
-61.7.146.7:8082|Thailand|Suphanburi|Ban Pho
-165.16.30.161:8080|Libya|Al Butnan|Tobruk
-38.41.0.91:999|Venezuela|Distrito Federal|Caracas
+213.32.75.88:9300|Germany|Brandenburg|Brandenburg
 130.41.55.190:8080|United States|California|Los Angeles
-154.113.119.50:8080|Nigeria|Lagos|Lagos
-170.79.12.72:9090|Brazil|Piaui|Teresina
+95.0.7.17:8080|Turkey|Istanbul|Orhanlı
+71.19.249.118:8001|United States|Michigan|Sterling Heights
+103.48.68.36:83|India|Telangana|Hyderabad
+182.253.6.236:8080|Indonesia|West Java|Cibuntu
+103.166.10.134:8181|Indonesia|East Java|Tulungagung
+107.152.33.142:50701|United States|New York|Buffalo
+103.155.54.73:83|India|West Bengal|Haldia
+113.160.208.255:8080|Vietnam|Hanoi|Hanoi
+170.83.108.65:8080|Argentina|Santa Fe|Totoras
+181.225.107.50:999|Colombia|Departamento del Huila|Neiva
+60.21.210.178:10808|China|Liaoning|Xinmin
+41.222.209.9:808|Nigeria|FCT|Abuja
+200.37.199.186:999|Peru|Lima|Lima
+38.41.0.92:999|Venezuela|Distrito Federal|Caracas
+187.190.252.230:999|Mexico|Hidalgo|Vicente Guerrero
+79.127.56.148:8080|Iran|Razavi Khorasan|Mashhad
+177.125.169.6:55443|Brazil|Sao Paulo|Ribeirao Pires
+167.249.20.9:999|El Salvador|Departamento de San Miguel|San Miguel
+200.48.3.226:10101|Peru|Lima|Lima
+103.161.165.208:8181|Indonesia|West Java|Panumbangan
+170.83.77.33:999|Venezuela|Distrito Federal|Caracas
+110.78.112.198:8080|Thailand|Chiang Mai|Chiang Mai
+94.103.85.88:9300|United States|Nevada|Las Vegas
+157.100.53.100:999|Ecuador|Provincia de El Oro|Machala
+185.20.198.108:8080|Iraq|Basra|Basrah
