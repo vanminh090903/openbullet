@@ -1,33 +1,24 @@
-103.141.148.62:5678|Indonesia|Aceh|Banda Aceh
-112.2.21.18:51080|China|Jiangsu|Suzhou
-70.90.67.140:54321|United States|Florida|Sarasota
-66.29.129.53:35459|United States|Nevada|Mesquite
-66.29.128.246:57334|United States|West Virginia|New Martinsville
-190.0.22.35:61155|Colombia|Antioquia|Medellín
-38.91.107.229:18691|United States|South Carolina|Okatie
-77.46.138.153:33608|Serbia|Central Serbia|Belgrade
-131.196.180.1:4153|Argentina|Cordoba|Córdoba
-45.232.226.137:52104|Brazil|Pernambuco|Sao Jose do Egito
-190.216.56.177:4153|Argentina|Cordoba|Córdoba
-177.36.185.182:5678|Brazil|Santa Catarina|Caçador
-181.209.106.186:1080|Argentina|Buenos Aires|Benavidez
-212.83.143.191:41669|United States|Virginia|Ashburn
-212.83.142.145:29177|Taiwan|Tainan|Tainan City
-37.187.133.177:55013|Vietnam|Tinh Nghe An|Vinh
+50.234.24.129:32100|United States|Virginia|Ashburn
+162.0.220.214:48045|United States|South Carolina|Okatie
+89.161.90.225:5678|Poland|Podlasie|Siemiatycze
+38.91.107.229:28184|United States|Kentucky|Irvington
+170.80.91.2:4145|Panama|Provincia de Panama|Panama City
+200.41.60.33:4153|Argentina|Cordoba|Córdoba
+181.209.106.189:1080|Argentina|Buenos Aires|Benavidez
+112.78.170.251:5678|Indonesia|Central Java|Rejanegara
+195.154.43.189:49315|Sweden|Östergötland County|Norrköping
+143.248.55.62:15566|Netherlands|North Holland|Amsterdam
+37.18.73.60:5566|Netherlands|North Holland|Amsterdam
 174.138.176.75:62826|United States|Idaho|Victor
-212.83.143.159:24541|United States|Arizona|Tempe
-119.93.122.233:4145|Philippines|Central Luzon|Olongapo City
-131.161.68.41:35944|Brazil|Rio de Janeiro|Rio de Janeiro
+1.179.173.114:4153|Thailand|Surin|Ban Rae
+221.120.99.161:5678|Bangladesh|Dhaka Division|Paltan
+191.183.77.33:5678|Brazil|Sao Paulo|Osasco
+222.124.130.197:4145|Indonesia|Jakarta|Jakarta
 212.83.143.159:48024|United States|Virginia|Ashburn
-212.200.149.242:5678|Serbia|Belgrade|Belgrade
-45.160.221.160:5678|Brazil|Pernambuco|Abreu e Lima
-37.221.193.221:36155|United States|California|Santa Clarita
-212.83.143.151:23327|United States|Arizona|Tempe
-222.124.130.196:4145|Indonesia|Jakarta|Jakarta
-159.69.153.169:5566|United States|Nevada|Las Vegas
-212.83.143.151:41709|United States|New York|New York
-37.221.193.221:29047|United States|Pennsylvania|Philadelphia
-125.141.139.198:5566|Netherlands|North Holland|Amsterdam
-202.51.123.108:5678|Indonesia|Jakarta|Jakarta
-45.7.177.85:52246|Brazil|Alagoas|Porto de Pedras
-186.211.6.137:4145|Brazil|Bahia|Brumado
+212.83.143.159:24541|United States|Arizona|Tempe
+212.83.143.151:22729|United States|Utah|Provo
+103.148.195.32:4153|Indonesia|Bali|Tabanan
+203.95.220.33:4153|Bangladesh|Dhaka Division|Dhaka
+50.96.204.3:18351|United States|Nebraska|Plymouth
+131.161.68.41:35944|Brazil|Rio de Janeiro|Rio de Janeiro
+45.232.226.158:52104|Brazil|Pernambuco|Sao Jose do Egito
