@@ -1,29 +1,63 @@
-103.94.133.92:4153|Indonesia|Banten|Tangerang
-180.250.159.49:4153|Indonesia|Central Java|Semarang
-205.177.85.134:39593|Japan|Tokyo|Tokyo
-113.53.247.221:4153|Thailand|Bangkok|Khwaeng Thung Song Hong
-103.105.103.17:3629|India|Andhra Pradesh|Guntur
-103.83.36.1:5678|India|Maharashtra|Mumbai
-212.200.89.11:4153|Serbia|Bor|Davidovac
-185.66.57.111:42647|Spain|Valencia|Ribarroja del Turia
-45.235.148.5:3629|Brazil|Sao Paulo|Mogi Guacu
-45.172.177.1:59341|Argentina|Santa Fe|Carcarana
-200.0.247.85:4153|Argentina|Buenos Aires F.D.|Retiro
-200.43.231.16:4153|Argentina|Misiones|Obera
-200.0.247.83:4153|Argentina|Buenos Aires F.D.|Retiro
-131.196.180.1:4153|Argentina|Cordoba|Córdoba
-37.187.133.177:55243|Russia|Chelyabinsk Oblast|Magnitogorsk
-115.75.189.99:4153|Vietnam|Ho Chi Minh|Ho Chi Minh City
-103.140.83.94:4145|Bangladesh|Dhaka Division|Khilgaon
+117.102.75.171:5678|Indonesia|East Java|Malang
+103.163.36.142:4145|Indonesia|East Java|Blitar
+103.197.205.80:443|Bangladesh|Dhaka Division|Dhaka
+103.111.219.138:4145|Indonesia|West Papua|Manokwari
+103.170.100.25:1080|Indonesia|Jakarta|Jakarta
+103.153.140.225:4153|India|Tamil Nadu|Coimbatore
+202.137.24.19:7890|Indonesia|Jakarta|Jakarta
+103.127.21.45:5678|India|Maharashtra|Mumbai
+202.167.222.126:4145|South Korea|Seoul|Gangdong-gu
+149.20.253.77:12551|United States|Indiana|Nashville
+103.234.128.70:38157|China|Jiangsu|Suzhou
 89.171.116.65:65000|Poland|Opole Voivodeship|Strzelce Opolskie
-217.117.142.18:3629|Poland|Lesser Poland|Tarnów
-143.255.178.1:4153|Chile|Santiago Metropolitan|Santiago
-177.93.78.25:4153|Brazil|Bahia|Juazeiro
-177.86.64.253:3629|Brazil|Sao Paulo|Aracariguama
-186.219.96.193:52017|Brazil|Sao Paulo|Ourinhos
-102.23.128.1:5678|Nigeria|FCT|Abuja
-187.189.81.144:4153|Mexico|Yucatán|Mérida
-115.243.142.185:5678|India|Assam|Guwahati
-185.208.102.71:1080|Turkey|Giresun|Giresun
-181.212.10.89:4153|Chile|Region de Valparaiso|Villa Alemana
-187.67.87.42:4145|Brazil|Rio de Janeiro|Rio de Janeiro
+84.22.45.175:1080|Albania|Tirana|Tirana
+45.190.141.241:1080|Brazil|Sao Paulo|Ferraz de Vasconcelos
+190.2.210.123:5678|Colombia|Departamento de Narino|Tuquerres
+131.196.180.1:4153|Argentina|Cordoba|Córdoba
+45.172.225.31:4153|Argentina|Mendoza|Mendoza
+155.133.83.1:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
+181.209.106.188:1080|Argentina|Buenos Aires|Benavidez
+177.72.113.225:31164|Brazil|Sao Paulo|São Paulo
+109.238.223.1:51372|Czechia|Central Bohemia|Neratovice
+37.18.73.60:5566|Germany|Bavaria|Haßfurt
+200.0.247.86:4153|Argentina|Buenos Aires F.D.|Retiro
+81.199.14.17:1088|United Kingdom|England|London
+91.150.77.58:56921|Serbia|Vojvodina|Jarak
+159.69.153.169:5566|United States|Nevada|Las Vegas
+185.86.5.162:8975|Turkey|Istanbul|Istanbul
+124.158.144.186:1080|Indonesia|East Java|Gunungsari
+117.102.115.156:4153|Indonesia|Jakarta|Jakarta
+103.94.133.91:4153|Indonesia|Banten|Tangerang
+103.229.85.22:4145|Bangladesh|Dhaka Division|Dhaka
+103.86.1.255:4145|India|Karnataka|Bengaluru
+163.53.205.225:4153|India|Tamil Nadu|Chennai
+189.201.187.3:4145|Mexico|Aguascalientes|Aguascalientes
+87.121.77.130:4145|Bulgaria|Sliven|Krushare
+88.213.214.254:4145|Bulgaria|Shumen|Yasenkovo
+62.33.235.45:4153|Russia|Ivanovo Oblast|Teykovo
+200.29.237.107:5678|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+155.133.83.109:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
+213.74.58.60:5678|Turkey|Istanbul|Istanbul
+177.12.177.53:4153|Brazil|Rio de Janeiro|Belford Roxo
+168.90.65.125:4153|Brazil|Pernambuco|Caruaru
+192.12.112.76:4145|Brazil|Sao Paulo|Monte Azul Paulista
+187.86.129.134:63253|Brazil|Rio Grande do Sul|Pelotas
+201.159.8.126:5678|United States|Illinois|Chicago
+212.129.42.252:63625|France|Île-de-France|Paris
+103.94.133.139:4153|Indonesia|Banten|Tangerang
+182.16.240.49:30617|Indonesia|Jakarta|Kuningan Barat
+103.151.140.188:4145|Indonesia|Lampung|Bandar Lampung
+159.192.145.153:5678|Thailand|Bangkok|Samphanthawong
+202.124.33.165:5678|Cambodia|Phnom Penh|Phnom Penh
+184.105.134.166:48324|United States|California|Fremont
+103.209.230.253:4153|Bangladesh|Rangpur Division|Rangpur City
+80.191.169.69:4145|Iran|Kerman|Anār
+45.229.192.61:5678|Colombia|Departamento de Caldas|Manizales
+190.205.100.129:5678|Venezuela|Miranda|Caracas
+183.88.240.139:4153|Thailand|Chon Buri|Bang Lamung
+37.230.154.57:3629|Russia|Moscow|Moscow
+217.115.213.187:4145|Romania|Suceava|Frasin
+77.46.138.33:33608|Serbia|Central Serbia|Belgrade
+200.27.110.30:57702|Chile|Santiago Metropolitan|Santiago
+200.109.65.110:4153|Venezuela|Miranda|Caracas
+187.37.121.236:4153|Brazil|Sao Paulo|São Paulo
