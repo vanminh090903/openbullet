@@ -1,168 +1,120 @@
-128.199.79.8:7497|Singapore|South West|Singapore
-159.65.4.147:7497|Singapore|Central Singapore|Singapore
-134.209.143.56:7497|United States|California|Santa Clara
-157.230.165.3:7497|United States|California|Santa Clara
-67.201.33.10:25283|United States|California|Santa Ana
-49.75.218.183:1080|Hong Kong|Central and Western District|Central
-164.90.152.213:7497|United States|California|Santa Clara
 8.210.252.121:48091|Hong Kong|Central and Western District|Central
-178.128.96.80:7497|Singapore|South West|Singapore
-192.252.208.70:14282|United States|Georgia|Atlanta
-200.16.68.111:7497|Colombia|Bogota D.C.|Bogotá
-192.111.139.165:4145|United States|Georgia|Atlanta
-192.252.208.67:14287|United States|Georgia|Atlanta
-192.252.211.197:14921|United States|Georgia|Atlanta
-165.227.79.99:7497|United States|New Jersey|Clifton
-167.71.190.131:7497|United States|New Jersey|Clifton
-51.68.123.217:7497|France|Hauts-de-France|Gravelines
-198.8.94.174:39078|United States|Georgia|Atlanta
-104.248.167.16:7497|United Kingdom|England|London
-192.111.139.163:19404|United States|Georgia|Atlanta
-198.8.94.170:4145|United States|Georgia|Atlanta
-217.182.67.139:7497|France|Hauts-de-France|Gravelines
-192.111.130.5:17002|United States|Georgia|Atlanta
-151.80.33.46:7497|France|Hauts-de-France|Roubaix
-51.178.51.28:7497|France|Hauts-de-France|Roubaix
-192.252.214.20:15864|United States|Georgia|Atlanta
-184.181.217.201:4145|United States|Oklahoma|Oklahoma City
-72.195.34.60:27391|United States|Oklahoma|Oklahoma City
-98.162.25.29:31679|United States|Louisiana|Baton Rouge
-184.178.172.18:15280|United States|Virginia|Roanoke
-98.188.47.132:4145|United States|Oklahoma|Oklahoma City
-72.206.181.97:64943|United States|Oklahoma|Oklahoma City
-184.181.217.220:4145|United States|Oklahoma|Oklahoma City
-1.57.21.59:7302|China|Heilongjiang|Harbin
-184.178.172.26:4145|United States|Virginia|Roanoke
-184.178.172.17:4145|United States|Virginia|Roanoke
-72.195.34.42:4145|United States|Oklahoma|Oklahoma City
-184.181.217.213:4145|United States|Oklahoma|Oklahoma City
-24.249.199.4:4145|United States|Florida|Milton
-24.249.199.12:4145|United States|Florida|Milton
-72.217.216.239:4145|United States|Arizona|Phoenix
-72.221.232.155:4145|United States|Oklahoma|Oklahoma City
-185.242.160.213:7497|Turkey|Istanbul|Istanbul
-70.166.167.38:57728|United States|Oklahoma|Oklahoma City
-70.166.167.55:57745|United States|Oklahoma|Oklahoma City
-72.206.181.103:4145|United States|Oklahoma|Oklahoma City
-174.64.199.82:4145|United States|Oklahoma|Oklahoma City
+167.71.227.140:7497|India|Karnataka|Bengaluru
+67.201.33.10:25283|United States|California|Santa Ana
+192.252.220.92:17328|United States|California|Los Angeles
+3.38.116.23:1080|South Korea|Seoul|Seoul
 192.111.135.18:18301|United States|Georgia|Atlanta
-174.77.111.197:4145|United States|Oklahoma|Oklahoma City
-72.221.172.203:4145|United States|Oklahoma|Oklahoma City
-98.162.25.23:4145|United States|Louisiana|Baton Rouge
-72.210.221.197:4145|United States|Oklahoma|Oklahoma City
-72.221.232.152:4145|United States|Oklahoma|Oklahoma City
-174.64.199.79:4145|United States|Oklahoma|Oklahoma City
+192.252.208.67:14287|United States|Georgia|Atlanta
+192.111.130.5:17002|United States|Georgia|Atlanta
+200.16.68.111:7497|Colombia|Bogota D.C.|Bogotá
+157.245.130.145:7497|United States|New Jersey|North Bergen
+192.111.139.162:4145|United States|Georgia|Atlanta
+198.8.94.174:39078|United States|Georgia|Atlanta
+192.111.130.2:4145|United States|Georgia|Atlanta
+192.111.137.37:18762|United States|Georgia|Atlanta
+72.206.181.105:64935|United States|Oklahoma|Oklahoma City
+51.254.211.171:7497|France|Hauts-de-France|Gravelines
+192.111.139.163:19404|United States|Georgia|Atlanta
+192.111.137.35:4145|United States|Georgia|Atlanta
+98.162.25.7:31653|United States|Louisiana|Baton Rouge
 72.195.114.169:4145|United States|Oklahoma|Oklahoma City
-184.181.217.206:4145|United States|Oklahoma|Oklahoma City
+98.162.25.16:4145|United States|Louisiana|Baton Rouge
+72.210.252.134:46164|United States|Oklahoma|Oklahoma City
+98.188.47.150:4145|United States|Oklahoma|Oklahoma City
+72.217.216.239:4145|United States|Arizona|Phoenix
+70.166.167.55:57745|United States|Oklahoma|Oklahoma City
+111.61.73.175:7302|China|Hebei|Shijiazhuang
+192.111.135.17:18302|United States|Georgia|Atlanta
+24.249.199.12:4145|United States|Florida|Milton
+72.195.34.60:27391|United States|Oklahoma|Oklahoma City
+184.178.172.5:15303|United States|Virginia|Roanoke
+159.69.117.155:42572|Germany|Saxony|Falkenstein
+70.166.167.38:57728|United States|Oklahoma|Oklahoma City
+98.162.25.4:31654|United States|Louisiana|Baton Rouge
+72.195.34.42:4145|United States|Oklahoma|Oklahoma City
+98.178.72.21:10919|United States|Oklahoma|Oklahoma City
+72.210.221.223:4145|United States|Oklahoma|Oklahoma City
+72.195.34.35:27360|United States|Oklahoma|Oklahoma City
+174.64.199.79:4145|United States|Oklahoma|Oklahoma City
+72.221.172.203:4145|United States|Oklahoma|Oklahoma City
+174.77.111.196:4145|United States|Oklahoma|Oklahoma City
+222.92.207.98:40086|China|Jiangsu|Suzhou
+184.178.172.18:15280|United States|Virginia|Roanoke
 184.181.217.194:4145|United States|Oklahoma|Oklahoma City
 98.170.57.231:4145|United States|Oklahoma|Oklahoma City
-98.162.25.4:31654|United States|Louisiana|Baton Rouge
-72.195.34.35:27360|United States|Oklahoma|Oklahoma City
-192.111.129.145:16894|United States|Georgia|Atlanta
-98.162.96.52:4145|United States|Oklahoma|Oklahoma City
-192.111.130.2:4145|United States|Georgia|Atlanta
-170.238.79.2:7497|Brazil|Sao Paulo|São Paulo
-45.185.6.35:7497|Brazil|Bahia|Salvador
-159.69.117.155:42572|Germany|Saxony|Falkenstein
-184.178.172.25:15291|United States|Virginia|Roanoke
-72.195.34.41:4145|United States|Oklahoma|Oklahoma City
-138.94.92.26:7497|Brazil|Rio Grande do Norte|Acu
-187.63.9.38:63253|Brazil|Rio de Janeiro|Nova Friburgo
-65.169.38.73:26592|United States|Georgia|Duluth
-72.210.221.223:4145|United States|Oklahoma|Oklahoma City
-61.153.42.218:7302|China|Zhejiang|Wenzhou
-45.169.70.9:7497|Brazil|Federal District|Brasília
-202.92.5.126:44879|Vietnam|Hanoi|Hanoi
-174.77.111.196:4145|United States|Oklahoma|Oklahoma City
-139.59.68.143:48922|India|Karnataka|Bengaluru
-37.18.73.60:5566|Germany|Brandenburg|Brandenburg
-20.205.32.51:39149|Hong Kong|Central and Western District|Hong Kong
-122.252.230.117:7497|India|Haryana|Gurugram
-37.99.224.225:7497|Italy|Veneto|Vigasio
-13.208.174.245:5000|Japan|Ōsaka|Osaka
-217.150.210.20:7497|Spain|Catalonia|Barcelona
-13.208.103.90:5000|Japan|Ōsaka|Osaka
-192.111.138.29:4145|United States|Georgia|Atlanta
-37.193.227.108:1080|Russia|Novosibirsk Oblast|Novosibirsk
-184.178.172.14:4145|United States|Virginia|Roanoke
-72.206.181.123:4145|United States|Oklahoma|Oklahoma City
-72.210.208.101:4145|United States|Oklahoma|Oklahoma City
-72.210.252.137:4145|United States|Oklahoma|Oklahoma City
-72.195.34.59:4145|United States|Oklahoma|Oklahoma City
-184.178.172.13:15311|United States|Virginia|Roanoke
-98.162.25.16:4145|United States|Louisiana|Baton Rouge
-72.206.181.105:64935|United States|Oklahoma|Oklahoma City
-184.178.172.11:4145|United States|Virginia|Roanoke
+98.162.25.29:31679|United States|Louisiana|Baton Rouge
+72.206.181.97:64943|United States|Oklahoma|Oklahoma City
+184.181.217.213:4145|United States|Oklahoma|Oklahoma City
+206.189.61.43:54136|Germany|Hesse|Frankfurt am Main
+37.193.233.97:1080|Russia|Novosibirsk Oblast|Novosibirsk
 184.181.217.210:4145|United States|Oklahoma|Oklahoma City
-192.111.135.17:18302|United States|Georgia|Atlanta
-98.162.25.7:31653|United States|Louisiana|Baton Rouge
-159.89.228.253:38172|United States|New Jersey|North Bergen
-72.195.34.58:4145|United States|Oklahoma|Oklahoma City
-13.208.99.150:5000|Japan|Ōsaka|Osaka
-218.1.142.227:57114|China|Shanghai|Shanghai
-98.188.47.150:4145|United States|Oklahoma|Oklahoma City
-221.195.143.239:55653|China|Hebei|Shijiazhuang
-43.240.113.88:49385|Thailand|Bangkok|Bangkok
-153.99.126.18:7302|China|Jiangsu|Qinnan
-222.92.207.102:40086|China|Jiangsu|Suzhou
-173.249.15.6:10687|Germany|Bavaria|Nuremberg
-172.105.97.61:25596|Canada|Ontario|Toronto
-98.162.96.53:10663|United States|Oklahoma|Oklahoma City
-222.92.207.98:40086|China|Jiangsu|Suzhou
-13.208.211.148:5000|Japan|Ōsaka|Osaka
-130.185.121.228:50002|Sweden|Stockholm County|Stockholm
-195.168.10.9:39301|Slovakia|Bratislava|Bratislava
-192.111.137.37:18762|United States|Georgia|Atlanta
-149.154.69.203:3080|Russia|Moscow Oblast|Skolkovo
-192.252.215.5:16137|United States|Georgia|Atlanta
-192.111.137.35:4145|United States|Georgia|Atlanta
-113.125.45.40:59290|China|Shandong|Xintai
-72.195.114.184:4145|United States|Oklahoma|Oklahoma City
-72.210.252.134:46164|United States|Oklahoma|Oklahoma City
-184.178.172.5:15303|United States|Virginia|Roanoke
-174.75.211.222:4145|United States|Oklahoma|Oklahoma City
-98.178.72.21:10919|United States|Oklahoma|Oklahoma City
+72.206.181.103:4145|United States|Oklahoma|Oklahoma City
+13.208.103.90:5000|Japan|Ōsaka|Osaka
 98.162.96.41:4145|United States|Oklahoma|Oklahoma City
-98.175.31.195:4145|United States|Virginia|Norfolk
 72.221.164.34:60671|United States|Oklahoma|Oklahoma City
-192.111.139.162:4145|United States|Georgia|Atlanta
-185.242.162.87:1080|Turkey|Istanbul|Istanbul
-1.180.49.222:7302|China|Inner Mongolia Autonomous Region|Bieligutai
-184.178.172.28:15294|United States|Virginia|Roanoke
-13.59.58.111:1080|United States|Ohio|Dublin
-43.240.113.89:45597|Thailand|Bangkok|Bangkok
-139.59.73.112:51270|India|Karnataka|Bengaluru
-174.77.111.198:49547|United States|Oklahoma|Oklahoma City
 5.181.252.102:7497|Russia|Sverdlovsk Oblast|Yekaterinburg
-192.111.137.34:18765|United States|Georgia|Atlanta
-72.221.171.130:4145|United States|Illinois|Chicago
-134.209.105.160:37397|Singapore|South West|Singapore
-69.163.252.140:10754|United States|California|Brea
-89.33.8.118:11221|Germany|Brandenburg|Brandenburg
-8.219.135.23:443|Singapore|North West|Singapore
-60.12.57.140:7302|China|Zhejiang|Hangzhou
-167.86.99.193:34990|Germany|Bavaria|Nuremberg
+8.219.150.127:443|Singapore|North West|Singapore
+170.238.79.2:7497|Brazil|Sao Paulo|São Paulo
+43.129.207.123:3001|Hong Kong|Central and Western District|Hong Kong
+5.128.73.5:1080|Russia|Novosibirsk Oblast|Novosibirsk
+72.221.232.152:4145|United States|Oklahoma|Oklahoma City
+164.163.32.3:7497|Brazil|Goias|Goiânia
+138.94.92.26:7497|Brazil|Rio Grande do Norte|Acu
+185.242.162.87:1080|Turkey|Istanbul|Istanbul
+77.220.40.102:1080|Russia|Yaroslavl Oblast|Yaroslavl
+45.169.70.9:7497|Brazil|Federal District|Brasília
+174.77.111.198:49547|United States|Oklahoma|Oklahoma City
+222.174.252.54:7302|China|Shandong|Xintai
+72.221.232.155:4145|United States|Oklahoma|Oklahoma City
+98.188.47.132:4145|United States|Oklahoma|Oklahoma City
+183.131.189.252:7302|China|Zhejiang|Huzhou
 98.170.57.249:4145|United States|Oklahoma|Oklahoma City
+72.210.252.137:4145|United States|Oklahoma|Oklahoma City
+72.195.114.184:4145|United States|Oklahoma|Oklahoma City
+72.206.181.123:4145|United States|Oklahoma|Oklahoma City
+98.175.31.195:4145|United States|Virginia|Norfolk
+192.111.138.29:4145|United States|Georgia|Atlanta
+72.210.221.197:4145|United States|Oklahoma|Oklahoma City
+72.195.34.59:4145|United States|Oklahoma|Oklahoma City
+210.211.122.40:36080|Vietnam|Hanoi|Hanoi
+1.179.220.207:7497|Thailand|Bangkok|Khwaeng Thung Song Hong
 72.221.171.135:4145|United States|Illinois|Chicago
-95.78.119.94:1080|Russia|Tatarstan Republic|Naberezhnyye Chelny
-209.141.56.216:10898|United States|Nevada|Las Vegas
-91.121.210.56:7740|France|Hauts-de-France|Roubaix
-165.154.227.154:25031|Taiwan|Taipei City|Taipei
-62.171.190.113:1080|Germany|Bavaria|Nuremberg
-46.32.230.38:35854|United Kingdom|England|Leeds
-119.91.78.149:17070|China|Beijing|Chaowai
-47.113.179.6:10705|China|Guangdong|Shenzhen
-43.134.237.27:443|Singapore|North West|Singapore
+37.18.73.60:5566|Germany|Brandenburg|Brandenburg
+184.178.172.13:15311|United States|Virginia|Roanoke
+124.107.231.80:1080|Philippines|Metro Manila|Manila
+61.153.42.218:7302|China|Zhejiang|Wenzhou
+198.8.94.170:4145|United States|Georgia|Atlanta
+192.111.139.165:4145|United States|Georgia|Atlanta
+192.252.211.197:14921|United States|Georgia|Atlanta
+174.75.211.222:4145|United States|Oklahoma|Oklahoma City
+72.221.171.130:4145|United States|Illinois|Chicago
+98.162.25.23:4145|United States|Louisiana|Baton Rouge
 192.252.209.155:14455|United States|Georgia|Atlanta
-72.49.49.11:31034|United States|Ohio|Cincinnati
-66.42.224.229:41679|United States|Ohio|Cincinnati
-43.153.62.242:443|United States|California|Santa Clara
-184.178.172.3:4145|United States|Virginia|Roanoke
-43.153.172.76:443|Japan|Tokyo|Tokyo
-129.226.32.11:443|India|Maharashtra|Mumbai
-129.226.90.152:443|Singapore|Central Singapore|Singapore
-129.226.90.16:443|Singapore|Central Singapore|Singapore
-139.180.210.227:17880|Singapore|North West|Singapore
-43.153.96.130:443|United States|California|Santa Clara
-43.152.210.70:443|India|Maharashtra|Mumbai
-129.226.209.181:443|Singapore|Central Singapore|Singapore
+23.94.73.246:1080|United States|Washington|Seattle
+72.195.34.41:4145|United States|Oklahoma|Oklahoma City
+184.181.217.220:4145|United States|Oklahoma|Oklahoma City
+98.162.96.52:4145|United States|Oklahoma|Oklahoma City
+54.36.108.221:40305|Germany|Saarland|Saarbrücken
+174.77.111.197:4145|United States|Oklahoma|Oklahoma City
+185.32.120.242:1080|Russia|Kemerovo Oblast|Kemerovo
+192.111.137.34:18765|United States|Georgia|Atlanta
+184.178.172.14:4145|United States|Virginia|Roanoke
+51.38.32.239:5678|France|Hauts-de-France|Gravelines
+37.187.133.177:55208|South Korea|Seoul|Gangnam-gu
+45.91.92.45:16995|Russia|Moscow|Moscow
+24.249.199.4:4145|United States|Florida|Milton
+91.121.210.56:15716|France|Hauts-de-France|Roubaix
+39.108.102.73:5100|China|Guangdong|Shenzhen
+165.227.79.99:7497|United States|New Jersey|Clifton
+143.248.55.62:15566|Croatia|City of Zagreb|Zagreb
+192.169.197.17:27350|United States|Arizona|Scottsdale
+209.141.56.216:10898|United States|Nevada|Las Vegas
+165.22.209.96:25150|India|Karnataka|Bengaluru
+162.243.140.82:47982|United States|California|San Francisco
+45.14.224.32:44176|Netherlands|North Holland|Amsterdam
+149.154.69.203:3080|Russia|Moscow Oblast|Skolkovo
+47.243.75.202:58853|Hong Kong|Central and Western District|Central
+162.243.140.82:46209|United States|California|San Francisco
+47.242.232.206:39426|Hong Kong|Central and Western District|Hong Kong
+5.161.100.145:1080|United States|Kansas|Wichita
+66.33.210.189:17567|United States|California|Brea
