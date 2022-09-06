@@ -1,40 +1,47 @@
-172.105.184.208:8001|Australia|Western Australia|Perth
-147.139.138.14:3128|Indonesia|Jakarta|Jakarta
+172.105.184.208:8001|Australia|Victoria|Melbourne
+124.16.71.143:4780|Hong Kong|Central and Western District|Hong Kong
 130.41.15.76:8080|United States|Colorado|Denver
-176.192.70.58:8022|Russia|Moscow|Moscow
-158.69.53.132:9300|Netherlands|North Holland|Oude Meer
-200.12.133.6:8080|Argentina|Mendoza|Mendoza
-103.145.130.150:8080|Indonesia|East Java|Sidoarjo
-190.107.233.233:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
-175.101.85.65:8080|India|Andhra Pradesh|Vijayawada
-119.2.41.85:8080|Indonesia|Jakarta|Jakarta
-190.113.41.164:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
-103.220.204.101:59570|Bangladesh|Chittagong|Feni
-110.78.114.161:8080|Thailand|Chiang Mai|Chiang Mai
-200.54.101.222:999|Chile|Santiago Metropolitan|Santiago
+159.224.232.222:3128|Ukraine|Dnipropetrovsk Oblast|Dnipro
+103.130.70.209:83|India|West Bengal|Siliguri
+177.128.44.131:6006|Brazil|Rio Grande do Sul|Canoas
+45.169.98.73:8080|Colombia|Departamento del Putumayo|Valle del Guamuez
+45.70.236.125:999|Ecuador|Provincia de Los Rios|Puebloviejo
+181.209.124.10:999|Argentina|Cordoba|Villa de Soto
+187.190.0.240:999|Mexico|San Luis Potosí|San Luis Potosí City
+103.131.18.211:3125|Indonesia|Central Java|Purbayan
+119.62.125.252:3128|China|Yunnan|Dali
+196.20.12.41:8080|Namibia|Khomas|Windhoek
+181.174.224.64:999|Peru|Lima|Lima
+45.189.252.193:999|Mexico|Veracruz|Alvarado
+177.93.51.168:999|Colombia|Departamento del Meta|Villavicencio
+157.100.53.108:999|Ecuador|Provincia de El Oro|Machala
+103.161.165.192:8181|Indonesia|West Java|Panumbangan
+95.216.12.141:22207|Sweden|Östergötland|Linköping
+110.78.112.198:8080|Thailand|Chiang Mai|Chiang Mai
+45.160.78.5:999|Argentina|Mendoza|Mendoza
+181.209.95.13:999|Argentina|Corrientes|Corrientes
+103.29.185.54:8181|Indonesia|North Sumatra|Medan
 196.44.117.51:8080|Nigeria|Akwa Ibom State|Uyo
-103.159.46.125:83|India|Gujarat|Ahmedabad
-103.148.201.76:8080|Indonesia|Central Java|Surakarta
-102.68.128.215:8080|Libya|Tripoli|Tripoli
-103.147.77.66:5021|Indonesia|West Nusa Tenggara|Sumbawa Besar
-114.6.87.177:60811|Indonesia|Jakarta|Jakarta
-71.19.249.118:8001|United States|Virginia|Virginia Beach
-202.168.69.228:8080|Malaysia|Selangor|Cyberjaya
-190.2.210.124:999|Colombia|Departamento de Narino|Tuquerres
-102.68.134.94:8080|Libya|Tripoli|Tripoli
-41.222.209.12:808|Nigeria|FCT|Abuja
+190.107.233.232:999|Ecuador|Provincia de Pichincha|Hacienda Ibarra
 41.222.209.9:808|Nigeria|FCT|Abuja
-41.180.68.195:8080|South Africa|Gauteng|Germiston
-212.175.55.158:1981|Turkey|Muğla|Mugla
-103.163.193.97:83|India|Assam|Bongaigaon
-178.176.241.248:8080|Russia|Krasnoyarskiy Kray|Krasnoyarsk
-200.229.147.2:999|Honduras|Departamento de Comayagua|Valle de Ángeles
-45.249.78.25:83|India|Telangana|Hyderabad
-87.245.209.76:8080|United Kingdom|England|City of London
-36.66.171.243:8080|Indonesia|Jakarta|Jakarta
-103.155.198.64:8080|Indonesia|West Java|Karawang
-103.162.205.251:8181|Indonesia|Central Java|Magelang
-190.90.24.13:999|Colombia|Departamento del Valle del Cauca|Santiago de Cali
-101.255.77.241:8080|Indonesia|Jakarta|Jakarta
-45.190.79.164:999|Mexico|Jalisco|Yahualica de Gonzalez Gallo
-201.217.247.162:999|Argentina|Chaco|Resistencia
+201.222.45.65:999|Chile|Santiago Metropolitan|Santiago
+41.222.209.12:808|Nigeria|FCT|Abuja
+123.200.26.214:8080|Bangladesh|Chittagong|Chittagong
+177.242.148.14:999|Mexico|Michoacán|Heroica Zitacuaro
+190.14.249.217:999|Colombia|Departamento de Santander|Bucaramanga
+106.14.64.22:1080|Australia|New South Wales|Sydney
+158.69.71.245:9300|Luxembourg|Luxembourg|Luxembourg
+78.38.100.121:8080|Iran|Tehran|Tehran
+119.2.41.201:8080|Indonesia|Jakarta|Jakarta
+103.156.75.37:8181|Indonesia|Bali|Ubud
+194.124.38.179:8181|Indonesia|East Java|Soko
+191.97.16.112:999|Venezuela|Distrito Federal|Caracas
+165.0.50.110:8080|South Africa|Western Cape|Cape Town
+103.155.234.9:8080|India|West Bengal|Bardhaman
+113.160.159.160:19132|Vietnam|Tinh Bac Giang|Bac Giang
+202.53.171.114:80|Bangladesh|Dhaka Division|Dhaka
+103.161.31.137:83|India|Telangana|Hyderabad
+102.68.134.94:8080|Libya|Tripoli|Tripoli
+45.189.255.18:999|Mexico|Veracruz|Alvarado
+102.68.135.129:8080|Libya|Tripoli|Tripoli
+130.41.55.190:8080|United States|California|Los Angeles
